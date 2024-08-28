@@ -1,0 +1,14 @@
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\bin\Release\net8.0\DemoProjekt.exe
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\bin\Release\net8.0\DemoProjekt.deps.json
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\bin\Release\net8.0\DemoProjekt.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\bin\Release\net8.0\DemoProjekt.dll
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\bin\Release\net8.0\DemoProjekt.pdb
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.dll
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\refint\DemoProjekt.dll
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.pdb
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\DemoProjekt.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleAPp\VisualStudioDemo\DemoProjekt\obj\Release\net8.0\ref\DemoProjekt.dll
