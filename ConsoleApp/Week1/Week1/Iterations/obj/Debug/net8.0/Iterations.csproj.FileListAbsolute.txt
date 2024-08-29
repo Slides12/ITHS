@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\bin\Debug\net8.0\Iterations.exe
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\bin\Debug\net8.0\Iterations.deps.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\bin\Debug\net8.0\Iterations.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\bin\Debug\net8.0\Iterations.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\bin\Debug\net8.0\Iterations.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.sourcelink.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\refint\Iterations.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\Iterations.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\Iterations\obj\Debug\net8.0\ref\Iterations.dll

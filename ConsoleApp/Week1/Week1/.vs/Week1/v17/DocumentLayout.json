@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFD980-D99B-49E9-B2AB-81206B2F9EAE}|Iterations\\Iterations.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFD980-D99B-49E9-B2AB-81206B2F9EAE}|Iterations\\Iterations.csproj|solutionrelative:iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3237B15A-3469-44EB-B47B-991F1CE85E37}|Loop Ternary\\Loop Ternary.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\loop ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3237B15A-3469-44EB-B47B-991F1CE85E37}|Loop Ternary\\Loop Ternary.csproj|solutionrelative:loop ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Program.cs",
+              "RelativeDocumentMoniker": "Iterations\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Program.cs",
+              "RelativeToolTip": "Iterations\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:38:18.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Program.cs",
+              "RelativeDocumentMoniker": "Loop Ternary\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Program.cs",
+              "RelativeToolTip": "Loop Ternary\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:37:30.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
