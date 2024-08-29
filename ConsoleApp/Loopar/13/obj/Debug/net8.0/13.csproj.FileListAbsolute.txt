@@ -1,0 +1,14 @@
+C:\Users\djoha\source\repos\Loopar\13\bin\Debug\net8.0\13.exe
+C:\Users\djoha\source\repos\Loopar\13\bin\Debug\net8.0\13.deps.json
+C:\Users\djoha\source\repos\Loopar\13\bin\Debug\net8.0\13.runtimeconfig.json
+C:\Users\djoha\source\repos\Loopar\13\bin\Debug\net8.0\13.dll
+C:\Users\djoha\source\repos\Loopar\13\bin\Debug\net8.0\13.pdb
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.AssemblyInfoInputs.cache
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.AssemblyInfo.cs
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.csproj.CoreCompileInputs.cache
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.dll
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\refint\13.dll
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.pdb
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\13.genruntimeconfig.cache
+C:\Users\djoha\source\repos\Loopar\13\obj\Debug\net8.0\ref\13.dll
