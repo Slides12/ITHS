@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djoha\\source\\repos\\Loopar\\9\\9.csproj",
+      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\9\\9.csproj",
       "projectName": "9",
-      "projectPath": "C:\\Users\\djoha\\source\\repos\\Loopar\\9\\9.csproj",
+      "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\9\\9.csproj",
       "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djoha\\source\\repos\\Loopar\\9\\obj\\",
+      "outputPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djoha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djoha\\source\\repos\\Loopar\\2\\2.csproj": {}
+    "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\2\\2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djoha\\source\\repos\\Loopar\\2\\2.csproj": {
+    "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\2\\2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djoha\\source\\repos\\Loopar\\2\\2.csproj",
+        "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\2\\2.csproj",
         "projectName": "2",
-        "projectPath": "C:\\Users\\djoha\\source\\repos\\Loopar\\2\\2.csproj",
+        "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\2\\2.csproj",
         "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djoha\\source\\repos\\Loopar\\2\\obj\\",
+        "outputPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Loopar\\2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\djoha\\AppData\\Roaming\\NuGet\\NuGet.Config",
