@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7BFD980-D99B-49E9-B2AB-81206B2F9EAE}|Iterations\\Iterations.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BFD980-D99B-49E9-B2AB-81206B2F9EAE}|Iterations\\Iterations.csproj|solutionrelative:iterations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2987083A-6503-4F98-A336-0E4F01FAEFBA}|L006_strings\\L006_strings.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\l006_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2987083A-6503-4F98-A336-0E4F01FAEFBA}|L006_strings\\L006_strings.csproj|solutionrelative:l006_strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3237B15A-3469-44EB-B47B-991F1CE85E37}|Loop Ternary\\Loop Ternary.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\loop ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3237B15A-3469-44EB-B47B-991F1CE85E37}|Loop Ternary\\Loop Ternary.csproj|solutionrelative:loop ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{585D9D35-2CF8-490D-AF23-196B727D6349}|L005Array\\L005Array.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\l005array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D9D35-2CF8-490D-AF23-196B727D6349}|L005Array\\L005Array.csproj|solutionrelative:l005array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Program.cs",
-              "RelativeDocumentMoniker": "Iterations\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Program.cs",
-              "RelativeToolTip": "Iterations\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCwAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L006_strings\\Program.cs",
+              "RelativeDocumentMoniker": "L006_strings\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L006_strings\\Program.cs",
+              "RelativeToolTip": "L006_strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:38:18.709Z",
+              "WhenOpened": "2024-08-29T09:31:24.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Program.cs",
-              "RelativeDocumentMoniker": "Loop Ternary\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Program.cs",
-              "RelativeToolTip": "Loop Ternary\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L005Array\\Program.cs",
+              "RelativeDocumentMoniker": "L005Array\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L005Array\\Program.cs",
+              "RelativeToolTip": "L005Array\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:37:30.65Z",
+              "WhenOpened": "2024-08-29T08:33:06.333Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+C:\Users\djoha\source\repos\Variables\2\bin\Debug\net8.0\2.exe
+C:\Users\djoha\source\repos\Variables\2\bin\Debug\net8.0\2.deps.json
+C:\Users\djoha\source\repos\Variables\2\bin\Debug\net8.0\2.runtimeconfig.json
+C:\Users\djoha\source\repos\Variables\2\bin\Debug\net8.0\2.dll
+C:\Users\djoha\source\repos\Variables\2\bin\Debug\net8.0\2.pdb
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.dll
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\refint\2.dll
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.pdb
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+C:\Users\djoha\source\repos\Variables\2\obj\Debug\net8.0\ref\2.dll

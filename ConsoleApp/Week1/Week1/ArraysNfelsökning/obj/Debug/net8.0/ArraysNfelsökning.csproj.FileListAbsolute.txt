@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\bin\Debug\net8.0\ArraysNfelsökning.exe
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\bin\Debug\net8.0\ArraysNfelsökning.deps.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\bin\Debug\net8.0\ArraysNfelsökning.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\bin\Debug\net8.0\ArraysNfelsökning.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\bin\Debug\net8.0\ArraysNfelsökning.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.sourcelink.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\refint\ArraysNfelsökning.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ArraysNfelsökning.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\ArraysNfelsökning\obj\Debug\net8.0\ref\ArraysNfelsökning.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loop Ternary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54389fa472a9466be6b6af9053d57f92ee3c5cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e6f8e78a397e6b36ee715b4da52ff082f7ac9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loop Ternary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loop Ternary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
