@@ -73,3 +73,21 @@ static void Greet(string namn, int gånger = 1)
 
 
 
+
+
+## Riktlinjer för att skriva tydlig kod
+
+"Make reading easy, even if it makes writing harder."
+
+"Later equals never."
+
+"There is nothing as permanent as a temporary solution."
+
+### DRY - "Don't repeat yourself."
+Man vill undvika upprepad kod. Om man upptäcker att man har samma kod upprepad om och om igen, flytta ut den i funktioner t.ex.
+
+### Kommentar i kod
+Kod ska i största möjliga mål vara självförklarande.
+
+Kommentarer bör endast förklara varför, inte hur.
+
