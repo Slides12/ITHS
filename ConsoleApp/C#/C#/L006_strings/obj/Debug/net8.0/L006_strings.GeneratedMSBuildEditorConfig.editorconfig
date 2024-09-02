@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = L006_strings
-build_property.ProjectDir = C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L006_strings\
+build_property.ProjectDir = C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L006_strings\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

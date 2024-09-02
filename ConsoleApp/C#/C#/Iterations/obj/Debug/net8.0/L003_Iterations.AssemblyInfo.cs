@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L003_Iterations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199d010b7b3b8d5e7af905024ad327c97873b1d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f596240c70614d28c1e173ee04415e76de248e69")]
 [assembly: System.Reflection.AssemblyProductAttribute("L003_Iterations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L003_Iterations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

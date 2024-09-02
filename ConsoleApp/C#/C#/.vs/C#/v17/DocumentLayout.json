@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\",
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|solutionrelative:l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|solutionrelative:l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|c:\\users\\djoha\\iths\\consoleapp\\week1\\week1\\l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|solutionrelative:l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|solutionrelative:l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,31 +21,27 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L008_Rekursiva_anrop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
               "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L008_Rekursiva_anrop\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
               "RelativeToolTip": "L008_Rekursiva_anrop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:23:41.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L007_Funktioner\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L007_Funktioner\\Program.cs",
               "RelativeDocumentMoniker": "L007_Funktioner\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\L007_Funktioner\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L007_Funktioner\\Program.cs",
               "RelativeToolTip": "L007_Funktioner\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAiwF0AAAArAAAAAAAAAA==",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T07:16:18.977Z",
               "EditorCaption": ""
