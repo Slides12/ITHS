@@ -77,6 +77,8 @@ static void Greet(string namn, int gånger = 1)
 
 ## Riktlinjer för att skriva tydlig kod
 
+Kod är främst kommunikation med andra människor.
+
 "Make reading easy, even if it makes writing harder."
 
 "Later equals never."
@@ -91,3 +93,5 @@ Kod ska i största möjliga mål vara självförklarande.
 
 Kommentarer bör endast förklara varför, inte hur.
 
+### Namngivning
+Att ge tydliga och beskrivande namn på variabler, metoder, funktioner, klasser etc, är en av de viktigaste sakerna man kan göra för att göra koden mer lättläst.
