@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\bin\Debug\net8.0\L007_Funktioner.exe
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\bin\Debug\net8.0\L007_Funktioner.deps.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\bin\Debug\net8.0\L007_Funktioner.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\bin\Debug\net8.0\L007_Funktioner.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\bin\Debug\net8.0\L007_Funktioner.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.sourcelink.json
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\refint\L007_Funktioner.dll
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.pdb
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\L007_Funktioner.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleApp\Week1\Week1\L007_Funktioner\obj\Debug\net8.0\ref\L007_Funktioner.dll

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Loop Ternary.csproj",
-      "projectName": "Loop Ternary",
-      "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\Loop Ternary.csproj",
+      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\L002_IFstatement.csproj",
+      "projectName": "L002_IFstatement",
+      "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\L002_IFstatement.csproj",
       "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Loop Ternary\\obj\\",
       "projectStyle": "PackageReference",

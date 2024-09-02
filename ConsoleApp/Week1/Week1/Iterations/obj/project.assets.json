@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Iterations.csproj",
-      "projectName": "Iterations",
-      "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\Iterations.csproj",
+      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\L003_Iterations.csproj",
+      "projectName": "L003_Iterations",
+      "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\L003_Iterations.csproj",
       "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\Week1\\Week1\\Iterations\\obj\\",
       "projectStyle": "PackageReference",
