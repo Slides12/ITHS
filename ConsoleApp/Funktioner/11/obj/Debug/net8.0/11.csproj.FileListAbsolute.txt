@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\bin\Debug\net8.0\11.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\bin\Debug\net8.0\11.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\bin\Debug\net8.0\11.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\bin\Debug\net8.0\11.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\bin\Debug\net8.0\11.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\refint\11.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\11.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\Funktioner\11\obj\Debug\net8.0\ref\11.dll
