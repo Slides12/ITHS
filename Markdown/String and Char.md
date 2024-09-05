@@ -7,7 +7,7 @@
 
 * myString.PadRight(50,'*') (Finns också, dom overrider inte OG stringen)
 
-* myString.Substring(4,3) (skriver ut myString från startvärde, sen overload 2 gör att den tar från  4an i detta fallet, 3 karaktärer framåt och pringar detta. INgen override.)
+* myString.Substring(4,3) (skriver ut myString från startvärde, sen overload 2 gör att den tar från  4an i detta fallet, 3 karaktärer framåt och printar detta. INgen override.)
 
 
 * myString.Remove(4,3) (tar bort det som Substring skulle ha printat. men printar det som är kvar. Overridar inte.)
