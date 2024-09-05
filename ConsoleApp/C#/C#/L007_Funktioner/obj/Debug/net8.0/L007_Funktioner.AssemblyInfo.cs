@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L007_Funktioner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f596240c70614d28c1e173ee04415e76de248e69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52104cf3eb2a233e62726f492f746dcdb4fbe815")]
 [assembly: System.Reflection.AssemblyProductAttribute("L007_Funktioner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L007_Funktioner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

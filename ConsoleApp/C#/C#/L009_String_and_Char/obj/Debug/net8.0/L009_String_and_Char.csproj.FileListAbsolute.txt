@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\bin\Debug\net8.0\L009_String_and_Char.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\bin\Debug\net8.0\L009_String_and_Char.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\bin\Debug\net8.0\L009_String_and_Char.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\bin\Debug\net8.0\L009_String_and_Char.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\bin\Debug\net8.0\L009_String_and_Char.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\refint\L009_String_and_Char.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\L009_String_and_Char.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L009_String_and_Char\obj\Debug\net8.0\ref\L009_String_and_Char.dll

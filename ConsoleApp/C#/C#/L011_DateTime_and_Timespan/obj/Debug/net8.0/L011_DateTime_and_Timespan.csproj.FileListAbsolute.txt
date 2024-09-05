@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\bin\Debug\net8.0\L011_DateTime_and_Timespan.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\bin\Debug\net8.0\L011_DateTime_and_Timespan.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\bin\Debug\net8.0\L011_DateTime_and_Timespan.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\bin\Debug\net8.0\L011_DateTime_and_Timespan.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\bin\Debug\net8.0\L011_DateTime_and_Timespan.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\refint\L011_DateTime_and_Timespan.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\L011_DateTime_and_Timespan.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L011_DateTime_and_Timespan\obj\Debug\net8.0\ref\L011_DateTime_and_Timespan.dll
