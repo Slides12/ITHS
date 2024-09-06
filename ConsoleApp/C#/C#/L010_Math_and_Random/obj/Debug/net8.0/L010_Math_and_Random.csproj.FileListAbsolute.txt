@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\bin\Debug\net8.0\L010_Math_and_Random.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\bin\Debug\net8.0\L010_Math_and_Random.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\bin\Debug\net8.0\L010_Math_and_Random.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\bin\Debug\net8.0\L010_Math_and_Random.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\bin\Debug\net8.0\L010_Math_and_Random.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\refint\L010_Math_and_Random.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\L010_Math_and_Random.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L010_Math_and_Random\obj\Debug\net8.0\ref\L010_Math_and_Random.dll

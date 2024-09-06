@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{F42F1E8F-CCEC-421C-92BC-2F032E53ACAA}|L011_DateTime_and_Timespan\\L011_DateTime_and_Timespan.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l011_datetime_and_timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42F1E8F-CCEC-421C-92BC-2F032E53ACAA}|L011_DateTime_and_Timespan\\L011_DateTime_and_Timespan.csproj|solutionrelative:l011_datetime_and_timespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85581D87-818C-49D3-91BC-36F85FCE4FE1}|L009_String_and_Char\\L009_String_and_Char.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l009_string_and_char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85581D87-818C-49D3-91BC-36F85FCE4FE1}|L009_String_and_Char\\L009_String_and_Char.csproj|solutionrelative:l009_string_and_char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593699A-1B38-4260-AB2E-999D80F10A07}|L010_Math_and_Random\\L010_Math_and_Random.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l010_math_and_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593699A-1B38-4260-AB2E-999D80F10A07}|L010_Math_and_Random\\L010_Math_and_Random.csproj|solutionrelative:l010_math_and_random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 3eb97905f30b214f520a71fbd407c66b011451c2
       "RelativeMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|solutionrelative:l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,7 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 0,
+>>>>>>> 3eb97905f30b214f520a71fbd407c66b011451c2
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,9 +46,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L011_DateTime_and_Timespan\\Program.cs",
+              "RelativeDocumentMoniker": "L011_DateTime_and_Timespan\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L011_DateTime_and_Timespan\\Program.cs",
+              "RelativeToolTip": "L011_DateTime_and_Timespan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:31:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L010_Math_and_Random\\Program.cs",
+              "RelativeDocumentMoniker": "L010_Math_and_Random\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L010_Math_and_Random\\Program.cs",
+              "RelativeToolTip": "L010_Math_and_Random\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:17:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L009_String_and_Char\\Program.cs",
+              "RelativeDocumentMoniker": "L009_String_and_Char\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L009_String_and_Char\\Program.cs",
+              "RelativeToolTip": "L009_String_and_Char\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:18:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
+>>>>>>> 3eb97905f30b214f520a71fbd407c66b011451c2
               "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
               "RelativeToolTip": "L008_Rekursiva_anrop\\Program.cs",
@@ -38,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L007_Funktioner\\Program.cs",
               "RelativeDocumentMoniker": "L007_Funktioner\\Program.cs",
