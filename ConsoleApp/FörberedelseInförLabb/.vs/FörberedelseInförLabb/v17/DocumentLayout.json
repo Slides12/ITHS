@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A54F4A6-D13C-4012-BCF4-4DA220F38921}|10\\10.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A54F4A6-D13C-4012-BCF4-4DA220F38921}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D6FCD-C40B-437A-9320-C24FE3623713}|7SubString\\7SubString.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\7substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D6FCD-C40B-437A-9320-C24FE3623713}|7SubString\\7SubString.csproj|solutionrelative:7substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E760830A-5533-4046-A042-ADBCAB63DDF8}|9\\9.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E760830A-5533-4046-A042-ADBCAB63DDF8}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1002472A-ECA6-46E0-AFA1-1BCE2706A54D}|8\\8.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1002472A-ECA6-46E0-AFA1-1BCE2706A54D}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A57BC34-911A-4ACC-9715-8556382FC23D}|6\\6.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A57BC34-911A-4ACC-9715-8556382FC23D}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBA8738-71D1-4030-A12F-53DAD659A49E}|5\\5.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBA8738-71D1-4030-A12F-53DAD659A49E}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902768FA-E79A-4E44-ACA5-FA1CF9E6A62E}|4\\4.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902768FA-E79A-4E44-ACA5-FA1CF9E6A62E}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43FC8B-B107-4970-8BCE-5E074AC4DB3B}|3\\3.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43FC8B-B107-4970-8BCE-5E074AC4DB3B}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEAF53C-4606-49B3-9976-08FED2D8D859}|2\\2.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEAF53C-4606-49B3-9976-08FED2D8D859}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBEAF68-AE7F-42CF-A17B-27E7A8B3F6C8}|1\\1.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBEAF68-AE7F-42CF-A17B-27E7A8B3F6C8}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B4132E-5B81-4356-BB54-88E922207871}|7\\7Index.csproj|c:\\users\\djoha\\onedrive1\\onedrive\\plugg\\f\u00F6rberedelseinf\u00F6rlabb\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B4132E-5B81-4356-BB54-88E922207871}|7\\7Index.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:19:09.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:03:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\8\\Program.cs",
+              "RelativeDocumentMoniker": "8\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\8\\Program.cs",
+              "RelativeToolTip": "8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:58:43.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\7SubString\\Program.cs",
+              "RelativeDocumentMoniker": "7SubString\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\7SubString\\Program.cs",
+              "RelativeToolTip": "7SubString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:29:48.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:18:48.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:00:29.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:56:48.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:52:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:50:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:48:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\Onedrive1\\OneDrive\\Plugg\\F\u00F6rberedelseInf\u00F6rLabb\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:45:33.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

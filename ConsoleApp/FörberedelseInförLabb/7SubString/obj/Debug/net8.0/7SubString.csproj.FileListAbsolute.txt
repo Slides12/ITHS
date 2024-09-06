@@ -1,0 +1,14 @@
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\bin\Debug\net8.0\7SubString.exe
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\bin\Debug\net8.0\7SubString.deps.json
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\bin\Debug\net8.0\7SubString.runtimeconfig.json
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\bin\Debug\net8.0\7SubString.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\bin\Debug\net8.0\7SubString.pdb
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.AssemblyInfoInputs.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.AssemblyInfo.cs
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.csproj.CoreCompileInputs.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\refint\7SubString.dll
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.pdb
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\7SubString.genruntimeconfig.cache
+C:\Users\djoha\Onedrive1\OneDrive\Plugg\FörberedelseInförLabb\7SubString\obj\Debug\net8.0\ref\7SubString.dll
