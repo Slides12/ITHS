@@ -3,9 +3,8 @@
 ## This where i will put all the school stuff such as exercises and markdown documents (Notes taken in class.).
 
 ### Exercises: 
-
 | Exercises | Solutions |
-|  :-: |  :-: |
+| :-: | :-: |
 | [Variables](https://github.com/everyloop/NET24-Csharp/blob/master/Exercises/Variabler.md) | [myVariables](https://github.com/Slides12/ITHS/tree/main/ConsoleApp/Variables) |
 | [Indexing](https://github.com/everyloop/NET24-Csharp/blob/master/Exercises/Indexering.md)   | [myIndexing](https://github.com/Slides12/ITHS/tree/main/ConsoleApp/Indexering) |
 | [Loops](https://github.com/everyloop/NET24-Csharp/blob/master/Exercises/Loopar.md)     | [myLoops](https://github.com/Slides12/ITHS/tree/main/ConsoleApp/Loopar)  |
