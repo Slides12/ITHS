@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L004_ArraysNfelsökning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3381a540e0d61eea4d7bb50e31a14b009e63e2")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52104cf3eb2a233e62726f492f746dcdb4fbe815")]
->>>>>>> 3eb97905f30b214f520a71fbd407c66b011451c2
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e312ab0e8e5e2d8069020d37c0f47e0ff73dea3")]
 [assembly: System.Reflection.AssemblyProductAttribute("L004_ArraysNfelsökning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L004_ArraysNfelsökning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
