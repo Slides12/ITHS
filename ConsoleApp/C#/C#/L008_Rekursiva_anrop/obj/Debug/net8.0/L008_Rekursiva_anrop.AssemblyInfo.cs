@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L008_Rekursiva_anrop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3381a540e0d61eea4d7bb50e31a14b009e63e2")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52104cf3eb2a233e62726f492f746dcdb4fbe815")]
->>>>>>> 3eb97905f30b214f520a71fbd407c66b011451c2
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e98dfcc9ab0703aa6a17220805169a8f94d721d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("L008_Rekursiva_anrop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L008_Rekursiva_anrop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
