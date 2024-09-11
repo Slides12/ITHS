@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L010_Math_and_Random", "L01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L011_DateTime_and_Timespan", "L011_DateTime_and_Timespan\L011_DateTime_and_Timespan.csproj", "{F42F1E8F-CCEC-421C-92BC-2F032E53ACAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L012_Exceptions", "L012_Exceptions\L012_Exceptions.csproj", "{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L012_Exceptions", "L012_Exceptions\L012_Exceptions.csproj", "{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L013_Unicode", "L013_Unicode\L013_Unicode.csproj", "{54210ECC-222E-4A83-B864-C76FDCDE16AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54210ECC-222E-4A83-B864-C76FDCDE16AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54210ECC-222E-4A83-B864-C76FDCDE16AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54210ECC-222E-4A83-B864-C76FDCDE16AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54210ECC-222E-4A83-B864-C76FDCDE16AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

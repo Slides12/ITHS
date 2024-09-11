@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{54210ECC-222E-4A83-B864-C76FDCDE16AF}|L013_Unicode\\L013_Unicode.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l013_unicode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54210ECC-222E-4A83-B864-C76FDCDE16AF}|L013_Unicode\\L013_Unicode.csproj|solutionrelative:l013_unicode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}|L012_Exceptions\\L012_Exceptions.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l012_exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7A5595-1AEE-4412-B3E5-20BE2D9E89A4}|L012_Exceptions\\L012_Exceptions.csproj|solutionrelative:l012_exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F049BE-1F24-4DD8-89C9-347A45109954}|L007_Funktioner\\L007_Funktioner.csproj|solutionrelative:l007_funktioner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 71a8fc0e9f3ecab7a64f866624439790d0108536
       "RelativeMoniker": "D:0:0:{76B5321F-C7E3-4F14-BF18-4372C5A1397B}|L008_Rekursiva_anrop\\L008_Rekursiva_anrop.csproj|solutionrelative:l008_rekursiva_anrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,59 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 0,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> 71a8fc0e9f3ecab7a64f866624439790d0108536
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
-              "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
-              "RelativeToolTip": "L008_Rekursiva_anrop\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L013_Unicode\\Program.cs",
+              "RelativeDocumentMoniker": "L013_Unicode\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L013_Unicode\\Program.cs",
+              "RelativeToolTip": "L013_Unicode\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T06:56:17.135Z",
-=======
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L012_Exceptions\\Program.cs",
-              "RelativeDocumentMoniker": "L012_Exceptions\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L012_Exceptions\\Program.cs",
-              "RelativeToolTip": "L012_Exceptions\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T07:20:34.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
-              "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
-              "RelativeToolTip": "L008_Rekursiva_anrop\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:23:41.676Z",
+              "WhenOpened": "2024-09-11T09:52:45.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L007_Funktioner\\Program.cs",
-              "RelativeDocumentMoniker": "L007_Funktioner\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L007_Funktioner\\Program.cs",
-              "RelativeToolTip": "L007_Funktioner\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
+              "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
+              "RelativeToolTip": "L008_Rekursiva_anrop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T07:16:18.977Z",
->>>>>>> 71a8fc0e9f3ecab7a64f866624439790d0108536
+              "WhenOpened": "2024-09-11T06:56:17.135Z",
               "EditorCaption": ""
             }
           ]

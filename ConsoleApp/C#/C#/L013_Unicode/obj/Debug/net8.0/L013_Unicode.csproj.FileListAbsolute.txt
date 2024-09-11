@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\bin\Debug\net8.0\L013_Unicode.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\bin\Debug\net8.0\L013_Unicode.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\bin\Debug\net8.0\L013_Unicode.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\bin\Debug\net8.0\L013_Unicode.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\bin\Debug\net8.0\L013_Unicode.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\refint\L013_Unicode.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\L013_Unicode.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L013_Unicode\obj\Debug\net8.0\ref\L013_Unicode.dll
