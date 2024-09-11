@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1D5871-7CFA-476E-B7D7-B3640BCD5335}|Largest Palindrome Product\\Largest Palindrome Product.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\projecteuler\\largest palindrome product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1D5871-7CFA-476E-B7D7-B3640BCD5335}|Largest Palindrome Product\\Largest Palindrome Product.csproj|solutionrelative:largest palindrome product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2BBD3A-CF88-4FB0-8418-E0D2606D97D1}|Largest Prime Factor\\Largest Prime Factor.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\projecteuler\\largest prime factor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2BBD3A-CF88-4FB0-8418-E0D2606D97D1}|Largest Prime Factor\\Largest Prime Factor.csproj|solutionrelative:largest prime factor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE0FDC0-F434-4D59-9A50-B0431509E18F}|Even Fibonacci Numbers\\Even Fibonacci Numbers.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\projecteuler\\even fibonacci numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE0FDC0-F434-4D59-9A50-B0431509E18F}|Even Fibonacci Numbers\\Even Fibonacci Numbers.csproj|solutionrelative:even fibonacci numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249B7589-801F-4AF3-86F7-F8A00069407B}|Multiples of 3 or 5\\Multiples of 3 or 5.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\projecteuler\\multiples of 3 or 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249B7589-801F-4AF3-86F7-F8A00069407B}|Multiples of 3 or 5\\Multiples of 3 or 5.csproj|solutionrelative:multiples of 3 or 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Largest Palindrome Product\\Program.cs",
+              "RelativeDocumentMoniker": "Largest Palindrome Product\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Largest Palindrome Product\\Program.cs",
+              "RelativeToolTip": "Largest Palindrome Product\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:40:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Largest Prime Factor\\Program.cs",
+              "RelativeDocumentMoniker": "Largest Prime Factor\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Largest Prime Factor\\Program.cs",
+              "RelativeToolTip": "Largest Prime Factor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:15:14.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Even Fibonacci Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Even Fibonacci Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Even Fibonacci Numbers\\Program.cs",
+              "RelativeToolTip": "Even Fibonacci Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:54:24.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Multiples of 3 or 5\\Program.cs",
+              "RelativeDocumentMoniker": "Multiples of 3 or 5\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\ProjectEuler\\Multiples of 3 or 5\\Program.cs",
+              "RelativeToolTip": "Multiples of 3 or 5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:50:15.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

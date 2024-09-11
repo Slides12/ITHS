@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\bin\Debug\net8.0\Even Fibonacci Numbers.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\bin\Debug\net8.0\Even Fibonacci Numbers.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\bin\Debug\net8.0\Even Fibonacci Numbers.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\bin\Debug\net8.0\Even Fibonacci Numbers.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\bin\Debug\net8.0\Even Fibonacci Numbers.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\refint\Even Fibonacci Numbers.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\Even Fibonacci Numbers.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Even Fibonacci Numbers\obj\Debug\net8.0\ref\Even Fibonacci Numbers.dll

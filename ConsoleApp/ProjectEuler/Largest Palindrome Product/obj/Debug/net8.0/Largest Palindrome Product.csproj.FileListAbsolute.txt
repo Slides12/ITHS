@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\bin\Debug\net8.0\Largest Palindrome Product.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\bin\Debug\net8.0\Largest Palindrome Product.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\bin\Debug\net8.0\Largest Palindrome Product.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\bin\Debug\net8.0\Largest Palindrome Product.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\bin\Debug\net8.0\Largest Palindrome Product.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\refint\Largest Palindrome Product.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\Largest Palindrome Product.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Palindrome Product\obj\Debug\net8.0\ref\Largest Palindrome Product.dll

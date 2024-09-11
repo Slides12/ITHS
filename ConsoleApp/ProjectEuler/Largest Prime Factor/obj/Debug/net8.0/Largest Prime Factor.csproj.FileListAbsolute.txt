@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\bin\Debug\net8.0\Largest Prime Factor.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\bin\Debug\net8.0\Largest Prime Factor.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\bin\Debug\net8.0\Largest Prime Factor.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\bin\Debug\net8.0\Largest Prime Factor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\bin\Debug\net8.0\Largest Prime Factor.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\refint\Largest Prime Factor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\Largest Prime Factor.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\ProjectEuler\Largest Prime Factor\obj\Debug\net8.0\ref\Largest Prime Factor.dll
