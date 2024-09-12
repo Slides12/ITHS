@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\bin\Debug\net8.0\L015_StreamWriter_and_StreamReader.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\bin\Debug\net8.0\L015_StreamWriter_and_StreamReader.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\bin\Debug\net8.0\L015_StreamWriter_and_StreamReader.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\bin\Debug\net8.0\L015_StreamWriter_and_StreamReader.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\bin\Debug\net8.0\L015_StreamWriter_and_StreamReader.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\refint\L015_StreamWriter_and_StreamReader.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\L015_StreamWriter_and_StreamReader.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L015_StreamWriter_and_StreamReader\obj\Debug\net8.0\ref\L015_StreamWriter_and_StreamReader.dll

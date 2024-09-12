@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\bin\Debug\net8.0\L014_Path_and_Directory.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\bin\Debug\net8.0\L014_Path_and_Directory.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\bin\Debug\net8.0\L014_Path_and_Directory.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\bin\Debug\net8.0\L014_Path_and_Directory.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\bin\Debug\net8.0\L014_Path_and_Directory.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\refint\L014_Path_and_Directory.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\L014_Path_and_Directory.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L014_Path\obj\Debug\net8.0\ref\L014_Path_and_Directory.dll

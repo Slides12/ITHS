@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\bin\Debug\net8.0\L016_FileStream.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\bin\Debug\net8.0\L016_FileStream.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\bin\Debug\net8.0\L016_FileStream.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\bin\Debug\net8.0\L016_FileStream.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\bin\Debug\net8.0\L016_FileStream.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\refint\L016_FileStream.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\L016_FileStream.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L016_FileStream\obj\Debug\net8.0\ref\L016_FileStream.dll
