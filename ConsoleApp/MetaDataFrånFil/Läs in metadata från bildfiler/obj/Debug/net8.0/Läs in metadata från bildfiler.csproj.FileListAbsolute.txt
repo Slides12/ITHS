@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\bin\Debug\net8.0\Läs in metadata från bildfiler.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\bin\Debug\net8.0\Läs in metadata från bildfiler.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\bin\Debug\net8.0\Läs in metadata från bildfiler.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\bin\Debug\net8.0\Läs in metadata från bildfiler.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\bin\Debug\net8.0\Läs in metadata från bildfiler.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\refint\Läs in metadata från bildfiler.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\Läs in metadata från bildfiler.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\MetaDataFrånFil\Läs in metadata från bildfiler\obj\Debug\net8.0\ref\Läs in metadata från bildfiler.dll
