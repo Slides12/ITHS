@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\bin\Debug\net8.0\L017_OOP.exe
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\bin\Debug\net8.0\L017_OOP.deps.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\bin\Debug\net8.0\L017_OOP.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\bin\Debug\net8.0\L017_OOP.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\bin\Debug\net8.0\L017_OOP.pdb
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.sourcelink.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\refint\L017_OOP.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.pdb
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\L017_OOP.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L017_OOP\obj\Debug\net8.0\ref\L017_OOP.dll
