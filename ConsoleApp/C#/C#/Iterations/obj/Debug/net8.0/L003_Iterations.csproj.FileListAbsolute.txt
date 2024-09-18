@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\bin\Debug\net8.0\L003_Iterations.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\bin\Debug\net8.0\L003_Iterations.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\bin\Debug\net8.0\L003_Iterations.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\bin\Debug\net8.0\L003_Iterations.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\bin\Debug\net8.0\L003_Iterations.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\refint\L003_Iterations.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\L003_Iterations.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Iterations\obj\Debug\net8.0\ref\L003_Iterations.dll

@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\bin\Debug\net8.0\L002_IFstatement.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\bin\Debug\net8.0\L002_IFstatement.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\bin\Debug\net8.0\L002_IFstatement.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\bin\Debug\net8.0\L002_IFstatement.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\bin\Debug\net8.0\L002_IFstatement.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\refint\L002_IFstatement.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\L002_IFstatement.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\Loop Ternary\obj\Debug\net8.0\ref\L002_IFstatement.dll

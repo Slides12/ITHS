@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\bin\Debug\net8.0\L018_Static_classes_and_members.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\bin\Debug\net8.0\L018_Static_classes_and_members.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\bin\Debug\net8.0\L018_Static_classes_and_members.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\bin\Debug\net8.0\L018_Static_classes_and_members.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\bin\Debug\net8.0\L018_Static_classes_and_members.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\refint\L018_Static_classes_and_members.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\L018_Static_classes_and_members.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L018_Static_classes_and_members\obj\Debug\net8.0\ref\L018_Static_classes_and_members.dll

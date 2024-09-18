@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\bin\Debug\net8.0\L020_Namespace_and_using.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\bin\Debug\net8.0\L020_Namespace_and_using.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\bin\Debug\net8.0\L020_Namespace_and_using.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\bin\Debug\net8.0\L020_Namespace_and_using.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\bin\Debug\net8.0\L020_Namespace_and_using.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\refint\L020_Namespace_and_using.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\L020_Namespace_and_using.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L020_Namespace_and_using\obj\Debug\net8.0\ref\L020_Namespace_and_using.dll
