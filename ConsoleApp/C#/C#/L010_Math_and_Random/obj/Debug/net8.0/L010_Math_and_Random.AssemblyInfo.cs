@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L010_Math_and_Random")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cee0adbd38462d6a667bcd14d9d65a37758a9b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf2e0992384cf648d1ff025f6d42027a3afb36d")]
 [assembly: System.Reflection.AssemblyProductAttribute("L010_Math_and_Random")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L010_Math_and_Random")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

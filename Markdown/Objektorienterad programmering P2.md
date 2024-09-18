@@ -36,5 +36,93 @@
 
 * private - private gör att endast class'en i sig kan använda variabeln/fields
 
-* static - används om man skall kalla en class utan att instanciera den. dvs jag callar Cat.Greet istället för Cat myCat = new Cat() myCat.Greet.
+## Static
+* används om man skall kalla en class utan att instanciera den. dvs jag callar Cat.Greet istället för Cat myCat = new Cat() myCat.Greet.
+    * i locala funktioner kan ej komma åt variabler som inte är i själva statiska funktionen.
 
+
+## Local functions
+* ÄR metoder som ligger i Main(String[] args)
+
+## Method
+* Är utanför main(string[] args)
+
+
+
+## Namespace
+
+* används för att skilja på t.ex ett nerladdat pakets funktion Hej() och min lokala funktion Hej(). det som krävs för att då calla en namespaced är : 
+    * nameSpaceNamn.class.Hej();
+
+* Är nästlingsbar dvs:
+    * nameSpaceNamn.anotherNameSpace.class.Hej();
+
+
+* kan även calla anotherNameSpace.class.Hej(); även om det är nestlat
+
+
+## Using
+
+* använder namespaces. T.ex System.
+
+
+## Constructor
+
+* Keyword "new" anropar konstruktorn på en klass som skapar objektet och returnerar ene referens till det nyskapade objektet.
+    ```
+    Cat myCat = new Cat();
+    ```
+
+* Du kan göra flera olika konstruktors för en class. Ta Cat() t.ext
+```
+class Cat 
+{
+    public string name;
+    public Cat(string name)
+    {
+        this.name = name;
+    }
+}
+```
+
+
+
+
+## Properties
+
+* string text.Length - Length är en property (Egenskap)
+
+
+* Getters and setters:
+```
+    private string _name = "Otto";
+
+    public string Name
+    {
+        get
+        {
+            return _name;
+        }
+
+        set
+        {
+            _name = value;
+        }
+    }
+```
+
+
+* lagrar och hämtar data från classer.
+
+* Fungerar på samma sätt som en field. WriteLine i Console.Writeline är en field.
+
+* prop är förkortning för att skriva den smidigaste auto propertyn.
+
+    	```
+        public int MyProperty { get; set; }
+        ```
+
+        ```
+        public int Age { get { return 10; } set { } }
+        ```
+        

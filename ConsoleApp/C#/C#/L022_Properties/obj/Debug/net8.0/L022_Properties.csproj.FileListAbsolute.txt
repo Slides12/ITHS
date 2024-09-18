@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\bin\Debug\net8.0\L022_Properties.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\bin\Debug\net8.0\L022_Properties.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\bin\Debug\net8.0\L022_Properties.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\bin\Debug\net8.0\L022_Properties.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\bin\Debug\net8.0\L022_Properties.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\refint\L022_Properties.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\L022_Properties.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L022_Properties\obj\Debug\net8.0\ref\L022_Properties.dll

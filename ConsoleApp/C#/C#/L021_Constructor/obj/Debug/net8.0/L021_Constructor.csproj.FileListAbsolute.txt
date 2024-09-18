@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\bin\Debug\net8.0\L021_Constructor.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\bin\Debug\net8.0\L021_Constructor.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\bin\Debug\net8.0\L021_Constructor.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\bin\Debug\net8.0\L021_Constructor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\bin\Debug\net8.0\L021_Constructor.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\refint\L021_Constructor.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\L021_Constructor.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L021_Constructor\obj\Debug\net8.0\ref\L021_Constructor.dll
