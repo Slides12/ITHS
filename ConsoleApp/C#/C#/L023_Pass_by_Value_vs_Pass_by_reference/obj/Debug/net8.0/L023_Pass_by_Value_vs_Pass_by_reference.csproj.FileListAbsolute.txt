@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\bin\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\bin\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\bin\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\bin\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\bin\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\refint\L023_Pass_by_Value_vs_Pass_by_reference.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\L023_Pass_by_Value_vs_Pass_by_reference.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L023_Pass_by_Value_vs_Pass_by_reference\obj\Debug\net8.0\ref\L023_Pass_by_Value_vs_Pass_by_reference.dll

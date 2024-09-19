@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\bin\Debug\net8.0\L024_Struct_och_enum.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\bin\Debug\net8.0\L024_Struct_och_enum.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\bin\Debug\net8.0\L024_Struct_och_enum.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\bin\Debug\net8.0\L024_Struct_och_enum.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\bin\Debug\net8.0\L024_Struct_och_enum.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\refint\L024_Struct_och_enum.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\L024_Struct_och_enum.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L024_Struct_och_enum\obj\Debug\net8.0\ref\L024_Struct_och_enum.dll

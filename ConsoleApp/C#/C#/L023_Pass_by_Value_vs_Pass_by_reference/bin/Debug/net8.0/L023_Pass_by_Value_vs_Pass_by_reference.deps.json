@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L023_Pass_by_Value_vs_Pass_by_reference/1.0.0": {
+        "runtime": {
+          "L023_Pass_by_Value_vs_Pass_by_reference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L023_Pass_by_Value_vs_Pass_by_reference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

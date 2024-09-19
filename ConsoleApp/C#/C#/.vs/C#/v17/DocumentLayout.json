@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5F27030-EA23-41A9-B207-14647ED1D492}|L024_Struct_och_enum\\L024_Struct_och_enum.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l024_struct_och_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F27030-EA23-41A9-B207-14647ED1D492}|L024_Struct_och_enum\\L024_Struct_och_enum.csproj|solutionrelative:l024_struct_och_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3569BD-80F8-46E5-B7AE-40BA8377ACCE}|L023_Pass_by_Value_vs_Pass_by_reference\\L023_Pass_by_Value_vs_Pass_by_reference.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l023_pass_by_value_vs_pass_by_reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3569BD-80F8-46E5-B7AE-40BA8377ACCE}|L023_Pass_by_Value_vs_Pass_by_reference\\L023_Pass_by_Value_vs_Pass_by_reference.csproj|solutionrelative:l023_pass_by_value_vs_pass_by_reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DD74E2D-B15C-4666-994D-9C7557871FFB}|L022_Properties\\L022_Properties.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l022_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DD74E2D-B15C-4666-994D-9C7557871FFB}|L022_Properties\\L022_Properties.csproj|solutionrelative:l022_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -60,18 +68,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L024_Struct_och_enum\\Program.cs",
+              "RelativeDocumentMoniker": "L024_Struct_och_enum\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L024_Struct_och_enum\\Program.cs",
+              "RelativeToolTip": "L024_Struct_och_enum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:44:14.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "RelativeDocumentMoniker": "L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "RelativeToolTip": "L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:41:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L022_Properties\\Program.cs",
               "RelativeDocumentMoniker": "L022_Properties\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L022_Properties\\Program.cs",
               "RelativeToolTip": "L022_Properties\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T12:20:38.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L021_Constructor\\Program.cs",
               "RelativeDocumentMoniker": "L021_Constructor\\Program.cs",
@@ -79,12 +113,11 @@
               "RelativeToolTip": "L021_Constructor\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:19:28.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T11:19:28.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L020_Namespace_and_using\\Program.cs",
               "RelativeDocumentMoniker": "L020_Namespace_and_using\\Program.cs",
@@ -92,12 +125,11 @@
               "RelativeToolTip": "L020_Namespace_and_using\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T09:43:05.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T09:43:05.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L019_Main_method_entry_point\\Program.cs",
               "RelativeDocumentMoniker": "L019_Main_method_entry_point\\Program.cs",
@@ -109,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L018_Static_classes_and_members\\Program.cs",
               "RelativeDocumentMoniker": "L018_Static_classes_and_members\\Program.cs",
@@ -121,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L017_OOP\\Program.cs",
               "RelativeDocumentMoniker": "L017_OOP\\Program.cs",
@@ -133,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L016_FileStream\\Program.cs",
               "RelativeDocumentMoniker": "L016_FileStream\\Program.cs",
@@ -145,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L015_StreamWriter_and_StreamReader\\Program.cs",
               "RelativeDocumentMoniker": "L015_StreamWriter_and_StreamReader\\Program.cs",
@@ -157,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L014_Path\\Program.cs",
               "RelativeDocumentMoniker": "L014_Path\\Program.cs",
@@ -169,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L013_Unicode\\Program.cs",
               "RelativeDocumentMoniker": "L013_Unicode\\Program.cs",
@@ -181,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L008_Rekursiva_anrop\\Program.cs",
               "RelativeDocumentMoniker": "L008_Rekursiva_anrop\\Program.cs",
