@@ -37,10 +37,13 @@ int PrintCarDistance()
     for (int j = 0; j < cars.Length; j++)
     {
         cars[j].DriveForOneHour();
+        Console.ForegroundColor = cars[j]._color;
         Console.Write($"{cars[j].name}: ".PadRight(8));
+        Console.ForegroundColor = ConsoleColor.White;
+
         //Console.Write(cars[j].GetGraph());
         PrintXInColor(cars[j]);
-        Console.Write($"{cars[j].Distance} kilometer".PadLeft(8));
+        Console.Write($"{cars[j].Distance} km. {cars[j]._speed} km/h".PadLeft(8));
         Console.WriteLine();
         if (cars[j]._distance >= maxDistance)
         {
@@ -116,6 +119,7 @@ class Car
 
     public void DriveForOneHour()
     {
+        this._speed = rnd.Next(60, 240);
         this._distance += this._speed;
     }
 
