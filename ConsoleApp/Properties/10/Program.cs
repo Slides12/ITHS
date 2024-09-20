@@ -1,4 +1,6 @@
-﻿Car[] cars = new Car[10];
+﻿using System.Drawing;
+
+Car[] cars = new Car[10];
 int maxDistance = 10000;
 bool finished = false;
 
@@ -16,7 +18,11 @@ while (!finished)
     if (finished)
     {
         Console.WriteLine();
-        Console.WriteLine($"{cars[index].name} was the fastest to travel 1000 mil!");
+        Console.WriteLine($"{cars[index].name} was the fastest to travel 1000 mil! ");
+        Console.ForegroundColor = cars[index]._color;
+        Console.WriteLine($"Lucky color {cars[index]._color}!");
+        Console.ForegroundColor = ConsoleColor.White;
+
 
     }
 }
@@ -77,7 +83,7 @@ class Car
     public int Distance { get { return _distance; } set { this._distance = value; } }
     
     Random rnd = new Random();
-    ConsoleColor[] colorArray = new ConsoleColor[] { ConsoleColor.White, ConsoleColor.Green, ConsoleColor.Red, ConsoleColor.Blue, ConsoleColor.Gray };
+    ConsoleColor[] colorArray = new ConsoleColor[] { ConsoleColor.White, ConsoleColor.Green, ConsoleColor.Red, ConsoleColor.Blue, ConsoleColor.Yellow, ConsoleColor.Cyan };
 
 
     public Car()
