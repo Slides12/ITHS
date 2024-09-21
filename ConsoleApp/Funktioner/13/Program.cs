@@ -69,7 +69,6 @@ int atPosY = 7;
 DrawBox(atPosX, atPosY);
 while (true)
 {
-
     ConsoleKeyInfo cki;
     cki = Console.ReadKey();
 
@@ -114,4 +113,5 @@ while (true)
         DrawBox(atPosX, atPosY -= 1);
 
     }
+
 }
