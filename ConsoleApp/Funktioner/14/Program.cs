@@ -5,6 +5,9 @@ int height = 10;
 int x = width/2;
 int y = height/2;
 int numbOfObjects = 5;
+int totalObjects = 0;
+
+
 
 while (true)
 {
@@ -93,17 +96,13 @@ static char[,] DrawBox(int height, int width, int xPos, int yPos, int numbOfObje
     
     Random rand = new Random();
     char[,] yx = new char[height,width];
-    int totalObjects = 0;
-
+    bool hasObjects = false;
 
     for (int i = 0; i <= height - 1; i++)
     {
 
         yx[i,0] = '#';
         yx[i, width - 1] = '#';
-
-
-
 
         for (int j = 1; j < width - 1; j++)
         {
@@ -112,14 +111,6 @@ static char[,] DrawBox(int height, int width, int xPos, int yPos, int numbOfObje
             {
                 yx[i,j] = '#';
 
-            }
-            else if (rand.Next(1, height-2) == i && rand.Next(2, width-2) == j)
-            {
-                if (totalObjects <= numbOfObjects)
-                {
-                    yx[i, j] = '*';
-                }
-                totalObjects++;
             }
             else if(i == yPos && j == xPos)
             {
@@ -132,11 +123,20 @@ static char[,] DrawBox(int height, int width, int xPos, int yPos, int numbOfObje
 
             }
         }
+    }
+    if(!hasObjects)
+    {
 
-
+        for (int i = 0;i < 1;i++)
+        {
+            for(int j = 0; j < numbOfObjects; j++)
+            {
+                yx[rand.Next(1,height-2),rand.Next(1,width-2)] = '*';
+            }
+            hasObjects = true;
+        }
 
     }
-
     return yx;
 }
 
@@ -152,17 +152,3 @@ static void PrintArray(char[,] array, int height, int width)
     }
 }
 
-static int[,] CreateObjects(int numbOfObjects, int height, int width)
-{
-    Random rand = new Random();
-    int[,] indexOfObjects = new int[numbOfObjects,numbOfObjects];
-
-    for(int i = 0;i < numbOfObjects;i++)
-    {
-        for (int j = 0; j < numbOfObjects;j++)
-        {
-            indexOfObjects[i, j] = rand.Next(1,20);
-        }
-    }
-    return indexOfObjects;
-}
