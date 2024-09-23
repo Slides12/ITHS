@@ -89,8 +89,10 @@ class Cat
 
 
 ## Properties
+Properties är get/setters (Du kan lägga till logik)
 
 * string text.Length - Length är en property (Egenskap)
+
 
 
 * Getters and setters:
@@ -112,9 +114,10 @@ class Cat
 ```
 
 
-* lagrar och hämtar data från classer.
+* lagrar och hämtar data från klasser.
 
 * Fungerar på samma sätt som en field. WriteLine i Console.Writeline är en field.
+    * Fields är även variabler i en klass!
 
 * prop är förkortning för att skriva den smidigaste auto propertyn.
 
@@ -126,3 +129,10 @@ class Cat
         public int Age { get { return 10; } set { } }
         ```
         
+
+
+## Fields
+* Är en variabel i en class/object
+* om en field börjar med _name så tillhör den en property. Denna är då oftast private _name.
+    * public Name är då propertyn som set and get körs på.
+

@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\bin\Debug\net8.0\L025_Inheritance.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\bin\Debug\net8.0\L025_Inheritance.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\bin\Debug\net8.0\L025_Inheritance.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\bin\Debug\net8.0\L025_Inheritance.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\bin\Debug\net8.0\L025_Inheritance.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\refint\L025_Inheritance.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\L025_Inheritance.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L025_Inheritance\obj\Debug\net8.0\ref\L025_Inheritance.dll

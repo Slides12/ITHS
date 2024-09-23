@@ -11,10 +11,10 @@ Fyra grundläggande principer
     * Låg nivå (Låg abstraction, assembler)
 
 * Arv  (Inheritance)
-    * Dela information
+    * Dela information mellan object
 
-* polymorphism 
-    * Omdefiniera information
+* Polymorphism 
+    * Omdefiniera information (Constructor)
      (Samma sak kan betyda 2 olika saker för 2 olika objekt)
 
 
@@ -63,7 +63,7 @@ Abstraktion, metoderna springa och jama.
 ## Klasser = Blueprint.
 Om en inheritar från en superklass, så kallas den klassen Subclass. (Child.)
 
-## Arv = Grund blueprint (Super klass (Parent)).
+## Arv = Grund blueprint (Super klass (Parent)/ Bas klass).
 
 Dvs, Klass djur. Kan ärvas av både fåglar och katter.
 
@@ -74,9 +74,9 @@ Dvs, Klass djur. Kan ärvas av både fåglar och katter.
 
 * Public - En egenskap som är läs/skrivbar.
 
-* Protected
+* Protected - som en private men de som ärver kan använda variabeln
 
-* Internal
+* Internal - public för all kod inom biblioteket
 
 
 
@@ -89,4 +89,14 @@ Method overloading
 
 
 Operator overloading
-* 
+* 2 +3 =5 (Adderar)
+* "ABC + "DEF = "ABCDEF" (contantenerar)
+
+* Object + Object = ? (Kan man definiera själv i klassen om man vill, går vanligtvis inte)
+    * t.ex cat + cat1 = Vikt: 10 kg
+    * t.ex cat + cat1 = Namn: "PetterErik"
+
+
+
+    
+     
