@@ -2,12 +2,12 @@
 
 struct Size
 {
-    public int Length { get; set; }
-    public int Height { get; set; }
-    public int Width { get; set; }
+    public double Length { get; set; }
+    public double Height { get; set; }
+    public double Width { get; set; }
 
 
-    public Size(int length, int height, int width)
+    public Size(double length, double height, double width)
     {
         this.Length = length;
         this.Height = height;   

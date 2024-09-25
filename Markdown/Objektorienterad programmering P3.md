@@ -3,7 +3,8 @@
 ## Arv (inheritance)
 Alla object ärver från System.Object
 
-Alla som ärver är i en "Relationship"
+Alla som ärver är i en " Is a Relationship" t.ex
+"Cat and Dog is a Animal"
 ```C#
 Animal animal = new Cat();
 object[] animals = new object[]; // allt är object, t.ex int, string. Så detta kan även läggas in i denna arrayn.
@@ -119,3 +120,6 @@ class Student : Person
 
 Du kan även calla en constructor ur base klassen, med base istället för this.
 
+-------------------------------------
+
+# Polymorphism = override och overload

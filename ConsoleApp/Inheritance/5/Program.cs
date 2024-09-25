@@ -49,7 +49,7 @@ class Vehicle
     public Brand Brand { get; set; }
     public Color Color { get; set; }
     public Random rand;
-    public Size size;
+    public Size Size { get; set; }
 
     public Vehicle(Brand brand, Color color) : this(brand)
     {
@@ -61,10 +61,14 @@ class Vehicle
         this.Color = Color.Black;
     }
 
+
+    //RandomDoulbe * Range + offset
     public Vehicle()
     {
        rand = new Random();
-       size = new Size() { Length = rand.NextDouble() + 2, Height = rand.NextDouble() +1, Width = rand.NextDouble() + 1 };
+       //Size = new Size() { Length = rand.NextDouble() + 2, Height = rand.NextDouble() +1, Width = rand.NextDouble() + 1 };
+       Size = new Size() { Length = rand.NextDouble() * 2 + 2, Height = rand.NextDouble() * 2 + 2, Width = rand.NextDouble() * 2 + 1 };
+
     }
 
     public override string ToString()
@@ -87,7 +91,7 @@ class Car : Vehicle
     }
     public override string ToString()
     {
-        return $"A {this.Color} {this.size.Length:f2} meter {this.Model} from {this.Brand}";
+        return $"A {this.Color} {this.Size.Length:f2} meter {this.Model} from {this.Brand}";
     }
 
 }

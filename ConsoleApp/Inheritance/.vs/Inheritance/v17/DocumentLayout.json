@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\inheritance\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\inheritance\\12\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|solutionrelative:12\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\inheritance\\12\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|solutionrelative:12\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\inheritance\\12\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC207CF5-4743-49A8-A5EB-BFE5264B8B94}|12\\12.csproj|solutionrelative:12\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4710923A-881E-48C5-A7F8-8EA17E9000DA}|5\\5.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\inheritance\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4710923A-881E-48C5-A7F8-8EA17E9000DA}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Square.cs",
-              "RelativeDocumentMoniker": "12\\Square.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Square.cs",
-              "RelativeToolTip": "12\\Square.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:15:48.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Shape.cs",
-              "RelativeDocumentMoniker": "12\\Shape.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Shape.cs",
-              "RelativeToolTip": "12\\Shape.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:15:45.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Circle.cs",
-              "RelativeDocumentMoniker": "12\\Circle.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Circle.cs",
-              "RelativeToolTip": "12\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:15:41.734Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Program.cs",
-              "RelativeDocumentMoniker": "12\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\12\\Program.cs",
-              "RelativeToolTip": "12\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Inheritance\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwEwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:15:32.156Z",
+              "WhenOpened": "2024-09-25T08:56:56.241Z",
               "EditorCaption": ""
             }
           ]
