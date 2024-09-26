@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L029_Dictionary/1.0.0": {
+        "runtime": {
+          "L029_Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L029_Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

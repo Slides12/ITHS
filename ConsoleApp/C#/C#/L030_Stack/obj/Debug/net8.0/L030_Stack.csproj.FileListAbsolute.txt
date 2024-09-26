@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\bin\Debug\net8.0\L030_Stack.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\bin\Debug\net8.0\L030_Stack.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\bin\Debug\net8.0\L030_Stack.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\bin\Debug\net8.0\L030_Stack.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\bin\Debug\net8.0\L030_Stack.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\refint\L030_Stack.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\L030_Stack.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L030_Stack\obj\Debug\net8.0\ref\L030_Stack.dll

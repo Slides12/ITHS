@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\bin\Debug\net8.0\L027_Generics.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\bin\Debug\net8.0\L027_Generics.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\bin\Debug\net8.0\L027_Generics.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\bin\Debug\net8.0\L027_Generics.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\bin\Debug\net8.0\L027_Generics.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\refint\L027_Generics.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\L027_Generics.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L027_Generics\obj\Debug\net8.0\ref\L027_Generics.dll

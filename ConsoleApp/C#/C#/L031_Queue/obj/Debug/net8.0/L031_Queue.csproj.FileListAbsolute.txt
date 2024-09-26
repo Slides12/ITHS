@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\bin\Debug\net8.0\L031_Queue.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\bin\Debug\net8.0\L031_Queue.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\bin\Debug\net8.0\L031_Queue.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\bin\Debug\net8.0\L031_Queue.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\bin\Debug\net8.0\L031_Queue.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\refint\L031_Queue.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\L031_Queue.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L031_Queue\obj\Debug\net8.0\ref\L031_Queue.dll

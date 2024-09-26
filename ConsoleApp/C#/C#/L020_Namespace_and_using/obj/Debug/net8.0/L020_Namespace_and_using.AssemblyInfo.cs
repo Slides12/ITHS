@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L020_Namespace_and_using")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5fae255306169768cf265307f1f4fc684c0912")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f055cc83afa931f6cc139f0cadb23d68aeed554")]
 [assembly: System.Reflection.AssemblyProductAttribute("L020_Namespace_and_using")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L020_Namespace_and_using")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

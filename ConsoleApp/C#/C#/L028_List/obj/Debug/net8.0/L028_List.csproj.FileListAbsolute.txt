@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\bin\Debug\net8.0\L028_List.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\bin\Debug\net8.0\L028_List.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\bin\Debug\net8.0\L028_List.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\bin\Debug\net8.0\L028_List.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\bin\Debug\net8.0\L028_List.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\refint\L028_List.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\L028_List.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L028_List\obj\Debug\net8.0\ref\L028_List.dll
