@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\bin\Debug\net8.0\L033_Events.exe
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\bin\Debug\net8.0\L033_Events.deps.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\bin\Debug\net8.0\L033_Events.runtimeconfig.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\bin\Debug\net8.0\L033_Events.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\bin\Debug\net8.0\L033_Events.pdb
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.sourcelink.json
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\refint\L033_Events.dll
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.pdb
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\L033_Events.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ConsoleApp\C#\C#\L033_Events\obj\Debug\net8.0\ref\L033_Events.dll
