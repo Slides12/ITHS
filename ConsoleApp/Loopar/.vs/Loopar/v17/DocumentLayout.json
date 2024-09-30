@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50AB104C-4EE1-472D-BE7D-58CE46A7FB0C}|15\\15.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\loopar\\15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AB104C-4EE1-472D-BE7D-58CE46A7FB0C}|15\\15.csproj|solutionrelative:15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C171562F-7ABC-43EE-A42B-4F734779AA98}|11\\11.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\loopar\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C171562F-7ABC-43EE-A42B-4F734779AA98}|11\\11.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CB3D75B-5710-4B91-A360-85F7114033EB}|7\\7.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\loopar\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB3D75B-5710-4B91-A360-85F7114033EB}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50AB104C-4EE1-472D-BE7D-58CE46A7FB0C}|15\\15.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\loopar\\15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50AB104C-4EE1-472D-BE7D-58CE46A7FB0C}|15\\15.csproj|solutionrelative:15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CDE9A29-F3CD-4F5A-83B9-E3CE12696A0E}|14.2\\14.2.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\loopar\\14.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\15\\Program.cs",
               "RelativeDocumentMoniker": "15\\Program.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\12\\Program.cs",
               "RelativeDocumentMoniker": "12\\Program.cs",
@@ -123,18 +123,17 @@
               "RelativeToolTip": "12\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T13:24:55.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T13:24:55.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\11\\Program.cs",
               "RelativeDocumentMoniker": "11\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\11\\Program.cs",
               "RelativeToolTip": "11\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T13:17:48.512Z",
               "EditorCaption": ""
@@ -165,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\8\\Program.cs",
               "RelativeDocumentMoniker": "8\\Program.cs",
@@ -173,12 +172,11 @@
               "RelativeToolTip": "8\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:57:01.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T12:57:01.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\7\\Program.cs",
               "RelativeDocumentMoniker": "7\\Program.cs",
@@ -186,12 +184,11 @@
               "RelativeToolTip": "7\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:46:36.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T12:46:36.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\Loopar\\6\\Program.cs",
               "RelativeDocumentMoniker": "6\\Program.cs",
@@ -199,8 +196,7 @@
               "RelativeToolTip": "6\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:41:27.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T12:41:27.79Z"
             },
             {
               "$type": "Document",

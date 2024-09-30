@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE05251D-6C17-48AE-8155-6488574D9EC4}|L025_Inheritance\\L025_Inheritance.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l025_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE05251D-6C17-48AE-8155-6488574D9EC4}|L025_Inheritance\\L025_Inheritance.csproj|solutionrelative:l025_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3569BD-80F8-46E5-B7AE-40BA8377ACCE}|L023_Pass_by_Value_vs_Pass_by_reference\\L023_Pass_by_Value_vs_Pass_by_reference.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l023_pass_by_value_vs_pass_by_reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3569BD-80F8-46E5-B7AE-40BA8377ACCE}|L023_Pass_by_Value_vs_Pass_by_reference\\L023_Pass_by_Value_vs_Pass_by_reference.csproj|solutionrelative:l023_pass_by_value_vs_pass_by_reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E79ABE-931A-4830-87F9-EF4A97013EBB}|L015_StreamWriter_and_StreamReader\\L015_StreamWriter_and_StreamReader.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l015_streamwriter_and_streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E79ABE-931A-4830-87F9-EF4A97013EBB}|L015_StreamWriter_and_StreamReader\\L015_StreamWriter_and_StreamReader.csproj|solutionrelative:l015_streamwriter_and_streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2FA515-B3C6-40D4-8A1C-83BEDAD23810}|L016_FileStream\\L016_FileStream.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l016_filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2FA515-B3C6-40D4-8A1C-83BEDAD23810}|L016_FileStream\\L016_FileStream.csproj|solutionrelative:l016_filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2385B16A-486C-4A65-8F24-5ABC80B561C0}|L031_Queue\\L031_Queue.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l031_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2385B16A-486C-4A65-8F24-5ABC80B561C0}|L031_Queue\\L031_Queue.csproj|solutionrelative:l031_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{D4847507-6076-40A0-8812-CB5E6BF161B3}|L027_Generics\\L027_Generics.csproj|solutionrelative:l027_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE05251D-6C17-48AE-8155-6488574D9EC4}|L025_Inheritance\\L025_Inheritance.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l025_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE05251D-6C17-48AE-8155-6488574D9EC4}|L025_Inheritance\\L025_Inheritance.csproj|solutionrelative:l025_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{817E0C19-6AE3-4C9F-99CD-9ED351BAAD82}|L026_Constructor_Chaining\\L026_Constructor_Chaining.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l026_constructor_chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{817E0C19-6AE3-4C9F-99CD-9ED351BAAD82}|L026_Constructor_Chaining\\L026_Constructor_Chaining.csproj|solutionrelative:l026_constructor_chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "RelativeDocumentMoniker": "L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "RelativeToolTip": "L023_Pass_by_Value_vs_Pass_by_reference\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:20:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L015_StreamWriter_and_StreamReader\\Program.cs",
+              "RelativeDocumentMoniker": "L015_StreamWriter_and_StreamReader\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L015_StreamWriter_and_StreamReader\\Program.cs",
+              "RelativeToolTip": "L015_StreamWriter_and_StreamReader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:55:07.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L031_Queue\\Program.cs",
               "RelativeDocumentMoniker": "L031_Queue\\Program.cs",
@@ -50,12 +88,11 @@
               "RelativeToolTip": "L031_Queue\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:49:23.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T09:49:23.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\Program.cs",
               "RelativeDocumentMoniker": "L030_Stack\\Program.cs",
@@ -63,12 +100,11 @@
               "RelativeToolTip": "L030_Stack\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:40:47.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T09:40:47.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L029_Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "L029_Dictionary\\Program.cs",
@@ -76,12 +112,11 @@
               "RelativeToolTip": "L029_Dictionary\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:12:48.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T09:12:48.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L028_List\\Program.cs",
               "RelativeDocumentMoniker": "L028_List\\Program.cs",
@@ -89,12 +124,36 @@
               "RelativeToolTip": "L028_List\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:19:33.991Z",
+              "WhenOpened": "2024-09-26T08:19:33.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L025_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "L025_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L025_Inheritance\\Program.cs",
+              "RelativeToolTip": "L025_Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:26:27.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L016_FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "L016_FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L016_FileStream\\Program.cs",
+              "RelativeToolTip": "L016_FileStream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:48:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L027_Generics\\Program.cs",
               "RelativeDocumentMoniker": "L027_Generics\\Program.cs",
@@ -102,25 +161,11 @@
               "RelativeToolTip": "L027_Generics\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:34:02.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T07:34:02.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L025_Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "L025_Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L025_Inheritance\\Program.cs",
-              "RelativeToolTip": "L025_Inheritance\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:26:27.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L026_Constructor_Chaining\\Program.cs",
               "RelativeDocumentMoniker": "L026_Constructor_Chaining\\Program.cs",
@@ -128,8 +173,7 @@
               "RelativeToolTip": "L026_Constructor_Chaining\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T06:48:23.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T06:48:23.347Z"
             }
           ]
         }
