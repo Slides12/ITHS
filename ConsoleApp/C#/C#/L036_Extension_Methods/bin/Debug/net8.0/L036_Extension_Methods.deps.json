@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L036_Extension_Methods/1.0.0": {
+        "runtime": {
+          "L036_Extension_Methods.dll": {}
+        }
+      },
+      "L037_ Library/1.0.0": {
+        "runtime": {
+          "L037_ Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L036_Extension_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L037_ Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

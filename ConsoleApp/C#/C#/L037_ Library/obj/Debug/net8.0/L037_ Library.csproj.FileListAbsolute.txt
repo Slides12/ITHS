@@ -1,0 +1,12 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\bin\Debug\net8.0\L037_ Library.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\bin\Debug\net8.0\L037_ Library.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\bin\Debug\net8.0\L037_ Library.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\refint\L037_ Library.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\L037_ Library.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L037_ Library\obj\Debug\net8.0\ref\L037_ Library.dll

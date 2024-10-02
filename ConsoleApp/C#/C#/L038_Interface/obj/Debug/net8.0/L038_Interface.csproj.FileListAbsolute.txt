@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\bin\Debug\net8.0\L038_Interface.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\bin\Debug\net8.0\L038_Interface.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\bin\Debug\net8.0\L038_Interface.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\bin\Debug\net8.0\L038_Interface.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\bin\Debug\net8.0\L038_Interface.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\refint\L038_Interface.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\L038_Interface.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L038_Interface\obj\Debug\net8.0\ref\L038_Interface.dll

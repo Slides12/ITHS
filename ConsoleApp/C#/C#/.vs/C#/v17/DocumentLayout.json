@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{540BA31A-C4D2-4A73-BE8E-2081284E119D}|L037_ Library\\L037_ Library.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l037_ library\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540BA31A-C4D2-4A73-BE8E-2081284E119D}|L037_ Library\\L037_ Library.csproj|solutionrelative:l037_ library\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9B7140-313A-4E81-BB5D-C8E60468368C}|L036_Extension_Methods\\L036_Extension_Methods.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l036_extension_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9B7140-313A-4E81-BB5D-C8E60468368C}|L036_Extension_Methods\\L036_Extension_Methods.csproj|solutionrelative:l036_extension_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B8B461-C58C-4120-9AC7-2092909C678B}|L035_Anonymous_Types\\L035_Anonymous_Types.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l035_anonymous_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B8B461-C58C-4120-9AC7-2092909C678B}|L035_Anonymous_Types\\L035_Anonymous_Types.csproj|solutionrelative:l035_anonymous_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB3E2C8-8683-4CA3-80B5-315FE1E9F5FA}|L034_Lambda\\L034_Lambda.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l034_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB3E2C8-8683-4CA3-80B5-315FE1E9F5FA}|L034_Lambda\\L034_Lambda.csproj|solutionrelative:l034_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB22CF7D-F2CA-47C1-8E8F-644C5D415C92}|L032_Delegates\\L032_Delegates.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l032_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB22CF7D-F2CA-47C1-8E8F-644C5D415C92}|L032_Delegates\\L032_Delegates.csproj|solutionrelative:l032_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l033_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|solutionrelative:l033_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l033_events\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|solutionrelative:l033_events\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l033_events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|solutionrelative:l033_events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l033_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}|L033_Events\\L033_Events.csproj|solutionrelative:l033_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Subscriber.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Subscriber.cs",
-              "RelativeDocumentMoniker": "L033_Events\\Subscriber.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Subscriber.cs",
-              "RelativeToolTip": "L033_Events\\Subscriber.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L037_ Library\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "L037_ Library\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L037_ Library\\StringExtensions.cs",
+              "RelativeToolTip": "L037_ Library\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:29:07.147Z",
+              "WhenOpened": "2024-10-02T16:23:56.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L036_Extension_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "L036_Extension_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L036_Extension_Methods\\Program.cs",
+              "RelativeToolTip": "L036_Extension_Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:08:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L035_Anonymous_Types\\Program.cs",
+              "RelativeDocumentMoniker": "L035_Anonymous_Types\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L035_Anonymous_Types\\Program.cs",
+              "RelativeToolTip": "L035_Anonymous_Types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:38:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L034_Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "L034_Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L034_Lambda\\Program.cs",
+              "RelativeToolTip": "L034_Lambda\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:44:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Subscriber.cs",
+              "RelativeDocumentMoniker": "L033_Events\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Subscriber.cs",
+              "RelativeToolTip": "L033_Events\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:30:35.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Publisher.cs",
               "RelativeDocumentMoniker": "L033_Events\\Publisher.cs",
@@ -47,20 +119,33 @@
               "RelativeToolTip": "L033_Events\\Publisher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:29:06.278Z",
+              "WhenOpened": "2024-10-02T14:30:34.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Program.cs",
               "RelativeDocumentMoniker": "L033_Events\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Program.cs",
               "RelativeToolTip": "L033_Events\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:29:03.527Z",
+              "WhenOpened": "2024-10-02T14:30:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L032_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "L032_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L032_Delegates\\Program.cs",
+              "RelativeToolTip": "L032_Delegates\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwJUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:30:17.595Z",
               "EditorCaption": ""
             }
           ]

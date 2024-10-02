@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\bin\Debug\net8.0\L035_Anonymous_Types.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\bin\Debug\net8.0\L035_Anonymous_Types.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\bin\Debug\net8.0\L035_Anonymous_Types.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\bin\Debug\net8.0\L035_Anonymous_Types.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\bin\Debug\net8.0\L035_Anonymous_Types.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\refint\L035_Anonymous_Types.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\L035_Anonymous_Types.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L035_Anonymous_Types\obj\Debug\net8.0\ref\L035_Anonymous_Types.dll

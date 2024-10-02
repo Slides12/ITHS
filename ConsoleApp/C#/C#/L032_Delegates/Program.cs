@@ -101,12 +101,17 @@ Console.WriteLine("Uppgift 2");
 
 static string AddCharacters(char c, int y)
 {
-    string returnString = "";
-    for (int i = 0; i < y; i++)
-    {
-        returnString += c;
-    }
-    return returnString;
+    //string returnString = "";
+    //for (int i = 0; i < y; i++)
+    //{
+    //    returnString += c;
+    //}
+    //return returnString;
+
+    //Över är det jag gjorde, under är den smidigaste varianten av det.
+
+    return new String(c, y);
+
 }
 
 

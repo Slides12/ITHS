@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\bin\Debug\net8.0\L034_Lambda.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\bin\Debug\net8.0\L034_Lambda.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\bin\Debug\net8.0\L034_Lambda.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\bin\Debug\net8.0\L034_Lambda.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\bin\Debug\net8.0\L034_Lambda.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\refint\L034_Lambda.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\L034_Lambda.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L034_Lambda\obj\Debug\net8.0\ref\L034_Lambda.dll

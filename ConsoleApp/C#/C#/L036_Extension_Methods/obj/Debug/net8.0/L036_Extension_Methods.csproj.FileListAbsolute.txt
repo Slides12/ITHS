@@ -1,0 +1,19 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L036_Extension_Methods.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L036_Extension_Methods.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L036_Extension_Methods.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L036_Extension_Methods.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L036_Extension_Methods.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L037_ Library.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\bin\Debug\net8.0\L037_ Library.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.csproj.AssemblyReference.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Ext.6BC9EF6D.Up2Date
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\refint\L036_Extension_Methods.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\L036_Extension_Methods.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L036_Extension_Methods\obj\Debug\net8.0\ref\L036_Extension_Methods.dll
