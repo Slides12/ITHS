@@ -67,15 +67,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L032_Delegates", "L032_Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L033_Events", "L033_Events\L033_Events.csproj", "{4DD2251D-A6C4-463D-BABB-5A44AA80FBC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L037_ Library", "L037_ Library\L037_ Library.csproj", "{540BA31A-C4D2-4A73-BE8E-2081284E119D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L037_ Library", "L037_ Library\L037_ Library.csproj", "{540BA31A-C4D2-4A73-BE8E-2081284E119D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L036_Extension_Methods", "L036_Extension_Methods\L036_Extension_Methods.csproj", "{8D9B7140-313A-4E81-BB5D-C8E60468368C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L036_Extension_Methods", "L036_Extension_Methods\L036_Extension_Methods.csproj", "{8D9B7140-313A-4E81-BB5D-C8E60468368C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L038_Interface", "L038_Interface\L038_Interface.csproj", "{354703CE-D19E-4BB0-A259-483A4FFB897B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L038_Interface", "L038_Interface\L038_Interface.csproj", "{354703CE-D19E-4BB0-A259-483A4FFB897B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L034_Lambda", "L034_Lambda\L034_Lambda.csproj", "{5FB3E2C8-8683-4CA3-80B5-315FE1E9F5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L034_Lambda", "L034_Lambda\L034_Lambda.csproj", "{5FB3E2C8-8683-4CA3-80B5-315FE1E9F5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L035_Anonymous_Types", "L035_Anonymous_Types\L035_Anonymous_Types.csproj", "{E4B8B461-C58C-4120-9AC7-2092909C678B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L035_Anonymous_Types", "L035_Anonymous_Types\L035_Anonymous_Types.csproj", "{E4B8B461-C58C-4120-9AC7-2092909C678B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L039_LINQ", "L039_LINQ\L039_LINQ.csproj", "{BF2D2A65-DAE6-4FA3-BF9A-266A1C96C796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L040_Yield_Return", "L040_Yield\L040_Yield_Return.csproj", "{6AEFB8FB-2320-478E-B80E-3B13761F94FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +235,14 @@ Global
 		{E4B8B461-C58C-4120-9AC7-2092909C678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B8B461-C58C-4120-9AC7-2092909C678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B8B461-C58C-4120-9AC7-2092909C678B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2D2A65-DAE6-4FA3-BF9A-266A1C96C796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D2A65-DAE6-4FA3-BF9A-266A1C96C796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D2A65-DAE6-4FA3-BF9A-266A1C96C796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D2A65-DAE6-4FA3-BF9A-266A1C96C796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEFB8FB-2320-478E-B80E-3B13761F94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEFB8FB-2320-478E-B80E-3B13761F94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEFB8FB-2320-478E-B80E-3B13761F94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEFB8FB-2320-478E-B80E-3B13761F94FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

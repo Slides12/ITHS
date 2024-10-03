@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L040_Yield_return/1.0.0": {
+        "runtime": {
+          "L040_Yield_return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L040_Yield_return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\bin\Debug\net8.0\L040_Yield_return.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\bin\Debug\net8.0\L040_Yield_return.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\bin\Debug\net8.0\L040_Yield_return.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\bin\Debug\net8.0\L040_Yield_return.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\bin\Debug\net8.0\L040_Yield_return.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\refint\L040_Yield_return.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\L040_Yield_return.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L040_Yield\obj\Debug\net8.0\ref\L040_Yield_return.dll

@@ -17,5 +17,11 @@ namespace L037__Library
         {
             return prefix + s + suffix;
         }
+
+
+        public static string Title(this string s)
+        {
+            return s.Substring(0,1).ToUpper() + s.Substring(1).ToLower();
+        }
     }
 }

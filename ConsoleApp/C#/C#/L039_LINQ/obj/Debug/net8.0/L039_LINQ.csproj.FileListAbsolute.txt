@@ -1,0 +1,19 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L039_LINQ.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L039_LINQ.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L039_LINQ.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L039_LINQ.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L039_LINQ.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\refint\L039_LINQ.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\ref\L039_LINQ.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L037_ Library.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\bin\Debug\net8.0\L037_ Library.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.csproj.AssemblyReference.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L039_LINQ\obj\Debug\net8.0\L039_LINQ.csproj.Up2Date
