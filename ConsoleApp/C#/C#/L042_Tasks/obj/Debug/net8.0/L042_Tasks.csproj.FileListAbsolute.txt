@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\bin\Debug\net8.0\L042_Tasks.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\bin\Debug\net8.0\L042_Tasks.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\bin\Debug\net8.0\L042_Tasks.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\bin\Debug\net8.0\L042_Tasks.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\bin\Debug\net8.0\L042_Tasks.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\refint\L042_Tasks.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\L042_Tasks.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L042_Tasks\obj\Debug\net8.0\ref\L042_Tasks.dll
