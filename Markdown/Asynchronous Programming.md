@@ -47,3 +47,31 @@ Asynkront är att man kan göra vissa tasks samtidigt som den synkrona biten kö
 ## Thread
 
 ![Thread](Thread.png)
+
+
+## Task
+
+![Task](Task.png)
+// Result and the wait function locks the thread until completion. Which might be bad sometimes and sometimes good. Wait and result is synchronous basically since the commands locks up the thread until the wait is done.
+
+## Async Await
+
+![ASyncAwait](AsyncAwait.png)
+
+Koden i C# (ConsoleApp mappen) förklarar väldigt bra hur dette fungerar.
+
+await är Asynkron. .Wait() är synkront.
+
+Om du gör en Async, använd alltid en await. (Best practice)
+
+
+
+## Thread safety
+
+![ThreadSafety](ThreadSafety.png)
+```C#
+    object myLock = new object();
+                lock (myLock) 
+                { 
+                }
+```

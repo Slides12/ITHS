@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\bin\Debug\net8.0\L044_Race_Condition.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\bin\Debug\net8.0\L044_Race_Condition.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\bin\Debug\net8.0\L044_Race_Condition.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\bin\Debug\net8.0\L044_Race_Condition.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\bin\Debug\net8.0\L044_Race_Condition.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\refint\L044_Race_Condition.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\L044_Race_Condition.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L044_Race_Condition\obj\Debug\net8.0\ref\L044_Race_Condition.dll

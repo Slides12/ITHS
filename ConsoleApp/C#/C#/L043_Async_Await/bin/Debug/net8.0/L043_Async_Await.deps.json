@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L043_Async_Await/1.0.0": {
+        "runtime": {
+          "L043_Async_Await.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L043_Async_Await/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\bin\Debug\net8.0\L043_Async_Await.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\bin\Debug\net8.0\L043_Async_Await.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\bin\Debug\net8.0\L043_Async_Await.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\bin\Debug\net8.0\L043_Async_Await.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\bin\Debug\net8.0\L043_Async_Await.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\refint\L043_Async_Await.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\L043_Async_Await.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L043_Async_Await\obj\Debug\net8.0\ref\L043_Async_Await.dll

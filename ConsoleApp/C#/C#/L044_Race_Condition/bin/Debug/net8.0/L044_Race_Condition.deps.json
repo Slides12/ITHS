@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L044_Race_Condition/1.0.0": {
+        "runtime": {
+          "L044_Race_Condition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L044_Race_Condition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

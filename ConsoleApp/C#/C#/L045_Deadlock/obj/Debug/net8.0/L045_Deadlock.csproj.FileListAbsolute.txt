@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\bin\Debug\net8.0\L045_Deadlock.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\bin\Debug\net8.0\L045_Deadlock.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\bin\Debug\net8.0\L045_Deadlock.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\bin\Debug\net8.0\L045_Deadlock.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\bin\Debug\net8.0\L045_Deadlock.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\refint\L045_Deadlock.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\L045_Deadlock.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L045_Deadlock\obj\Debug\net8.0\ref\L045_Deadlock.dll

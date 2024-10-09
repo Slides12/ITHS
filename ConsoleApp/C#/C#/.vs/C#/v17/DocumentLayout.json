@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D008294E-641B-4AFE-9655-20CCD8D4F98A}|L041_PLINQ\\L041_PLINQ.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l041_plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D008294E-641B-4AFE-9655-20CCD8D4F98A}|L041_PLINQ\\L041_PLINQ.csproj|solutionrelative:l041_plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542ADDEB-D7C0-4599-A68A-ED203A2ACB41}|L045_Deadlock\\L045_Deadlock.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l045_deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542ADDEB-D7C0-4599-A68A-ED203A2ACB41}|L045_Deadlock\\L045_Deadlock.csproj|solutionrelative:l045_deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE7AD60-07E9-4E6F-9E3F-698A211D0324}|L044_Race_Condition\\L044_Race_Condition.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l044_race_condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE7AD60-07E9-4E6F-9E3F-698A211D0324}|L044_Race_Condition\\L044_Race_Condition.csproj|solutionrelative:l044_race_condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD0DE20-4E63-4C62-97CD-8A28D594197F}|L043_Async_Await\\L043_Async_Await.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l043_async_await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD0DE20-4E63-4C62-97CD-8A28D594197F}|L043_Async_Await\\L043_Async_Await.csproj|solutionrelative:l043_async_await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7389AD72-E240-489B-B2D3-664D7D7CCAB4}|L042_Tasks\\L042_Tasks.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l042_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7389AD72-E240-489B-B2D3-664D7D7CCAB4}|L042_Tasks\\L042_Tasks.csproj|solutionrelative:l042_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D008294E-641B-4AFE-9655-20CCD8D4F98A}|L041_PLINQ\\L041_PLINQ.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l041_plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008294E-641B-4AFE-9655-20CCD8D4F98A}|L041_PLINQ\\L041_PLINQ.csproj|solutionrelative:l041_plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AEFB8FB-2320-478E-B80E-3B13761F94FD}|L040_Yield\\L040_Yield_Return.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l040_yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,37 +70,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L045_Deadlock\\Program.cs",
+              "RelativeDocumentMoniker": "L045_Deadlock\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L045_Deadlock\\Program.cs",
+              "RelativeToolTip": "L045_Deadlock\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:42:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L044_Race_Condition\\Program.cs",
+              "RelativeDocumentMoniker": "L044_Race_Condition\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L044_Race_Condition\\Program.cs",
+              "RelativeToolTip": "L044_Race_Condition\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:11:33.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L043_Async_Await\\Program.cs",
+              "RelativeDocumentMoniker": "L043_Async_Await\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L043_Async_Await\\Program.cs",
+              "RelativeToolTip": "L043_Async_Await\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:48:24.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L042_Tasks\\Program.cs",
               "RelativeDocumentMoniker": "L042_Tasks\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L042_Tasks\\Program.cs",
               "RelativeToolTip": "L042_Tasks\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAHAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwEYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T09:38:17.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L041_PLINQ\\Program.cs",
               "RelativeDocumentMoniker": "L041_PLINQ\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L041_PLINQ\\Program.cs",
               "RelativeToolTip": "L041_PLINQ\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T08:50:04.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L040_Yield\\Program.cs",
               "RelativeDocumentMoniker": "L040_Yield\\Program.cs",
@@ -100,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L039_LINQ\\Program.cs",
               "RelativeDocumentMoniker": "L039_LINQ\\Program.cs",
@@ -112,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L037_ Library\\StringExtensions.cs",
               "RelativeDocumentMoniker": "L037_ Library\\StringExtensions.cs",
@@ -124,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L036_Extension_Methods\\Program.cs",
               "RelativeDocumentMoniker": "L036_Extension_Methods\\Program.cs",
@@ -136,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L035_Anonymous_Types\\Program.cs",
               "RelativeDocumentMoniker": "L035_Anonymous_Types\\Program.cs",
@@ -148,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L034_Lambda\\Program.cs",
               "RelativeDocumentMoniker": "L034_Lambda\\Program.cs",
@@ -160,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Subscriber.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Subscriber.cs",
               "RelativeDocumentMoniker": "L033_Events\\Subscriber.cs",
@@ -172,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Publisher.cs",
               "RelativeDocumentMoniker": "L033_Events\\Publisher.cs",
@@ -184,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L033_Events\\Program.cs",
               "RelativeDocumentMoniker": "L033_Events\\Program.cs",
@@ -196,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L032_Delegates\\Program.cs",
               "RelativeDocumentMoniker": "L032_Delegates\\Program.cs",

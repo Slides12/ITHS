@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L045_Deadlock/1.0.0": {
+        "runtime": {
+          "L045_Deadlock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L045_Deadlock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -63,3 +63,51 @@ Console.ReadKey();
 //        Console.WriteLine($"Task1: {i}");
 //    }
 //}
+
+
+
+
+
+//Exmaple of starting tastk with 2 ContinueWiths
+
+
+//Task.Run(() =>
+//{
+//    return "Hello";
+//})
+//    .ContinueWith(text =>
+//    {
+//        Console.WriteLine(text.Result);
+//        return text.Result[0];
+//    })
+//    .ContinueWith(text =>
+//    {
+//        Console.WriteLine(text.Result);
+//        return text.Result;
+//    })
+//    .ContinueWith(text =>
+//    {
+//        Console.WriteLine(text.Result +"i");
+//    });
+
+
+
+//***********************************
+
+
+//Task<string> task1 = Task.Run(() =>
+//{
+//    return "Hello";
+//});
+
+//Task<Char> task2 = task1.ContinueWith(task =>
+//{
+//    Console.WriteLine(task.Result);
+//    return task.Result[0];
+
+//});
+
+//task2.ContinueWith(task =>
+//{
+//    Console.WriteLine(task.Result);
+//});
