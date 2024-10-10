@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L023_Pass_by_Value_vs_Pass_by_reference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70583eca3c943001e676620cfcfe057c0d26e150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c3aa753f620adc08bda698334b59a15e2ae6d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("L023_Pass_by_Value_vs_Pass_by_reference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L023_Pass_by_Value_vs_Pass_by_reference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\bin\Debug\net8.0\L046_SOLID.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\bin\Debug\net8.0\L046_SOLID.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\bin\Debug\net8.0\L046_SOLID.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\bin\Debug\net8.0\L046_SOLID.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\bin\Debug\net8.0\L046_SOLID.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\refint\L046_SOLID.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\L046_SOLID.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L046_SOLID\obj\Debug\net8.0\ref\L046_SOLID.dll
