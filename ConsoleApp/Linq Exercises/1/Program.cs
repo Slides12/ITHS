@@ -45,9 +45,9 @@ var newList2 = people
 
 
 //Query syntax
-var newList02 = from p in people
+var newList02 = (from p in people
                 where p.FirstName.Length > p.LastName.Length
-                select new { FirstName = p.FirstName, LastName = p.LastName };
+                select new { FirstName = p.FirstName, LastName = p.LastName }).ToList();
 
 
 
