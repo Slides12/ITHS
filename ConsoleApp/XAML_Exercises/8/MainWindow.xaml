@@ -1,0 +1,46 @@
+﻿<Window x:Class="_8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        
+
+
+        <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Label >Students:</Label>
+            <ListBox Margin="0 10" HorizontalAlignment="Left" VerticalAlignment="Bottom"   Height="200" Width="200">
+                <ListBoxItem>Kalle Andersson</ListBoxItem>
+                <ListBoxItem>Anders Karlsson</ListBoxItem>
+                <ListBoxItem>Camilla Johansson</ListBoxItem>
+                <ListBoxItem>Johan Svensson</ListBoxItem>
+                <ListBoxItem>Mia Karlsson</ListBoxItem>
+            </ListBox>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+        <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Label HorizontalAlignment="Left" VerticalAlignment="Center">Firstname:</Label>
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="150" Height="30"></TextBox>
+        </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label HorizontalAlignment="Left" VerticalAlignment="Center">Lastname:</Label>
+                <TextBox HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="150" Height="30"></TextBox>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label HorizontalAlignment="Left" VerticalAlignment="Center">Email:</Label>
+                <TextBox HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="150" Height="30"></TextBox>
+            </StackPanel>
+            <Button Width="50">OK</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F2F666-ADF7-4698-AC85-2111657513D7}|8\\8.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57F2F666-ADF7-4698-AC85-2111657513D7}|8\\8.csproj|solutionrelative:8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419D5019-5016-4579-B0B9-0C25EA1DF629}|7\\7.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{419D5019-5016-4579-B0B9-0C25EA1DF629}|7\\7.csproj|solutionrelative:7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F2F666-ADF7-4698-AC85-2111657513D7}|8\\8.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F2F666-ADF7-4698-AC85-2111657513D7}|8\\8.csproj|solutionrelative:8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA00279-4714-4C91-AA34-8C3BEBB8B63A}|5\\5.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FA00279-4714-4C91-AA34-8C3BEBB8B63A}|5\\5.csproj|solutionrelative:5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DDCC47-208D-4C4B-8FFE-622B9089EAA9}|6\\6.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DDCC47-208D-4C4B-8FFE-622B9089EAA9}|6\\6.csproj|solutionrelative:6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DDCC47-208D-4C4B-8FFE-622B9089EAA9}|6\\6.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DDCC47-208D-4C4B-8FFE-622B9089EAA9}|6\\6.csproj|solutionrelative:6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419D5019-5016-4579-B0B9-0C25EA1DF629}|7\\7.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419D5019-5016-4579-B0B9-0C25EA1DF629}|7\\7.csproj|solutionrelative:7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA00279-4714-4C91-AA34-8C3BEBB8B63A}|5\\5.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA00279-4714-4C91-AA34-8C3BEBB8B63A}|5\\5.csproj|solutionrelative:5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F8781-04CF-4EEA-86E4-A4A1F97C399C}|4\\4.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\xaml_exercises\\4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D4F8781-04CF-4EEA-86E4-A4A1F97C399C}|4\\4.csproj|solutionrelative:4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F8781-04CF-4EEA-86E4-A4A1F97C399C}|4\\4.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4F8781-04CF-4EEA-86E4-A4A1F97C399C}|4\\4.csproj|solutionrelative:4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "8\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\8\\MainWindow.xaml",
+              "RelativeToolTip": "8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T13:13:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "8\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "8\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:13:42.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\7\\MainWindow.xaml",
+              "RelativeToolTip": "7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:48:42.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "7\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:48:42.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\6\\MainWindow.xaml",
+              "RelativeToolTip": "6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:43:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "6\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:43:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\5\\MainWindow.xaml",
+              "RelativeToolTip": "5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:34:50.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:34:49.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\4\\MainWindow.xaml",
+              "RelativeToolTip": "4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T12:25:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\XAML_Exercises\\4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:25:19.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

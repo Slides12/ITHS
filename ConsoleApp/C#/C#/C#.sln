@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L044_Race_Condition", "L044
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L045_Deadlock", "L045_Deadlock\L045_Deadlock.csproj", "{542ADDEB-D7C0-4599-A68A-ED203A2ACB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L046_SOLID", "L046_SOLID\L046_SOLID.csproj", "{998528CF-BF33-4524-B2DE-F2AF6BD74465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L046_SOLID", "L046_SOLID\L046_SOLID.csproj", "{998528CF-BF33-4524-B2DE-F2AF6BD74465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L047_Intro_WPF", "L047_Intro_WPF\L047_Intro_WPF.csproj", "{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{998528CF-BF33-4524-B2DE-F2AF6BD74465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{998528CF-BF33-4524-B2DE-F2AF6BD74465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{998528CF-BF33-4524-B2DE-F2AF6BD74465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
