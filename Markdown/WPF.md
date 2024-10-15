@@ -61,10 +61,13 @@
 * mc = ignorable
 * xmlns = namespaces
 
+## Layout
+
+* Stack panel och grid = för att stacka och sätta elemet på grids.
 
 
-* Stack panel och grid = för att stacka och sätta elemt på grids.
+```XML
+<Button x:Name ="button1">
+```
 
 
-
-* <Button x:Name ="button1">

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L049_Windows_and_Dialogs/1.0.0": {
+        "runtime": {
+          "L049_Windows_and_Dialogs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L049_Windows_and_Dialogs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
