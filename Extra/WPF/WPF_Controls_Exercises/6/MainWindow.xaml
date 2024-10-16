@@ -1,0 +1,104 @@
+﻿<Window x:Class="_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center">
+            
+            <Label >Students:</Label>
+            
+            <ListBox x:Name="listBox" 
+                     SelectionChanged="ListBox_SelectionChanged" 
+                     Margin="0 10" HorizontalAlignment="Left" 
+                     VerticalAlignment="Bottom"   
+                     Height="200" 
+                     Width="200">
+
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Add Student" 
+                                  Click="addButton_Click"/>
+                        <MenuItem x:Name="rmContextButton" 
+                                  Header="Remove Student" 
+                                  Click="rmButton_Click"/>
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+
+                <ListBoxItem>Kalle Andersson</ListBoxItem>
+                <ListBoxItem>Anders Karlsson</ListBoxItem>
+                <ListBoxItem>Camilla Johansson</ListBoxItem>
+                <ListBoxItem>Johan Svensson</ListBoxItem>
+                <ListBoxItem>Mia Karlsson</ListBoxItem>
+                
+            </ListBox>
+            
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label HorizontalAlignment="Left" VerticalAlignment="Center">Firstname:</Label>
+                <TextBox x:Name="firstNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="200" Height="30"></TextBox>
+            </StackPanel>
+            
+            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label HorizontalAlignment="Left" VerticalAlignment="Center">Lastname:</Label>
+                <TextBox x:Name="lastNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="200" Height="30"></TextBox>
+            </StackPanel>
+            
+            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label HorizontalAlignment="Left" VerticalAlignment="Center">Email:</Label>
+                <TextBox x:Name="emailTextBox" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5" Width="200" Height="30"></TextBox>
+            </StackPanel>
+            
+            
+            <Button x:Name="addButton" 
+                    Margin="5" 
+                    Width="100" 
+                    Content="Lägg till"
+                    Click="addButton_Click"
+                    />
+            
+            
+            <Button x:Name="rmButton" 
+                    Margin="5" 
+                    Width="100" 
+                    Content="Ta bort"
+                    Click="rmButton_Click"/>
+
+        </StackPanel>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Exit" 
+                              Click="MenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Edit">
+                    <MenuItem Header="_Add student"
+                              Click="addButton_Click"/>
+                    <MenuItem x:Name="removeStudentMenu" 
+                              Header="_Remove student"
+                              Click="rmButton_Click"/>
+                </MenuItem>
+            </Menu>
+
+        </DockPanel>
+
+    </Grid>
+</Window>

@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\l049_windows_and_dialogs\\windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\windows\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\windows\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\windows\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\l049_windows_and_dialogs\\windows\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\windows\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\windows\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F9C78FEF-287F-4A93-A0DD-0899AF713B25}|L048_WPF_Standardkontroller\\L048_WPF_Standardkontroller.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l048_wpf_standardkontroller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9C78FEF-287F-4A93-A0DD-0899AF713B25}|L048_WPF_Standardkontroller\\L048_WPF_Standardkontroller.csproj|solutionrelative:l048_wpf_standardkontroller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\windows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\windows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l049_windows_and_dialogs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}|L049_Windows_and_Dialogs\\L049_Windows_and_Dialogs.csproj|solutionrelative:l049_windows_and_dialogs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9C78FEF-287F-4A93-A0DD-0899AF713B25}|L048_WPF_Standardkontroller\\L048_WPF_Standardkontroller.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l048_wpf_standardkontroller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C78FEF-287F-4A93-A0DD-0899AF713B25}|L048_WPF_Standardkontroller\\L048_WPF_Standardkontroller.csproj|solutionrelative:l048_wpf_standardkontroller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,43 +35,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddUserWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
-              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
-              "RelativeToolTip": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:35:08.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddUserWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml",
-              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml",
-              "RelativeToolTip": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T13:27:44.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\App.xaml",
-              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\App.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\App.xaml",
-              "RelativeToolTip": "L049_Windows_and_Dialogs\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T13:21:27.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Window1.xaml",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\Window1.xaml",
               "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\Windows\\Window1.xaml",
@@ -92,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
+              "RelativeToolTip": "L049_Windows_and_Dialogs\\Windows\\AddUserWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:34:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\Windows\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\Windows\\Window1.xaml.cs",
@@ -104,27 +72,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\MainWindow.xaml.cs",
-              "RelativeToolTip": "L049_Windows_and_Dialogs\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L048_WPF_Standardkontroller\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "L048_WPF_Standardkontroller\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L048_WPF_Standardkontroller\\MainWindow.xaml.cs",
+              "RelativeToolTip": "L048_WPF_Standardkontroller\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:14:52.686Z",
+              "WhenOpened": "2024-10-16T11:19:52.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "L049_Windows_and_Dialogs\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L049_Windows_and_Dialogs\\MainWindow.xaml",
-              "RelativeToolTip": "L049_Windows_and_Dialogs\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L048_WPF_Standardkontroller\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "L048_WPF_Standardkontroller\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L048_WPF_Standardkontroller\\MainWindow.xaml",
+              "RelativeToolTip": "L048_WPF_Standardkontroller\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-15T13:14:50.482Z",
+              "WhenOpened": "2024-10-16T08:36:06.786Z",
               "EditorCaption": ""
             }
           ]
