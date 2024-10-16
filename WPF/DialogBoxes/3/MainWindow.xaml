@@ -20,7 +20,16 @@
                 </MenuItem>
             </Menu>
         </DockPanel>
-        <TextBox x:Name="textBox" IsReadOnly="True"/>
+
+            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Auto" >
+        <TextBox 
+                 Name="textBox"
+                 TextWrapping="Wrap"
+                 IsReadOnly="True"
+                 Height="450"
+                 Width="800"
+                 />
+            </ScrollViewer>
         </StackPanel>
     </Grid>
 </Window>
