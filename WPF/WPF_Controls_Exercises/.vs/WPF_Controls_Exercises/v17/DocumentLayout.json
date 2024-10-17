@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\Extra\\WPF\\WPF_Controls_Exercises\\",
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6.csproj|c:\\users\\djoha\\iths\\iths\\extra\\wpf\\wpf_controls_exercises\\6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6.csproj|solutionrelative:6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6\u00267\u00268\u00269.csproj|c:\\users\\djoha\\iths\\iths\\wpf\\wpf_controls_exercises\\6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6\u00267\u00268\u00269.csproj|solutionrelative:6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6.csproj|c:\\users\\djoha\\iths\\iths\\extra\\wpf\\wpf_controls_exercises\\6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7558375E-7941-40A8-93D6-BBFC624F77A9}|6\\6.csproj|solutionrelative:6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,23 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\Extra\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "6\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\Extra\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml",
               "RelativeToolTip": "6\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T11:31:10.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:31:10.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\Extra\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "6\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\Extra\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\WPF_Controls_Exercises\\6\\MainWindow.xaml.cs",
               "RelativeToolTip": "6\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAAANAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T11:31:09.929Z",
               "EditorCaption": ""

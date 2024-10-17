@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\App.xaml
-3-63368171
+42082369348
 
-81130790219
+9-794284457
 198155382431
-MainWindow.xaml;Windows\AddUserWindow.xaml;Windows\Window1.xaml;
+MainWindow.xaml;Windows\AddUserWindow.xaml;Windows\NonDialogWindow.xaml;Windows\Window1.xaml;
 
 True
 

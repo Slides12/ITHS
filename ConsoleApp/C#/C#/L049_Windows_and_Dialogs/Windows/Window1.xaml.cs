@@ -27,6 +27,8 @@ namespace L049_Windows_and_Dialogs.Windows
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             AddUserWindow addUserWindow = new AddUserWindow();
+
+
             var result = addUserWindow.ShowDialog();
 
             if(result == true)
@@ -34,6 +36,13 @@ namespace L049_Windows_and_Dialogs.Windows
                 listBox.Items.Add($"{addUserWindow.FirstName} {addUserWindow.LastName}");
             }
             
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            NonDialogWindow nonDialogWindow = new(myTextBox);
+
+            nonDialogWindow.Show();
         }
     }
 }

@@ -23,3 +23,5 @@ C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net
 C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net8.0-windows\Windows\Window1.baml
 C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net8.0-windows\Windows\AddUserWindow.g.cs
 C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net8.0-windows\Windows\AddUserWindow.baml
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net8.0-windows\Windows\NonDialogWindow.g.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L049_Windows_and_Dialogs\obj\Debug\net8.0-windows\Windows\NonDialogWindow.baml
