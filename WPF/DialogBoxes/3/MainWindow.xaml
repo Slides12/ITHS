@@ -42,7 +42,8 @@
 
                         <MenuItem x:Name="menuExitButton" 
                                   Header="_Exit" 
-                                  Click="menuExitButton_Click"/>
+                                  Click="menuExitButton_Click"
+                                  />
 
                     </MenuItem>
                     <MenuItem Header="Edit">
