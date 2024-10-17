@@ -22,7 +22,10 @@ namespace _3
     public partial class MainWindow : Window
     {
         private string path = "";
-        private string title = "";
+        private string line = "";
+        OpenFileDialog dialog = new OpenFileDialog();
+        SaveFileDialog saveDialog = new SaveFileDialog();
+
         public MainWindow()
         {
             Application.Current.MainWindow.Closing += new CancelEventHandler(MainWindow_Closing);
@@ -34,18 +37,15 @@ namespace _3
 
         private void menuOpenButton_Click(object sender, RoutedEventArgs e)
         {
-            var dialog = new OpenFileDialog();
-
-            var result = dialog.ShowDialog();
+            var resultOpen = dialog.ShowDialog();
             path = dialog.FileName;
-
             this.Title = System.IO.Path.GetFileName(dialog.FileName);
 
-            if (result == true)
+            if (resultOpen == true)
             {
                 using (StreamReader sr = new StreamReader(dialog.FileName))
                 {
-                    String line = sr.ReadToEnd();
+                    line = sr.ReadToEnd();
                     textBox.Text = line;
                 }
             }
@@ -58,28 +58,21 @@ namespace _3
 
         private void menuSaveButton_Click(object sender, RoutedEventArgs e)
         {
-            var dialog = new SaveFileDialog();
-            dialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            saveDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
             if (this.Title == "Untitled Document" || this.Title == "") { 
-            var result = dialog.ShowDialog();
-            this.Title = System.IO.Path.GetFileName(dialog.FileName);
-                path = dialog.FileName;
+            var result = saveDialog.ShowDialog();
+            this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
+                path = saveDialog.FileName;
 
             if (result == true)
             {
-                using (StreamWriter sw = new StreamWriter(dialog.FileName))
-                {
-                    sw.WriteLine(textBox.Text);
-                }
+                    SaveAs(saveDialog);
             }
             }
             else
             {
-                using (StreamWriter sw = new StreamWriter(path))
-                {
-                    sw.WriteLine(textBox.Text);
-                }
+                Save();
             }
         }
 
@@ -93,20 +86,15 @@ namespace _3
 
                 if (result == MessageBoxResult.Yes)
                 {
-                    var dialog = new SaveFileDialog();
-                    path = dialog.FileName;
-                    var diagResult = dialog.ShowDialog();
+                    var saveDialog = new SaveFileDialog();
+                    path = saveDialog.FileName;
+                    var diagResult = saveDialog.ShowDialog();
                     if (diagResult == true)
                     {
-                        using (StreamWriter sw = new StreamWriter(dialog.FileName))
-                        {
-                            sw.WriteLine(textBox.Text);
+                        SaveAs(saveDialog);
                         
                         textBox.Text = "";
                         this.Title = "Untitled Document";
-
-
-                        }
 
                     }
 
@@ -115,7 +103,6 @@ namespace _3
                 {
                     textBox.Text = "";
                     this.Title = "Untitled Document";
-
 
                 }
             }
@@ -126,61 +113,87 @@ namespace _3
 
         private void menuSaveAsButton_Click(object sender, RoutedEventArgs e)
         {
-            var dialog = new SaveFileDialog();
-            dialog.FileName = $"{this.Title}.txt";
-            var result = dialog.ShowDialog();
-            this.Title = System.IO.Path.GetFileName(dialog.FileName);
-            path = dialog.FileName;
+            var result = saveDialog.ShowDialog();
+            path = saveDialog.FileName;
+
+            this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
+
+
 
             if (result == true)
             {
-                using (StreamWriter sw = new StreamWriter(dialog.FileName))
-                {
-                    sw.WriteLine(textBox.Text);
-                }
+                SaveAs(saveDialog);
             }
         }
 
         void MainWindow_Closing(object sender, CancelEventArgs e)
         {
-            if(textBox.Text != "" || this.Title != "Untitled Document")
+
+            if (textBox.Text.Equals(line))
+            {
+                Environment.Exit(0);
+
+            }
+
+            if (textBox.Text != "" || this.Title != "Untitled Document")
             { 
-            MessageBoxResult result = MessageBox.Show("You have unsaved data, do you want to save?", "Unsaved progress!", MessageBoxButton.YesNo, MessageBoxImage.Warning);
-            if (result == MessageBoxResult.No)
+            MessageBoxResult result = MessageBox.Show("You have unsaved data, do you want to save?", "Unsaved progress!", MessageBoxButton.YesNoCancel, MessageBoxImage.Warning);
+            if(result == MessageBoxResult.Cancel)
+            {
+                    e.Cancel = true;
+            }
+            else if (result == MessageBoxResult.No)
             {
                     Environment.Exit(0);
 
             }
             else
             {
-                    var dialog = new SaveFileDialog();
-                    dialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
                     if (this.Title == "Untitled Document" || this.Title == "")
                     {
-                        var result1 = dialog.ShowDialog();
-                        this.Title = System.IO.Path.GetFileName(dialog.FileName);
-                        path = dialog.FileName;
+                        var result1 = saveDialog.ShowDialog();
+                        this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
 
                         if (result1 == true)
                         {
-                            using (StreamWriter sw = new StreamWriter(dialog.FileName))
-                            {
-                                sw.WriteLine(textBox.Text);
-                            }
+                            SaveAs(saveDialog);
                         }
                     }
                     else
                     {
-                        using (StreamWriter sw = new StreamWriter(path))
-                        {
-                            sw.WriteLine(textBox.Text);
-                        }
+                        Save();
                     }
                 }
             }
 
 
+        }
+
+        public void Save()
+        {
+            line = textBox.Text;
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                sw.WriteLine(textBox.Text);
+            }
+        }
+
+        public void SaveAs(SaveFileDialog dialog)
+        {
+            line = textBox.Text;
+
+            using (StreamWriter sw = new StreamWriter(dialog.FileName))
+            {
+                sw.WriteLine(textBox.Text);
+            }
+        }
+
+        private void textBox_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            int row = textBox.GetLineIndexFromCharacterIndex(textBox.CaretIndex);
+            int col = textBox.CaretIndex - textBox.GetCharacterIndexFromLineIndex(row);
+            textBlock.Text = "Line " + (row + 1) + ", Char " + (col + 1);
         }
     }
 }
