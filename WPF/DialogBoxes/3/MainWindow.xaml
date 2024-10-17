@@ -5,28 +5,54 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="1024" Width="800">
     <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+
         <StackPanel>
         <DockPanel>
             <Menu DockPanel.Dock="Top">
-                <MenuItem Header="_File">
-                    <MenuItem x:Name="menuOpenButton" 
+                <MenuItem Header="_File" >
+                        <MenuItem x:Name="menuNewButton" 
+                                Header="_New" 
+                                Click="menuNewButton_Click"/>
+
+                        <MenuItem x:Name="menuSaveButton"
+                                Header="_Save"
+                                Click="menuSaveButton_Click"/>
+                    
+                        <MenuItem x:Name="menuSaveAsButton" 
+                                  Header="_Save As"
+                                  Click="menuSaveAsButton_Click"/>
+
+                        <MenuItem x:Name="menuOpenButton" 
                               Header="_Open" 
                               Click="menuOpenButton_Click"/>
-                    <MenuItem x:Name="menuExitButton" 
-                              Header="_Exit" 
-                              Click="menuExitButton_Click"/>
-                </MenuItem>
+                    
+                        
+
+                        <MenuItem x:Name="menuExitButton" 
+                                  Header="_Exit" 
+                                  Click="menuExitButton_Click"/>
+
+                    </MenuItem>
             </Menu>
         </DockPanel>
 
-            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Auto" >
-        <TextBox 
+            <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Visible">
+            <TextBox 
                  Name="textBox"
                  TextWrapping="Wrap"
-                 IsReadOnly="True"
-                 Height="450"
+                 Height="1024"
                  Width="800"
                  />
             </ScrollViewer>
