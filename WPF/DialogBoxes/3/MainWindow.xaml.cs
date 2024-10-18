@@ -29,6 +29,7 @@ namespace _3
         public MainWindow()
         {
             Application.Current.MainWindow.Closing += new CancelEventHandler(MainWindow_Closing);
+            saveDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
             InitializeComponent();
             this.Title = "Untitled Document";
@@ -58,7 +59,6 @@ namespace _3
 
         private void menuSaveButton_Click(object sender, RoutedEventArgs e)
         {
-            saveDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
             if (this.Title == "Untitled Document" || this.Title == "") { 
             var result = saveDialog.ShowDialog();
