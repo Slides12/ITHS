@@ -28,7 +28,7 @@ namespace _5
         SaveFileDialog saveDialog = new SaveFileDialog();
         private string openFile = "";
         private int numberOfPalletes = 8;
-        private int sizeOfPainting = 20;
+        private int sizeOfPainting = 100;
 
 
         public MainWindow()
@@ -149,7 +149,6 @@ namespace _5
             for (int i = 0; i < hexas.Length-2;i++)
             {
                 if(hexas[i] != "") { 
-                Debug.WriteLine($"#{hexas[i]}");
                     if(index < numberOfPalletes)
                     {
                         Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
