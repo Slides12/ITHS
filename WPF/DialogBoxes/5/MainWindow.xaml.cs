@@ -133,7 +133,7 @@ namespace _5
             {
                 if(hexas[i] != "") { 
                 Debug.WriteLine($"#{hexas[i]}");
-                    if(i < numberOfPalletes)
+                    if(index < numberOfPalletes)
                     {
                         Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
                         (stackPanel.Children[i+1] as Rectangle).Fill = new SolidColorBrush(color);
@@ -141,10 +141,11 @@ namespace _5
                     else
                     {
                         Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
-                        (paintGrid.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
-                        index++;
+                        (paintGrid.Children[index- numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
 
                     }
+                    index++;
+
                 }
             }
             
