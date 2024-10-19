@@ -28,11 +28,13 @@ namespace _5
         SaveFileDialog saveDialog = new SaveFileDialog();
         private string openFile = "";
         private int numberOfPalletes = 8;
+        private int sizeOfPainting = 20;
 
 
         public MainWindow()
         {
             InitializeComponent();
+            SetColumnAndRowDefinitions();
             FillGridWRectangles();
             SetColorPalettes();
 
@@ -54,15 +56,30 @@ namespace _5
             }
         }
 
+        private void SetColumnAndRowDefinitions()
+        {
+            for(int i = 0; i < sizeOfPainting;i++)
+            {
+                ColumnDefinition columnDefinition = new ColumnDefinition();
+                RowDefinition rowDefinition = new RowDefinition();
+                columnDefinition.Width = new GridLength(80, GridUnitType.Star);
+                rowDefinition.Height = new GridLength(80, GridUnitType.Star);
+
+                paintGrid.ColumnDefinitions.Add(columnDefinition);
+                paintGrid.RowDefinitions.Add(rowDefinition);
+
+            }
+        }
+
         private void FillGridWRectangles()
         {
             paintGrid.Children.Clear();
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < sizeOfPainting; i++)
             {
-                for (int j = 0; j < 9; j++)
+                for (int j = 0; j < sizeOfPainting; j++)
                 {
                 Rectangle rect = new Rectangle();
-                rect.StrokeThickness = 1;
+                rect.StrokeThickness = .1;
                 rect.Stroke = new SolidColorBrush(Colors.Black);
                 rect.Fill = new SolidColorBrush(Colors.White);
                 rect.MouseLeftButtonDown += PaintTheRectangle_Click;
