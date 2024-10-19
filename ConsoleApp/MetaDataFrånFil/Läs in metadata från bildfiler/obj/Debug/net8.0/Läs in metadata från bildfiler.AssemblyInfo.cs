@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Läs in metadata från bildfiler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d4c9bd254019076b4b5924220607a49148dbf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87dca0defb09612ed806133c2eed43f2ad99b369")]
 [assembly: System.Reflection.AssemblyProductAttribute("Läs in metadata från bildfiler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Läs in metadata från bildfiler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

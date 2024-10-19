@@ -144,27 +144,31 @@ namespace _5
         {
             var result = dialog.ShowDialog();
             this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
-            string[] hexas = Load(dialog);
+            byte[] rgbByte = Load(dialog);
             int index = 0;
-            for (int i = 0; i < hexas.Length-2;i++)
+
+            for (int i = 0; i < rgbByte.Length; i+=3)
             {
-                if(hexas[i] != "") { 
-                    if(index < numberOfPalletes)
-                    {
-                        Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
-                        (stackPanel.Children[i+1] as Rectangle).Fill = new SolidColorBrush(color);
-                    }
-                    else
-                    {
-                        Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
-                        (paintGrid.Children[index- numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
-
-                    }
-                    index++;
-
+                if (i<numberOfPalletes * 3) { 
+                //Debug.WriteLine(rgbByte[i]);
+                byte r = rgbByte[i];     
+                byte g = rgbByte[i + 1]; 
+                byte b = rgbByte[i + 2];
+                Color color = new Color() { A = 255, R = r, G = g, B = b };
+                (stackPanel.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
                 }
+                else
+                {
+                    byte r = rgbByte[i];
+                    byte g = rgbByte[i + 1];
+                    byte b = rgbByte[i + 2];
+                    Color color = new Color() { A = 255, R = r, G = g, B = b };
+                    (paintGrid.Children[index - numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
+                }
+                index++;
             }
-            
+
+
         }
 
         private void menuExitButton_Click(object sender, RoutedEventArgs e)
@@ -185,17 +189,36 @@ namespace _5
 
         public void Save(SaveFileDialog dialog)
         {
-            using (StreamWriter sw = new StreamWriter(dialog.FileName))
+            using (FileStream stream = new FileStream(dialog.FileName, FileMode.Create))
             {
                 foreach (var item in stackPanel.Children)
                 {
-                    sw.Write(StringToBinary((item as Rectangle)?.Fill.ToString()));
+                    if(item != null) { 
+                    byte r = ((item as Rectangle)?.Fill as SolidColorBrush).Color.R;
+                    byte g = ((item as Rectangle)?.Fill as SolidColorBrush).Color.G;
+                    byte b = ((item as Rectangle)?.Fill as SolidColorBrush).Color.B;
+                        stream.WriteByte(r);
+                        stream.WriteByte(g);
+                        stream.WriteByte(b);
+
+                    }
+
+                    //sw.Write(StringToBinary(((item as Rectangle)?.Fill as SolidColorBrush).Color);
                 }
 
 
                 foreach (var item in paintGrid.Children)
                 {
-                    sw.Write(StringToBinary((item as Rectangle)?.Fill.ToString()));
+                    if (item != null)
+                    {
+                        byte r = ((item as Rectangle)?.Fill as SolidColorBrush).Color.R;
+                        byte g = ((item as Rectangle)?.Fill as SolidColorBrush).Color.G;
+                        byte b = ((item as Rectangle)?.Fill as SolidColorBrush).Color.B;
+                        stream.WriteByte(r);
+                        stream.WriteByte(g);
+                        stream.WriteByte(b);
+
+                    }
 
                 }
 
@@ -203,13 +226,9 @@ namespace _5
         }
 
 
-        public string[] Load(OpenFileDialog dialog)
+        public byte[] Load(OpenFileDialog dialog)
         {
-            using (StreamReader sr = new StreamReader(dialog.FileName))
-            {
-                openFile = sr.ReadToEnd();
-                return  BinaryToString(openFile).Split('#');
-            }
+            return File.ReadAllBytes(dialog.FileName);
         }
 
 
