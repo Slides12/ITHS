@@ -144,31 +144,32 @@ namespace _5
         {
             var result = dialog.ShowDialog();
             this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
-            byte[] rgbByte = Load(dialog);
             int index = 0;
 
-            for (int i = 0; i < rgbByte.Length; i+=3)
+            if(result == true) 
             {
-                if (i<numberOfPalletes * 3) { 
-                //Debug.WriteLine(rgbByte[i]);
-                byte r = rgbByte[i];     
-                byte g = rgbByte[i + 1]; 
-                byte b = rgbByte[i + 2];
-                Color color = new Color() { A = 255, R = r, G = g, B = b };
-                (stackPanel.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
-                }
-                else
+                byte[] rgbByte = Load(dialog);
+
+                for (int i = 0; i < rgbByte.Length; i+=3)
                 {
-                    byte r = rgbByte[i];
-                    byte g = rgbByte[i + 1];
+                    if (i<numberOfPalletes * 3) { 
+                    byte r = rgbByte[i];     
+                    byte g = rgbByte[i + 1]; 
                     byte b = rgbByte[i + 2];
                     Color color = new Color() { A = 255, R = r, G = g, B = b };
-                    (paintGrid.Children[index - numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
+                    (stackPanel.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
+                    }
+                    else
+                    {
+                        byte r = rgbByte[i];
+                        byte g = rgbByte[i + 1];
+                        byte b = rgbByte[i + 2];
+                        Color color = new Color() { A = 255, R = r, G = g, B = b };
+                        (paintGrid.Children[index - numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
+                    }
+                    index++;
                 }
-                index++;
             }
-
-
         }
 
         private void menuExitButton_Click(object sender, RoutedEventArgs e)
