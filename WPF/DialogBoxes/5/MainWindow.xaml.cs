@@ -1,4 +1,9 @@
 ﻿using _5.Windows;
+using Microsoft.Win32;
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -19,6 +24,11 @@ namespace _5
     public partial class MainWindow : Window
     {
         SolidColorBrush selectedColor = new SolidColorBrush();
+        OpenFileDialog dialog = new OpenFileDialog();
+        SaveFileDialog saveDialog = new SaveFileDialog();
+        private string openFile = "";
+        private int numberOfPalletes = 9;
+
 
         public MainWindow()
         {
@@ -34,7 +44,7 @@ namespace _5
             colorWindow.ShowDialog();
         }
 
-        private void rec1_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        private void SelectColorPallette_Click(object sender, MouseButtonEventArgs e)
         {
             ColorWindow colorWindow = new ColorWindow();
             colorWindow.ShowDialog();
@@ -55,8 +65,8 @@ namespace _5
                 rect.StrokeThickness = 1;
                 rect.Stroke = new SolidColorBrush(Colors.Black);
                 rect.Fill = new SolidColorBrush(Colors.White);
-                rect.MouseLeftButtonDown += rec1_MouseLeftButtonDown_1;
-                
+                rect.MouseLeftButtonDown += PaintTheRectangle_Click;
+                rect.MouseMove += PaintWhile_moveMouse;
                 paintGrid.Children.Add(rect);
                 Grid.SetRow(rect, i);
                 Grid.SetColumn(rect, j);
@@ -64,9 +74,17 @@ namespace _5
             }
         }
 
+        private void PaintWhile_moveMouse(object sender, MouseEventArgs e)
+        {
+            if(e.LeftButton == MouseButtonState.Pressed) { 
+            (sender as Rectangle).Fill = selectedColor;
+            }
+
+        }
+
         private void SetColorPalettes()
         {
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < numberOfPalletes; i++)
             {
 
                 Rectangle rect = new Rectangle();
@@ -75,18 +93,18 @@ namespace _5
                 rect.Stroke = new SolidColorBrush(Colors.Black);
                 rect.Width = 50;
                 rect.Height = 50;
-                rect.MouseRightButtonDown += rec1_MouseLeftButtonDown;
-                rect.MouseLeftButtonDown += rec1_MouseLeftButtonDown_2;
+                rect.MouseRightButtonDown += SelectColorPallette_Click;
+                rect.MouseLeftButtonDown += SelectedPallette_Click;
                 stackPanel.Children.Add(rect);
             }
         }
 
-        private void rec1_MouseLeftButtonDown_1(object sender, MouseButtonEventArgs e)
+        private void PaintTheRectangle_Click(object sender, MouseButtonEventArgs e)
         {
             (sender as Rectangle).Fill = selectedColor;
         }
 
-        private void rec1_MouseLeftButtonDown_2(object sender, MouseButtonEventArgs e)
+        private void SelectedPallette_Click(object sender, MouseButtonEventArgs e)
         {
             foreach (var child in stackPanel.Children)
             {
@@ -99,5 +117,105 @@ namespace _5
 
             selectedColor = (sender as Rectangle).Fill as SolidColorBrush;
         }
+
+        private void menuNewButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void menuOpenButton_Click(object sender, RoutedEventArgs e)
+        {
+            var result = dialog.ShowDialog();
+            this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
+            string[] hexas = Load(dialog);
+            int index = 0;
+            for (int i = 0; i < hexas.Length-1;i++)
+            {
+                if(hexas[i] != "") { 
+                Debug.WriteLine($"#{hexas[i]}");
+                    if(i < numberOfPalletes)
+                    {
+                        Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
+                        (stackPanel.Children[i + 1] as Rectangle).Fill = new SolidColorBrush(color);
+                    }
+                    else
+                    {
+                        Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
+                        (paintGrid.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
+                        index++;
+
+                    }
+                }
+            }
+            
+        }
+
+        private void menuExitButton_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.MainWindow.Close();
+
+        }
+
+
+        private void menuSaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            var result = saveDialog.ShowDialog();
+            this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
+            
+                Save(saveDialog);
+           
+        }
+
+        public void Save(SaveFileDialog dialog)
+        {
+            using (StreamWriter sw = new StreamWriter(dialog.FileName))
+            {
+                foreach (var item in stackPanel.Children)
+                {
+                    sw.Write(StringToBinary((item as Rectangle)?.Fill.ToString()));
+                }
+
+
+                foreach (var item in paintGrid.Children)
+                {
+                    sw.Write(StringToBinary((item as Rectangle)?.Fill.ToString()));
+
+                }
+
+            }
+        }
+
+
+        public string[] Load(OpenFileDialog dialog)
+        {
+            using (StreamReader sr = new StreamReader(dialog.FileName))
+            {
+                openFile = sr.ReadToEnd();
+                return  BinaryToString(openFile).Split('#');
+            }
+        }
+
+
+        public string StringToBinary(string data)
+        {
+            StringBuilder sb = new StringBuilder();
+            if(data != null) { 
+            foreach (char c in data.ToCharArray())
+                sb.Append(Convert.ToString(c, 2).PadLeft(8, '0'));
+            }
+            return sb.ToString();
+        }
+
+        public static string BinaryToString(string data)
+        {
+            List<Byte> byteList = new List<Byte>();
+
+            for (int i = 0; i < data.Length; i += 8)
+            {
+                byteList.Add(Convert.ToByte(data.Substring(i, 8), 2));
+            }
+            return Encoding.ASCII.GetString(byteList.ToArray());
+        }
+
     }
 }

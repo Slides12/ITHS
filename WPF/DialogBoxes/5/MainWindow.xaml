@@ -5,18 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_5"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="550" Width="900">
     <Grid x:Name="grid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="80"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <!--<ListBox  x:Name="listBox" 
-                  Grid.Column="1"
-                  Height="400"
-                    Width="700"/>-->
         
+
         <Grid x:Name="paintGrid" Grid.Column="1" Background="LightGray">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
@@ -42,69 +39,39 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
         </Grid>
-
-        <StackPanel x:Name="stackPanel" Grid.Row="0" Grid.RowSpan="9" VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Label Content="Color Palette"/>
-            
-            <!--<Rectangle x:Name="rec1"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"
-                       />
-            <Rectangle x:Name="rec2"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec3"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec4"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec5"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec6"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec7"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"/>
-            <Rectangle x:Name="rec8"
-                       Fill="Beige"
-                       Stroke="Black"
-                       Height="50"
-                       Width="50"
-                       MouseRightButtonDown="rec1_MouseLeftButtonDown"
-                       MouseLeftButtonDown="rec1_MouseLeftButtonDown_2"
-                       />-->
-        </StackPanel>
         
+        
+
+        <StackPanel x:Name="stackPanel" Grid.Row="0" Grid.RowSpan="9" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <DockPanel>
+                <Menu DockPanel.Dock="Top">
+                    <MenuItem Header="_File" >
+                        <MenuItem x:Name="menuNewButton" 
+                                    Header="_New" 
+                                    Click="menuNewButton_Click"/>
+
+                        <MenuItem x:Name="menuSaveButton"
+                                    Header="_Save"
+                                  Click="menuSaveButton_Click"/>
+
+                        <MenuItem x:Name="menuOpenButton" 
+                                  Header="_Open" 
+                                  Click="menuOpenButton_Click"/>
+
+                        <MenuItem x:Name="menuExitButton" 
+                                  Header="_Exit" 
+                                  Click="menuExitButton_Click"
+                                  />        
+
+                    </MenuItem>
+
+                </Menu>
+            </DockPanel>
+            <Label Content="Color Palette"/>
+        </StackPanel>
+
+
+        
+
     </Grid>
 </Window>
