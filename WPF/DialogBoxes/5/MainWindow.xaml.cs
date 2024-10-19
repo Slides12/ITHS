@@ -81,7 +81,7 @@ namespace _5
                 Rectangle rect = new Rectangle();
                 rect.StrokeThickness = .1;
                 rect.Stroke = new SolidColorBrush(Colors.Black);
-                rect.Fill = new SolidColorBrush(Colors.White);
+                rect.Fill = new SolidColorBrush(Colors.LightGray);
                 rect.MouseLeftButtonDown += PaintTheRectangle_Click;
                 rect.MouseMove += PaintWhile_moveMouse;
                 paintGrid.Children.Add(rect);
