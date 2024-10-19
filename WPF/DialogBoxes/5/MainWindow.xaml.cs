@@ -27,7 +27,7 @@ namespace _5
         OpenFileDialog dialog = new OpenFileDialog();
         SaveFileDialog saveDialog = new SaveFileDialog();
         private string openFile = "";
-        private int numberOfPalletes = 9;
+        private int numberOfPalletes = 8;
 
 
         public MainWindow()
@@ -129,14 +129,14 @@ namespace _5
             this.Title = System.IO.Path.GetFileName(saveDialog.FileName);
             string[] hexas = Load(dialog);
             int index = 0;
-            for (int i = 0; i < hexas.Length-1;i++)
+            for (int i = 0; i < hexas.Length-2;i++)
             {
                 if(hexas[i] != "") { 
                 Debug.WriteLine($"#{hexas[i]}");
                     if(i < numberOfPalletes)
                     {
                         Color color = (Color)ColorConverter.ConvertFromString($"#{hexas[i]}");
-                        (stackPanel.Children[i + 1] as Rectangle).Fill = new SolidColorBrush(color);
+                        (stackPanel.Children[i+1] as Rectangle).Fill = new SolidColorBrush(color);
                     }
                     else
                     {
