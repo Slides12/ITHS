@@ -30,9 +30,9 @@
             <DockPanel>
                 <Menu DockPanel.Dock="Top">
                     <MenuItem Header="_File" >
-                        <MenuItem x:Name="menuNewButton" 
-                                    Header="_New" 
-                                    Click="menuNewButton_Click"/>
+                        <MenuItem x:Name="menuSaveAsButton" 
+                                    Header="_SaveAs" 
+                                    Click="menuSaveAsButton_Click"/>
 
                         <MenuItem x:Name="menuSaveButton"
                                     Header="_Save"

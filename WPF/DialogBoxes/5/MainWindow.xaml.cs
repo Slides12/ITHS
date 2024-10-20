@@ -28,7 +28,7 @@ namespace _5
         SaveFileDialog saveDialog = new SaveFileDialog();
         private int numberOfPalletes = 8;
         private int sizeOfPainting = 100;
-
+        private byte[] pic;
 
         public MainWindow()
         {
@@ -146,10 +146,7 @@ namespace _5
             selectedColor = (sender as Rectangle).Fill as SolidColorBrush;
         }
 
-        private void menuNewButton_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+      
 
         private void menuOpenButton_Click(object sender, RoutedEventArgs e)
         {
@@ -199,6 +196,14 @@ namespace _5
            
         }
 
+        private void menuSaveAsButton_Click(object sender, RoutedEventArgs e)
+        {
+            var result = saveDialog.ShowDialog();
+
+            SaveAs(saveDialog);
+        }
+
+
         public void Save(SaveFileDialog dialog)
         {
             using (FileStream stream = new FileStream(dialog.FileName, FileMode.Create))
@@ -237,10 +242,50 @@ namespace _5
             }
         }
 
+        public void SaveAs(FileDialog dialog)
+        {
+            using (FileStream stream = new FileStream(dialog.FileName, FileMode.Create))
+            {
+                foreach (var item in stackPanel.Children)
+                {
+                    if (item != null)
+                    {
+                        byte r = ((item as Rectangle)?.Fill as SolidColorBrush).Color.R;
+                        byte g = ((item as Rectangle)?.Fill as SolidColorBrush).Color.G;
+                        byte b = ((item as Rectangle)?.Fill as SolidColorBrush).Color.B;
+                        stream.WriteByte(r);
+                        stream.WriteByte(g);
+                        stream.WriteByte(b);
+
+                    }
+
+                    //sw.Write(StringToBinary(((item as Rectangle)?.Fill as SolidColorBrush).Color);
+                }
+
+
+                foreach (var item in paintGrid.Children)
+                {
+                    if (item != null)
+                    {
+                        byte r = ((item as Rectangle)?.Fill as SolidColorBrush).Color.R;
+                        byte g = ((item as Rectangle)?.Fill as SolidColorBrush).Color.G;
+                        byte b = ((item as Rectangle)?.Fill as SolidColorBrush).Color.B;
+                        stream.WriteByte(r);
+                        stream.WriteByte(g);
+                        stream.WriteByte(b);
+
+                    }
+
+                }
+            }
+
+        }
+
 
         public byte[] Load(OpenFileDialog dialog)
         {
-            return File.ReadAllBytes(dialog.FileName);
+            pic = File.ReadAllBytes(dialog.FileName);
+            return pic;
         }
 
     }
