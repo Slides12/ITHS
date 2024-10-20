@@ -26,7 +26,6 @@ namespace _5
         SolidColorBrush selectedColor = new SolidColorBrush();
         OpenFileDialog dialog = new OpenFileDialog();
         SaveFileDialog saveDialog = new SaveFileDialog();
-        private string openFile = "";
         private int numberOfPalletes = 8;
         private int sizeOfPainting = 100;
 
@@ -40,11 +39,7 @@ namespace _5
 
         }
 
-        private void colourButton_Click(object sender, RoutedEventArgs e)
-        {
-            ColorWindow colorWindow = new ColorWindow();
-            colorWindow.ShowDialog();
-        }
+      
 
         private void SelectColorPallette_Click(object sender, MouseButtonEventArgs e)
         {

@@ -19,7 +19,7 @@ namespace _5.Windows
     /// </summary>
     public partial class ColorWindow : Window
     {
-        Color color = new Color() { A = 255, R = 0, G = 0, B = 0 };
+        public Color color = new Color() { A = 255, R = 0, G = 0, B = 0 };
 
         public SolidColorBrush MySolidColorBrush { 
             get
@@ -27,33 +27,39 @@ namespace _5.Windows
                 return new SolidColorBrush(color);
             } set 
             { 
-            MySolidColorBrush = value;
+                MySolidColorBrush = value;
             } 
         }
 
         public ColorWindow()
         {
             InitializeComponent();
+            SetStartColor();
 
+        }
+
+        public void SetStartColor()
+        {
+            rectangle.Fill = MySolidColorBrush;
 
         }
 
         private void redSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             color.R = (byte)redSlider.Value;
-            rectangle.Fill = new SolidColorBrush(color);
+            rectangle.Fill = MySolidColorBrush;
         }
 
         private void greenSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             color.G = (byte)greenSlider.Value;
-            rectangle.Fill = new SolidColorBrush(color);
+            rectangle.Fill = MySolidColorBrush;
         }
 
         private void blueSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             color.B = (byte)blueSlider.Value;
-            rectangle.Fill = new SolidColorBrush(color);
+            rectangle.Fill = MySolidColorBrush;
         }
 
         private void cancelButton_Click(object sender, RoutedEventArgs e)
