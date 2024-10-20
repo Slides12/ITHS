@@ -19,7 +19,7 @@ namespace _5.Windows
     /// </summary>
     public partial class ColorWindow : Window
     {
-        public Color color = new Color() { A = 255, R = 0, G = 0, B = 0 };
+        public Color color ;
 
         public SolidColorBrush MySolidColorBrush { 
             get
@@ -34,13 +34,16 @@ namespace _5.Windows
         public ColorWindow()
         {
             InitializeComponent();
-            SetStartColor();
+            //SetStartColor();
 
         }
 
-        public void SetStartColor()
+        public void SetStartColor(SolidColorBrush gg)
         {
-            rectangle.Fill = MySolidColorBrush;
+            rectangle.Fill = gg;
+            redSlider.Value = gg.Color.R;
+            greenSlider.Value = gg.Color.G;
+            blueSlider.Value = gg.Color.B;
 
         }
 

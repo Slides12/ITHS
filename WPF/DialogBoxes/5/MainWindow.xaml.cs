@@ -43,7 +43,23 @@ namespace _5
 
         private void SelectColorPallette_Click(object sender, MouseButtonEventArgs e)
         {
-            ColorWindow colorWindow = new ColorWindow();
+            ColorWindow colorWindow = new ColorWindow() { color = new Color() { A = 255, 
+                R = selectedColor.Color.R, 
+                G = selectedColor.Color.G, 
+                B = selectedColor.Color.B
+            }
+            };
+            foreach (var child in stackPanel.Children)
+            {
+                if (child is Rectangle rect)
+                {
+                    rect.StrokeThickness = 1;
+                }
+            }
+
+
+            selectedColor = (sender as Rectangle).Fill as SolidColorBrush;
+            colorWindow.SetStartColor(selectedColor);
             colorWindow.ShowDialog();
             if(colorWindow.DialogResult == true) {
             selectedColor = colorWindow.MySolidColorBrush;
