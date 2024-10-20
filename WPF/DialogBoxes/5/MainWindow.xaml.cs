@@ -158,25 +158,30 @@ namespace _5
             {
                 byte[] rgbByte = Load(dialog);
 
-                for (int i = 0; i < rgbByte.Length; i+=3)
+                for (int i = 0; i < rgbByte.Length; i += 3)
                 {
-                    if (i<numberOfPalletes * 3) { 
-                    byte r = rgbByte[i];     
-                    byte g = rgbByte[i + 1]; 
-                    byte b = rgbByte[i + 2];
-                    Color color = new Color() { A = 255, R = r, G = g, B = b };
-                    (stackPanel.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
-                    }
-                    else
+                    if (i < numberOfPalletes * 3)
                     {
                         byte r = rgbByte[i];
                         byte g = rgbByte[i + 1];
                         byte b = rgbByte[i + 2];
                         Color color = new Color() { A = 255, R = r, G = g, B = b };
-                        (paintGrid.Children[index - numberOfPalletes] as Rectangle).Fill = new SolidColorBrush(color);
+                        (stackPanel.Children[index] as Rectangle).Fill = new SolidColorBrush(color);
                     }
+                   
                     index++;
                 }
+
+                for(int i = 0; i < rgbByte.Length - numberOfPalletes * 3; i++)
+                {
+                    if (rgbByte[i+numberOfPalletes*3] < numberOfPalletes)
+                    {
+                        Color color = ((stackPanel.Children[rgbByte[i + numberOfPalletes * 3]] as Rectangle).Fill as SolidColorBrush).Color;
+
+                        (paintGrid.Children[i] as Rectangle).Fill = new SolidColorBrush(color);
+                    }
+                }
+
             }
         }
 
@@ -219,21 +224,24 @@ namespace _5
                         stream.WriteByte(b);
 
                     }
-
-                    //sw.Write(StringToBinary(((item as Rectangle)?.Fill as SolidColorBrush).Color);
                 }
 
 
-                foreach (var item in paintGrid.Children)
+                for(int i = 0; i < paintGrid.Children.Count;i++)
                 {
-                    if (item != null)
+
+                    for (int j = 0; j < stackPanel.Children.Count;j++)
                     {
-                        byte r = ((item as Rectangle)?.Fill as SolidColorBrush).Color.R;
-                        byte g = ((item as Rectangle)?.Fill as SolidColorBrush).Color.G;
-                        byte b = ((item as Rectangle)?.Fill as SolidColorBrush).Color.B;
-                        stream.WriteByte(r);
-                        stream.WriteByte(g);
-                        stream.WriteByte(b);
+                        if ((paintGrid.Children[i] as Rectangle).Fill == (stackPanel.Children[j] as Rectangle).Fill)
+                        {
+                            stream.WriteByte((byte)j);
+                            break;
+                        }
+                        else if(j == stackPanel.Children.Count-1)
+                        {
+                            stream.WriteByte((byte)100);
+
+                        }
 
                     }
 
@@ -258,8 +266,6 @@ namespace _5
                         stream.WriteByte(b);
 
                     }
-
-                    //sw.Write(StringToBinary(((item as Rectangle)?.Fill as SolidColorBrush).Color);
                 }
 
 
