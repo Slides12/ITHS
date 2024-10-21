@@ -95,9 +95,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L046_SOLID", "L046_SOLID\L0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L047_Intro_WPF", "L047_Intro_WPF\L047_Intro_WPF.csproj", "{468B38FC-BFAE-4A2C-ABCB-FB4256D0B466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L048_WPF_Standardkontroller", "L048_WPF_Standardkontroller\L048_WPF_Standardkontroller.csproj", "{F9C78FEF-287F-4A93-A0DD-0899AF713B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L048_WPF_Standardkontroller", "L048_WPF_Standardkontroller\L048_WPF_Standardkontroller.csproj", "{F9C78FEF-287F-4A93-A0DD-0899AF713B25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L049_Windows_and_Dialogs", "L049_Windows_and_Dialogs\L049_Windows_and_Dialogs.csproj", "{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L049_Windows_and_Dialogs", "L049_Windows_and_Dialogs\L049_Windows_and_Dialogs.csproj", "{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L050_DataBinding", "L050_DataBinding\L050_DataBinding.csproj", "{40BC772A-E328-435D-8BC8-BBFF68BA4368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L051_DataContext", "L051_DataContext\L051_DataContext.csproj", "{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +301,14 @@ Global
 		{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5358C19-C7E9-49A5-A6E0-CAD6E0231078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BC772A-E328-435D-8BC8-BBFF68BA4368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BC772A-E328-435D-8BC8-BBFF68BA4368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BC772A-E328-435D-8BC8-BBFF68BA4368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BC772A-E328-435D-8BC8-BBFF68BA4368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

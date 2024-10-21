@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L040_Yield_Return")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec81e0594d2053942f26e56bf42362c19e5a9ea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9be634c8982d19adf369c7172d0a10cf2ed602")]
 [assembly: System.Reflection.AssemblyProductAttribute("L040_Yield_Return")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L040_Yield_Return")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

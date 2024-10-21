@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZRi7ZHz6HHbKL1O1lmjW3GDxwac/K/YCiHnjGztF6m10J3KVdxCAVewnaRTAbmsMNgxK010JJMfBQuCz17PNA==",
+  "dgSpecHash": "TJil4vOVLSs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L044_Race_Condition\\L044_Race_Condition.csproj",
+  "projectFilePath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L044_Race_Condition\\L044_Race_Condition.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

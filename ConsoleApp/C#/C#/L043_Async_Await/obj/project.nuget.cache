@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k3xNGS7WYVreheNGY4NZWs+MCbf/e8GgTsZ2gxj08DlXNO0Yk7XBjDNVrG1aAHJiJhd0yhpPBC/3eJqqO9AYcw==",
+  "dgSpecHash": "jNwxo09nbus=",
   "success": true,
-  "projectFilePath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L043_Async_Await\\L043_Async_Await.csproj",
+  "projectFilePath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L043_Async_Await\\L043_Async_Await.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
