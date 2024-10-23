@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAt38SrwnecVIMBA6FyRvp3PRjGASQ6SXtBD3nFKeHYkfzXoq/Evh59Gl91S9Wk+pZXrI0l5LX0sGUSY9WDw1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djoha\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

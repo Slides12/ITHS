@@ -1,22 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\",
+  "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l051_datacontext\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|solutionrelative:l051_datacontext\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l051_datacontext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|solutionrelative:l051_datacontext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\questionpackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\questionpackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l051_datacontext\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|solutionrelative:l051_datacontext\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|c:\\users\\djoha\\iths\\consoleapp\\c#\\c#\\l051_datacontext\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ECC6CB3-BB41-4EEF-93C4-565B0541BFD4}|L051_DataContext\\L051_DataContext.csproj|solutionrelative:l051_datacontext\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\configurationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\configurationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\playerview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\playerview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\playerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\playerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\configurationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\configurationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\view\\configurationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\view\\configurationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\model\\questionpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\model\\questionpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,58 +73,194 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:21:13.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Moon.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\Moon.cs",
-              "RelativeDocumentMoniker": "L051_DataContext\\Moon.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\Moon.cs",
-              "RelativeToolTip": "L051_DataContext\\Moon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:01:17.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "L051_DataContext\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\MainWindow.xaml.cs",
-              "RelativeToolTip": "L051_DataContext\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:54:00.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Planet.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\Planet.cs",
-              "RelativeDocumentMoniker": "L051_DataContext\\Planet.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\Planet.cs",
-              "RelativeToolTip": "L051_DataContext\\Planet.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:52:38.643Z",
+              "WhenOpened": "2024-10-23T12:13:53.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "L051_DataContext\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L051_DataContext\\MainWindow.xaml",
-              "RelativeToolTip": "L051_DataContext\\MainWindow.xaml",
+              "Title": "QuestionPackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\QuestionPackViewModel.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\QuestionPackViewModel.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\QuestionPackViewModel.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\QuestionPackViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:21:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:54:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigurationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\ConfigurationViewModel.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\ConfigurationViewModel.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\ConfigurationViewModel.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\ConfigurationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:20:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\PlayerView.xaml.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\PlayerView.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\PlayerView.xaml.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\PlayerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:33:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerView.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\PlayerView.xaml",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\PlayerView.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\PlayerView.xaml",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\PlayerView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T12:44:48.748Z",
+              "WhenOpened": "2024-10-23T13:22:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\MenuView.xaml.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\MenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\MenuView.xaml.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\MenuView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:08:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\MenuView.xaml",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\MenuView.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\MenuView.xaml",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\MenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T11:09:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\ConfigurationView.xaml.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\ConfigurationView.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\ConfigurationView.xaml.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\ConfigurationView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:45:20.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigurationView.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\ConfigurationView.xaml",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\View\\ConfigurationView.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\View\\ConfigurationView.xaml",
+              "RelativeToolTip": "L052_Labb3_Code-along\\View\\ConfigurationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T13:21:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionPack.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\Model\\QuestionPack.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\Model\\QuestionPack.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\Model\\QuestionPack.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\Model\\QuestionPack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:48:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\Model\\Question.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\Model\\Question.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\Model\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:38:53.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\MainWindow.xaml.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:28:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\MainWindow.xaml",
+              "RelativeToolTip": "L052_Labb3_Code-along\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T08:28:42.728Z",
               "EditorCaption": ""
             }
           ]

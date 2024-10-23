@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj": {}
+    "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj": {
+    "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj",
+        "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj",
         "projectName": "L030_Stack",
-        "projectPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj",
+        "projectPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\L030_Stack.csproj",
         "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djoha\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\obj\\",
+        "outputPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L030_Stack\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\djoha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,14 +11,14 @@ namespace L051_DataContext
 {
     internal class Planet
     {
-        private string name;
+        private string _name;
 
         public string Name
         {
-            get => name; 
+            get => _name; 
             set
             {
-                name = value;
+                _name = value;
 
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("Name"));
             }

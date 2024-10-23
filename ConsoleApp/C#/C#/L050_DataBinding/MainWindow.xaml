@@ -29,11 +29,12 @@
             
             <TextBox x:Name="textBox1"
                  Margin="10" 
-                 Text="{Binding ElementName=textBox2,
-                Path=Text, 
-                Mode=TwoWay, 
-                UpdateSourceTrigger=PropertyChanged}"
-                     Background="{StaticResource myColorW}"/>
+                 Text="{Binding 
+                        ElementName=textBox2,
+                        Path=Text, 
+                        Mode=TwoWay, 
+                        UpdateSourceTrigger=PropertyChanged}"
+                 Background="{StaticResource myColorW}"/>
 
 
             <TextBox x:Name="textBox2"

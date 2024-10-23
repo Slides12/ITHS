@@ -19,7 +19,6 @@ namespace L050_DataBinding
         public MainWindow()
         {
             InitializeComponent();
-            var grid=myGrid.Resources;
         }
 
         //private void textBox1_TextChanged(object sender, TextChangedEventArgs e)

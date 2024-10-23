@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L019_Main_method_entry_point")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9be634c8982d19adf369c7172d0a10cf2ed602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03d5ff37d04afb9684a690caec0f05ce8f936083")]
 [assembly: System.Reflection.AssemblyProductAttribute("L019_Main_method_entry_point")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L019_Main_method_entry_point")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
