@@ -54,7 +54,7 @@ namespace L052_Labb3_Code_along.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/L052_Labb3_Code-along;component/view/playerview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/L052_Labb3_Code-along;V1.0.0.0;component/view/playerview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\PlayerView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

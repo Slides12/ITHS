@@ -1,0 +1,14 @@
+[
+  {
+    "FirstName": "Kalle",
+    "LastName": "Andersson",
+    "IsStudent": true,
+    "Length": 182
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Andersson",
+    "IsStudent": false,
+    "Length": 172
+  }
+]

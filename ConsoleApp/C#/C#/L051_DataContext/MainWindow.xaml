@@ -15,10 +15,14 @@
             <TextBox x:Name="textBox" 
                 Margin="10"
                 Text="{Binding Path=Name, Mode=TwoWay}"/>
+            
+            
             <StackPanel DataContext="{Binding Path=Moons[0]}">
                 <Button 
                 Margin="10"
                 Content="{Binding Path=Name}"/>
+                
+                
             </StackPanel>
 
             <Button Content="{Binding Path=Name}" 

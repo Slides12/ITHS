@@ -1,0 +1,15 @@
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\bin\Debug\net8.0\L053_JSON.exe
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\bin\Debug\net8.0\L053_JSON.deps.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\bin\Debug\net8.0\L053_JSON.runtimeconfig.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\bin\Debug\net8.0\L053_JSON.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\bin\Debug\net8.0\L053_JSON.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\refint\L053_JSON.dll
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.pdb
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\L053_JSON.genruntimeconfig.cache
+C:\Users\djoha\ITHS\ITHS\ConsoleApp\C#\C#\L053_JSON\obj\Debug\net8.0\ref\L053_JSON.dll
