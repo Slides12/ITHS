@@ -1,84 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|c:\\users\\djoha\\iths\\iths\\wpf\\dialogboxes\\5\\windows\\colorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|solutionrelative:5\\windows\\colorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|c:\\users\\djoha\\iths\\iths\\wpf\\dialogboxes\\5\\windows\\colorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|solutionrelative:5\\windows\\colorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|solutionrelative:5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FF9140A-B942-44D9-ABE6-CF6B728291BA}|5\\5\u00266\u00267.csproj|solutionrelative:5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\Windows\\ColorWindow.xaml.cs",
-              "RelativeDocumentMoniker": "5\\Windows\\ColorWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\Windows\\ColorWindow.xaml.cs",
-              "RelativeToolTip": "5\\Windows\\ColorWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:38:51.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ColorWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\Windows\\ColorWindow.xaml",
-              "RelativeDocumentMoniker": "5\\Windows\\ColorWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\Windows\\ColorWindow.xaml",
-              "RelativeToolTip": "5\\Windows\\ColorWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T08:12:28.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "5\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\MainWindow.xaml.cs",
-              "RelativeToolTip": "5\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAKwAAAAAAAAAAAAYwN0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T09:03:50.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "5\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\WPF\\DialogBoxes\\5\\MainWindow.xaml",
-              "RelativeToolTip": "5\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-19T09:03:40.461Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

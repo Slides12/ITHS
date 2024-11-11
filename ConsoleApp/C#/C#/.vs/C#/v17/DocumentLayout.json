@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05FECB95-E385-4DC2-A0F5-69CF6EFE602E}|L053_JSON\\L053_JSON.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l053_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|c:\\users\\djoha\\iths\\iths\\consoleapp\\c#\\c#\\l052_labb3_code-along\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB79179-1EC7-4D2B-982A-3A239AACB6AE}|L052_Labb3_Code-along\\L052_Labb3_Code-along.csproj|solutionrelative:l052_labb3_code-along\\viewmodel\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FECB95-E385-4DC2-A0F5-69CF6EFE602E}|L053_JSON\\L053_JSON.csproj|C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\l053_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05FECB95-E385-4DC2-A0F5-69CF6EFE602E}|L053_JSON\\L053_JSON.csproj|solutionrelative:l053_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "RelativeToolTip": "L052_Labb3_Code-along\\ViewModel\\PlayerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:09:41.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L053_JSON\\Program.cs",
               "RelativeDocumentMoniker": "L053_JSON\\Program.cs",
               "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\ConsoleApp\\C#\\C#\\L053_JSON\\Program.cs",
               "RelativeToolTip": "L053_JSON\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAdAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwDYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:39:18.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:39:18.082Z"
             }
           ]
         }
