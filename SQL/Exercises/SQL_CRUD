@@ -24,6 +24,7 @@ och säsonger i formatet ”S01E01”, ”S01E02”, osv.
 Tips: kolla upp funktionen format()
 
 ```SQL
+--Answer
 select Title, 
     'S' + RIGHT(CONCAT('00',Season),2) 
     + 'E' + RIGHT(CONCAT('00', Episode),2) 
@@ -38,6 +39,7 @@ den blir de 2 första bokstäverna i förnamnet, och de 2 första i efternamnet
 bokstäver.
 
 ```SQL
+--Answer
 select LOWER(RIGHT(firstname,2) 
     + RIGHT(lastname,2)) 
     as username 
@@ -49,6 +51,7 @@ Uppdatera (kopia på) tabellen airports så att alla null-värden i kolumnerna
 Time och DST byts ut mot ’-’
 
 ```SQL
+--Answer
 update airportsCopy
 set DST = '-'
 where DST is null;
@@ -64,6 +67,7 @@ Ta bort de rader från (kopia på) tabellen Elements där ”Name” är någon 
 följande: 'Erbium', 'Helium', 'Nitrogen', 'Platinum', 'Selenium', samt alla rader där ”Name” börjar på någon av bokstäverna d, k, m, o, eller u.
 
 ```SQL
+--Answer
 delete from ElementsCopy 
 	where (Name LIKE 'd%' 
        OR Name LIKE 'k%' 
@@ -84,6 +88,7 @@ med värdet ’Yes’ för de rader där ”Name” börjar med bokstäverna i
 
 
 ```SQL
+--Answer
 select symbol,name 
 	into ele 
 from Elements;
@@ -109,6 +114,18 @@ select * from Colors; (Dvs, återskapa den saknade kolumnen från RGBvärdena i 
 Kopiera kolumnerna ”Integer” och ”String” från tabellen ”Types” till en ny
 tabell. Gör sedan en select från den nya tabellen som ger samma resultat
 som du skulle fått från select * from types;
+
+```SQL
+--Answer
+select * from Types;
+
+select integer,string, 
+format(integer* 1.0 /100, 'N')  as float,
+integer % 2 as Bool,
+GETDATE() as DateTime
+from Typess;
+```
+
 
 Vissa uppgifter ovan kan kräva att ni använder funktioner vi inte gått igenom
 ännu. Kolla [dokumentationen för SQL Server](https://learn.microsoft.com/en-us/sql/t-sql/functions/functions?view=sql-server-ver16), och se om ni kan hitta lämpliga
