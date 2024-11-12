@@ -82,6 +82,24 @@ med värdet ’Yes’ för de rader där ”Name” börjar med bokstäverna i
 
     Ex: ’He’ -> ’Helium’ -> ’Yes’, ’Mg’ -> ’Magnesium’ -> ’No’.
 
+
+```SQL
+select symbol,name 
+	into ele 
+from Elements;
+
+alter table ele
+	add Match nvarchar(max);
+
+select * from ele;
+
+update ele set Match = case
+					when LEFT(symbol,2) = Left(name,2)
+					then 'Yes'
+					else 'No'
+					end;
+```
+
 ## 6. Beräkna värdet i 'Code' från RGB-värdena
 Kopiera tabellen Colors till Colors2, men skippa kolumnen ”Code”. Gör
 sedan en select från Colors2 som ger samma resultat som du skulle fått från
