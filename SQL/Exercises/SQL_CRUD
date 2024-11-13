@@ -110,6 +110,15 @@ Kopiera tabellen Colors till Colors2, men skippa kolumnen ”Code”. Gör
 sedan en select från Colors2 som ger samma resultat som du skulle fått från
 select * from Colors; (Dvs, återskapa den saknade kolumnen från RGBvärdena i resultatet).
 
+
+
+```SQL
+--Answer
+select *
+,Hex = concat(format(red,'X'),format(green,'X'),format(blue,'X')) 
+from colors2
+```
+
 ## 7. Beräkna 'Float', 'DateTime' och 'Bool' kolumnerna
 Kopiera kolumnerna ”Integer” och ”String” från tabellen ”Types” till en ny
 tabell. Gör sedan en select från den nya tabellen som ger samma resultat
