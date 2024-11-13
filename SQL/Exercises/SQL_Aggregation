@@ -89,11 +89,41 @@ Sortera raderna efter för- och efternamn.
 
 ***Tips:*** *Information om kön finns inbakat i svenska personnummer.*
 
+```SQL
+--Answer
+
+select concat(FirstName,' ',LastName) as Namn, 
+cast(year(getdate())as int) - concat(19,left(id,2)) as Ålder,
+case
+when left(right(id,2),1) % 2 = 0
+	then 'kvinna'
+	else 'man'
+	end as kön
+from Users
+order by FirstName, LastName
+
+```
+
 ## 5. Sammanställ data för olika regioner
 Ta ut en lista över regioner i tabellen ”Countries” där det för varje region
 framgår regionens namn, antal länder i regionen, totalt antal invånare,
 total area, befolkningstätheten med 2 decimaler, samt
 spädbarnsdödligheten per 100.000 födslar avrundat till heltal.
+
+```SQL
+--Answer
+
+select * from Countries
+
+
+select region, 
+count(country) as länder,
+sum(cast(Population as bigint)) as invånare,
+sum([Area (sq# mi#)]) as area
+from Countries
+group by region
+```
+
 
 ## 6. Gruppera per land
 Från tabellen ”Airports”, gruppera per land och ta ut kolumner som visar:
