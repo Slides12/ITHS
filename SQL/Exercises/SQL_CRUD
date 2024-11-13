@@ -27,7 +27,7 @@ Tips: kolla upp funktionen format()
 --Answer
 select Title, 
     'S' + RIGHT(CONCAT('00',Season),2) 
-    + 'E' + RIGHT(CONCAT('00', Episode),2) 
+    + 'E' + RIGHT(CONCAT('00', EpisodeInSeason),2) 
     as Episode 
 from GameOfThrones;
 ```
@@ -69,12 +69,12 @@ följande: 'Erbium', 'Helium', 'Nitrogen', 'Platinum', 'Selenium', samt alla rad
 ```SQL
 --Answer
 delete from ElementsCopy 
-	where (Name LIKE 'd%' 
-       OR Name LIKE 'k%' 
-       OR Name LIKE 'm%' 
-       OR Name LIKE 'o%' 
-       OR Name LIKE 'u%') 
-	OR Name in ('Erbium', 'Helium', 'Nitrogen', 'Platinum', 'Selenium');
+	where (Name like 'd%' 
+       or Name like 'k%' 
+       or Name like 'm%' 
+       or Name like 'o%' 
+       or Name like 'u%') 
+	or Name in ('Erbium', 'Helium', 'Nitrogen', 'Platinum', 'Selenium');
 
 ```
 
