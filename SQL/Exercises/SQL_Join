@@ -154,6 +154,47 @@ angivits i @playlist efter följande exempel:
 
 ``... Resten av låtarna``
 
+
+```SQL
+-- Answer
+declare @playlist varchar(max) = 'Heavy Metal Classic';
+
+select
+	g.Name as Genre,
+	ar.Name as Artist,
+	al.Title as Album,
+	t.Name as Track,
+	concat(format(datepart(minute,dateadd(MILLISECOND,t.Milliseconds, '19700101')),'00'), ':',format(datepart(second,dateadd(MILLISECOND,t.Milliseconds, '19700101')),'00')) as Length,
+	concat(format(t.Bytes / 1000000.0,'0.0'), ' MiB') as Size,
+	ISNULL(t.Composer,'-') as Composer
+from
+	music.artists ar
+left join 
+	music.albums al
+on 
+	ar.ArtistId = al.ArtistId
+left join 
+	music.tracks t
+on 
+	al.AlbumId = t.AlbumId
+left join 
+	music.genres g
+on
+	t.GenreId = g.GenreId
+left join 
+	music.playlist_track pt
+on 
+	pt.TrackId = t.TrackId
+left join 
+	music.playlists p
+on p.PlaylistId = pt.PlaylistId
+where 
+	p.Name = @playlist
+order by 
+	genre,composer,track 
+```
+
+
 ## C - Music
 
 Med tabellerna från schema “music”, svara på följande frågor:
