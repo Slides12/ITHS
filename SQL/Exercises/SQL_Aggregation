@@ -113,13 +113,12 @@ spädbarnsdödligheten per 100.000 födslar avrundat till heltal.
 ```SQL
 --Answer
 
-select * from Countries
-
-
 select region, 
 count(country) as länder,
 sum(cast(Population as bigint)) as invånare,
-sum([Area (sq# mi#)]) as area
+sum([Area (sq# mi#)]) as area,
+format(sum(cast(replace([Pop# Density (per sq# mi#)],',', '.') as float)),'0.00') as täthet,
+round(sum(cast(replace([Infant mortality (per 1000 births)],',','.') as float)),0) as dödlighet
 from Countries
 group by region
 ```
@@ -131,3 +130,18 @@ land, antal flygplatser (IATA-koder), antal som saknar ICAO-kod, samt hur
 många procent av flygplatserna i varje land som saknar ICAO-kod.
 
 ***OBS!*** *Airports är ett exempel på en dåligt konstruerad tabell där man lagt olika sorters information i samma kolumn. Om det istället hade funnits en kolumn specifikt för land så hade uppgiften varit mycket enklare. Det är dock inte helt ovanligt att man stöter på data som denna, som inte är så bra organiserad, och här kan man fundera på hur det går att lösa ändå.*
+
+```SQL
+--Answer
+
+select distinct substring([Location served], LEN([Location served]) - CHARINDEX(',', REVERSE([Location served]))+2, len([Location served])) as country,
+count(IATA) as 'antal flygplatser',
+count([Location served]) - count(icao) as 'antal som saknar icao',
+case 
+	when count([Location served]) - count(icao) = 0 then 0
+	else round(cast(count(iata) as float) / (count([Location served]) - count(icao)),2)
+	end as procent
+from Airports
+group by substring([Location served], LEN([Location served]) - CHARINDEX(',', REVERSE([Location served]))+2, len([Location served]))
+
+```
