@@ -18,9 +18,10 @@ select period,
 MIN(number) as 'from', 
 max(number) as 'to',
 format(avg(cast(Stableisotopes as float)),'0.00') as 'average isotopes',
-STRING_AGG(Symbol,', ')
+STRING_AGG(Symbol,', ') as symbols
 from Elements
 group by period
+
 
 ```
 
@@ -117,8 +118,8 @@ select region,
 count(country) as länder,
 sum(cast(Population as bigint)) as invånare,
 sum([Area (sq# mi#)]) as area,
-format(sum(cast(replace([Pop# Density (per sq# mi#)],',', '.') as float)),'0.00') as täthet,
-round(sum(cast(replace([Infant mortality (per 1000 births)],',','.') as float)),0) as dödlighet
+format(sum(cast(replace([Pop# Density (per sq# mi#)],',', '.') as float)),'N2') as täthet,
+format(sum(cast(replace([Infant mortality (per 1000 births)],',','.') as float)),'N2') as dödlighet
 from Countries
 group by region
 ```
