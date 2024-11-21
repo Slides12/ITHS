@@ -1,9 +1,6 @@
 # VY VIEW
 
 
-
-
-
 ```SQL
 
 drop view myView
