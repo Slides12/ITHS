@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L001_SQL_Client", "L001_SQL_Client\L001_SQL_Client.csproj", "{C446DFB6-683B-42BE-AC9B-F9DCFFE94F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L001_SQL_Client", "L001_SQL_Client\L001_SQL_Client.csproj", "{C446DFB6-683B-42BE-AC9B-F9DCFFE94F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L002_SQL_Injection_Demo", "L002_SQL_Injection_Demo\L002_SQL_Injection_Demo.csproj", "{2E109DC2-D3F3-449B-8DB5-BF110BF3307B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L002_SQL_Injection_Demo", "L002_SQL_Injection_Demo\L002_SQL_Injection_Demo.csproj", "{2E109DC2-D3F3-449B-8DB5-BF110BF3307B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "L003_DatabaseProjectDemo", "L003_DatabaseProjectDemo\L003_DatabaseProjectDemo.sqlproj", "{0B3F6958-A869-41E6-9386-68D800BD423C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{2E109DC2-D3F3-449B-8DB5-BF110BF3307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E109DC2-D3F3-449B-8DB5-BF110BF3307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E109DC2-D3F3-449B-8DB5-BF110BF3307B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3F6958-A869-41E6-9386-68D800BD423C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
