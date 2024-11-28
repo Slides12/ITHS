@@ -128,10 +128,12 @@ som du skulle fått från select * from types;
 --Answer
 select * from Types;
 
-select integer,string, 
+
+select integer,
 format(integer* 1.0 /100, 'N')  as float,
-integer % 2 as Bool,
-GETDATE() as DateTime
+string, 
+DATEADD(DAY, integer, '2018-12-31') + DATEADD(MINUTE, integer, '09:00:00') as DateTime,
+integer % 2 as Bool
 from Typess;
 ```
 
