@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A575AFD5-1ECD-4D63-8309-4D1D6F5F5691}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575AFD5-1ECD-4D63-8309-4D1D6F5F5691}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\Program.cs",
+              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\Program.cs",
+              "RelativeToolTip": "L005_ScaffoldedMusic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:56:38.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
