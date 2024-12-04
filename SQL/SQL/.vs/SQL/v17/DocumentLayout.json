@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A575AFD5-1ECD-4D63-8309-4D1D6F5F5691}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A575AFD5-1ECD-4D63-8309-4D1D6F5F5691}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{918E7755-4021-43A3-A65B-B09B4E8BE67C}|L007_Relationships\\L007_Relationships.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l007_relationships\\model\\relationshipdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E7755-4021-43A3-A65B-B09B4E8BE67C}|L007_Relationships\\L007_Relationships.csproj|solutionrelative:l007_relationships\\model\\relationshipdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E7755-4021-43A3-A65B-B09B4E8BE67C}|L007_Relationships\\L007_Relationships.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l007_relationships\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E7755-4021-43A3-A65B-B09B4E8BE67C}|L007_Relationships\\L007_Relationships.csproj|solutionrelative:l007_relationships\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\Program.cs",
-              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\Program.cs",
-              "RelativeToolTip": "L005_ScaffoldedMusic\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "RelationShipDemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L007_Relationships\\Model\\RelationShipDemoContext.cs",
+              "RelativeDocumentMoniker": "L007_Relationships\\Model\\RelationShipDemoContext.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L007_Relationships\\Model\\RelationShipDemoContext.cs",
+              "RelativeToolTip": "L007_Relationships\\Model\\RelationShipDemoContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwEEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:56:38.173Z",
+              "WhenOpened": "2024-12-04T14:43:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L007_Relationships\\Program.cs",
+              "RelativeDocumentMoniker": "L007_Relationships\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L007_Relationships\\Program.cs",
+              "RelativeToolTip": "L007_Relationships\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:43:05.563Z",
               "EditorCaption": ""
             }
           ]
