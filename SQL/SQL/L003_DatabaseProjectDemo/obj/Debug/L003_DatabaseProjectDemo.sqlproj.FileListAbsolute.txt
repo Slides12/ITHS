@@ -4,3 +4,7 @@ C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\bin\Debug\L003_Databas
 C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\L003_DatabaseProjectDemo.sqlproj.AssemblyReference.cache
 C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\L003_DatabaseProjectDemo.dll
 C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\L003_DatabaseProjectDemo.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\Model.xml
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\refactor.xml
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\postdeploy.sql
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\L003_DatabaseProjectDemo\obj\Debug\predeploy.sql
