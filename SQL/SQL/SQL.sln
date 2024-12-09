@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L007_Relationships", "L007_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L008_DataGrid_and_TreeView", "L008_DataGrid_and_TreeView\L008_DataGrid_and_TreeView.csproj", "{8DFC88CE-E3E1-4217-ADC8-55266C79BD68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L009_Logging_and_Tracking", "L009_Logging_and_Tracking\L009_Logging_and_Tracking.csproj", "{59F053AE-F597-4C33-9B19-2411EEDC80E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{8DFC88CE-E3E1-4217-ADC8-55266C79BD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DFC88CE-E3E1-4217-ADC8-55266C79BD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DFC88CE-E3E1-4217-ADC8-55266C79BD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F053AE-F597-4C33-9B19-2411EEDC80E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F053AE-F597-4C33-9B19-2411EEDC80E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F053AE-F597-4C33-9B19-2411EEDC80E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F053AE-F597-4C33-9B19-2411EEDC80E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

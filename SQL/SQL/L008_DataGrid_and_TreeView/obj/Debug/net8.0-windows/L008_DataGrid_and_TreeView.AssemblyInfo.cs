@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L008_DataGrid_and_TreeView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b4c8abcff75e7d1a9bd7c6678ba7b627941808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2bb16fb7ea12d634dfd682052544feb159dc42")]
 [assembly: System.Reflection.AssemblyProductAttribute("L008_DataGrid_and_TreeView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L008_DataGrid_and_TreeView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
