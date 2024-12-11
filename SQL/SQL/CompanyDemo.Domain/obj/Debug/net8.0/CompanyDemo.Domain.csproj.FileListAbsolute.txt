@@ -1,0 +1,12 @@
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\bin\Debug\net8.0\CompanyDemo.Domain.deps.json
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\bin\Debug\net8.0\CompanyDemo.Domain.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\bin\Debug\net8.0\CompanyDemo.Domain.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\refint\CompanyDemo.Domain.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\CompanyDemo.Domain.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Domain\obj\Debug\net8.0\ref\CompanyDemo.Domain.dll

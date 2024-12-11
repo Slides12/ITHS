@@ -1,0 +1,16 @@
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\bin\Debug\net8.0\CompanyDemo.Infrastructure.deps.json
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\bin\Debug\net8.0\CompanyDemo.Infrastructure.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\bin\Debug\net8.0\CompanyDemo.Infrastructure.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.sourcelink.json
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\refint\CompanyDemo.Infrastructure.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyDemo.Infrastructure.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\ref\CompanyDemo.Infrastructure.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\bin\Debug\net8.0\CompanyDemo.Domain.dll
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\bin\Debug\net8.0\CompanyDemo.Domain.pdb
+C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Infrastructure\obj\Debug\net8.0\CompanyD.80C81BC5.Up2Date
