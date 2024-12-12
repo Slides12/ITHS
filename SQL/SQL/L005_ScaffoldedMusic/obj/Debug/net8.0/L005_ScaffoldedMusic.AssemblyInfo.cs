@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L005_ScaffoldedMusic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c65160187cba091a4b213511019ece108ee58f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7610dd331ef89d0314b61b2bf2cdf16afd458865")]
 [assembly: System.Reflection.AssemblyProductAttribute("L005_ScaffoldedMusic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L005_ScaffoldedMusic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

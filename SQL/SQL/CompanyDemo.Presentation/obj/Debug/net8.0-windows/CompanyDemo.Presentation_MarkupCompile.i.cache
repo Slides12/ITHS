@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\djoha\ITHS\ITHS\SQL\SQL\CompanyDemo.Presentation\App.xaml
-11407045341
+21305035032
 
-8-1759976476
+111076503369
 2371711187342
-MainWindow.xaml;
+Windows\MainWindow.xaml;Windows\OrderDetailsWindow.xaml;
 
-False
+True
 
