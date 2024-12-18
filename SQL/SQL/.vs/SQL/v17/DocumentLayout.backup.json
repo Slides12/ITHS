@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l010_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|solutionrelative:l010_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\windows\\orderdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\windows\\orderdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\windows\\orderdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\windows\\orderdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.presentation\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51D300CC-5900-4F71-95F3-1B0D73198682}|CompanyDemo.Presentation\\CompanyDemo.Presentation.csproj|solutionrelative:companydemo.presentation\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l010_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|solutionrelative:l010_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderDetailsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml",
-              "RelativeToolTip": "CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-12T13:35:36.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderDetailsWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml.cs",
-              "RelativeToolTip": "CompanyDemo.Presentation\\Windows\\OrderDetailsWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "SqliteContext.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\SqliteContext.cs",
+              "RelativeDocumentMoniker": "L010_Sqlite\\SqliteContext.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\SqliteContext.cs",
+              "RelativeToolTip": "L010_Sqlite\\SqliteContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:32:32.617Z",
+              "WhenOpened": "2024-12-18T09:24:03.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\ViewModel\\OrderDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\ViewModel\\OrderDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\ViewModel\\OrderDetailsViewModel.cs",
-              "RelativeToolTip": "CompanyDemo.Presentation\\ViewModel\\OrderDetailsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\Program.cs",
+              "RelativeDocumentMoniker": "L010_Sqlite\\Program.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\Program.cs*",
+              "RelativeToolTip": "L010_Sqlite\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:56:54.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\Windows\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CompanyDemo.Presentation\\Windows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:32:12.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "CompanyDemo.Presentation\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwDkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:29:58.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CompanyDemo.Presentation\\Windows\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Presentation\\Windows\\MainWindow.xaml",
-              "RelativeToolTip": "CompanyDemo.Presentation\\Windows\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T10:22:57.122Z",
+              "WhenOpened": "2024-12-18T09:20:43.41Z",
               "EditorCaption": ""
             }
           ]

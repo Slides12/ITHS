@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyDemo.Domain", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyDemo.Infrastructure", "CompanyDemo.Infrastructure\CompanyDemo.Infrastructure.csproj", "{E4698972-DC06-4421-8E8B-FD9666A072E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L010_Sqlite", "L010_Sqlite\L010_Sqlite.csproj", "{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{E4698972-DC06-4421-8E8B-FD9666A072E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4698972-DC06-4421-8E8B-FD9666A072E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4698972-DC06-4421-8E8B-FD9666A072E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

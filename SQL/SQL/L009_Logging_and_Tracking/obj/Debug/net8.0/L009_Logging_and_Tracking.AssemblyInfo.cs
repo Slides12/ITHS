@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L009_Logging_and_Tracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7610dd331ef89d0314b61b2bf2cdf16afd458865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505f764a7aae2ec175fedfaf83c24756c36a7486")]
 [assembly: System.Reflection.AssemblyProductAttribute("L009_Logging_and_Tracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L009_Logging_and_Tracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
