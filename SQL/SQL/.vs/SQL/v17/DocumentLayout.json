@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l010_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|solutionrelative:l010_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\l010_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D512D7E3-CD7D-4C57-9F2A-28B430C099A3}|L010_Sqlite\\L010_Sqlite.csproj|solutionrelative:l010_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4698972-DC06-4421-8E8B-FD9666A072E9}|CompanyDemo.Infrastructure\\CompanyDemo.Infrastructure.csproj|c:\\users\\djoha\\iths\\iths\\sql\\sql\\companydemo.infrastructure\\data\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4698972-DC06-4421-8E8B-FD9666A072E9}|CompanyDemo.Infrastructure\\CompanyDemo.Infrastructure.csproj|solutionrelative:companydemo.infrastructure\\data\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SqliteContext.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\SqliteContext.cs",
-              "RelativeDocumentMoniker": "L010_Sqlite\\SqliteContext.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\SqliteContext.cs",
-              "RelativeToolTip": "L010_Sqlite\\SqliteContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:24:03.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\Program.cs",
-              "RelativeDocumentMoniker": "L010_Sqlite\\Program.cs",
-              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L010_Sqlite\\Program.cs",
-              "RelativeToolTip": "L010_Sqlite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Infrastructure\\Data\\Model\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "CompanyDemo.Infrastructure\\Data\\Model\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\CompanyDemo.Infrastructure\\Data\\Model\\CompanyContext.cs",
+              "RelativeToolTip": "CompanyDemo.Infrastructure\\Data\\Model\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:20:43.41Z",
+              "WhenOpened": "2024-12-18T11:28:53.869Z",
               "EditorCaption": ""
             }
           ]
