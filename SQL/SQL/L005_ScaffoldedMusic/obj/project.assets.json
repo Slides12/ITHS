@@ -4733,23 +4733,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\djoha\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj",
       "projectName": "L005_ScaffoldedMusic",
-      "projectPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj",
-      "packagesPath": "C:\\Users\\djoha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djoha\\ITHS\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\obj\\",
+      "projectPath": "C:\\Users\\Daniel\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel\\ITHS\\SQL\\SQL\\L005_ScaffoldedMusic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\djoha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4758,7 +4758,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

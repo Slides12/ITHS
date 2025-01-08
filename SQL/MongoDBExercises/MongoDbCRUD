@@ -1,0 +1,214 @@
+# Övningsuppgifter med CRUD-operationer i MongoDB
+
+Gör gärna övningsuppgifterna "var och en" i grupp, och jämför era resultat med varandra och diskutera vad ni gjort.
+
+## Anslut mot en lokal MongoDB server:
+1. Använd en databas med namn myDB.
+
+
+
+2. Skapa ett dokument med innehåll FirstName: ”Selma”, LastName: Lagerlöf
+och sätt in det i en kollektion med namn ”authors”.
+
+```JS
+use("myDB");
+
+db.authors.insertOne(
+    {
+        FirstName: "Selma",
+        LastName: "Lagerlöf"
+    }
+);
+```
+
+
+3. Lägg till ytterligare ett dokument i ”authors” med FirstName: ”August”,
+LastName: ”Bondeson”, Birth: 1854
+```JS
+use("myDB");
+
+db.authors.find();
+
+db.authors.insertOne(
+    {
+        FirstName: "August",
+        LastName: "Bondeson",
+        Birth: 1854
+    }
+);
+```
+4. Uppdatera dokumentet för August Bondeson och lägg till Death: 1906 
+```JS
+use("myDB");
+
+db.authors.find();
+
+db.authors.updateOne(
+    {
+        FirstName: "August",
+    },
+    {
+        $set: {Death: 1906}
+    }
+);
+```
+5. Lägg till ytterligare författare i ”authors” genom att Ladda ner [addAuthors.js](./addAuthors.js) och kör kommandot load(”addAuthors.js”) från mongo Shell. Alternativt öppna den filen och copy/pasta innehållet i mongosh.
+6. Räkna hur många dokument det finns totalt i ”authors”.
+Svar: 6
+```JS
+use("myDB");
+
+db.authors.count();
+
+```
+
+7. Räkna hur många författare som heter August i förnamn.
+```JS
+use("myDB");
+
+db.authors.find( {FirstName: "August"}).count();
+```
+8. Lägg till Birth: 1858 och Death: 1940 för Selma Lagerlöf
+```JS
+use("myDB");
+
+db.authors.updateOne(
+    {
+        FirstName: "Selma"
+    },
+    {
+        $set: {Death: 1940,
+        Birth: 1858
+    }
+    }
+);
+```
+9. Lägg till en array ”Books” för Selma Lagerlöf med följande böcker:
+”Gösta Berlings saga”, ”En herrgårdssägen”,
+”Nils Holgerssons underbara resa genom Sverige”
+```JS
+use("myDB");
+
+db.authors.updateOne(
+    {
+        FirstName: "Selma"
+    },
+    {
+      $set: { "Books": ["Gösta Berlings saga", "En herrgårdssägen",
+        "Nils Holgerssons underbara resa genom Sverige"]
+        }
+    }
+    
+);
+```
+
+10. Lägg till boken ”Vi på Saltkråkan” bland Astrid Lindgrens böcker.
+```JS
+use("myDB");
+
+db.authors.updateOne(
+    { FirstName: "Selma"},
+    { $push: {"Books": "Vi på Saltkråkan"}}
+);
+```
+11. Ta bort boken ”Bröderna Lejonhjärta” från Astrid Lindgrens böcker.
+```JS
+use("myDB");
+
+
+db.authors.updateOne(
+    { FirstName: "Astrid"},
+    { $pullAll: {"Books": ["Bröderna Lejonhjärta"]}}
+);
+
+```
+
+12. Visa dokument för de författare som dog år 2000 eller senare.
+```JS
+use("myDB");
+
+db.authors.find({ Death: {$gt: 2000}});
+```
+
+
+13. Räkna hur många författare som dog på 1940-talet.
+svar: 3
+```JS
+use("myDB");
+
+db.authors.find({ Death: {
+    $gte: 1940,
+    $lte: 1949
+    }}).count();
+```
+
+14. Visa endast attributen FirstName, LastName och Death för de författare
+som dog på 1940-talet.
+```JS
+use("myDB");
+
+db.authors.aggregate({ $match:
+    {Death: {
+    $gte: 1940,
+    $lte: 1949
+    }}},
+
+    {
+        $project: { 
+            _id:false,
+            FirstName: true, 
+            LastName:true, 
+            Death:true}
+    }
+);
+```
+15. Lägg till Gender: ”Male” i dokument med FirstName = ”Hjalmar”.
+```JS
+use("myDB");
+
+db.authors.updateOne(
+    { FirstName: "Hjalmar"},
+    {$set: {"Gender": "Male"}}
+);
+
+```
+16. Lägg till Gender: ”Female” i dokument där FirstName är Astrid, Karin eller
+Selma.
+```JS
+use("myDB");
+
+db.authors.find({ FirstName:{$in: ["Astrid", "Karin", "Selma"]}});
+
+db.authors.updateMany(
+    { FirstName:{$in: ["Astrid", "Karin", "Selma"]}},
+    {$set: {"Gender": "Female"}}
+);
+```
+
+17. Ta bort arrayen Books från dokumentet med August Strindberg.
+```JS
+use("myDB");
+
+db.authors.find({ 
+    FirstName: "August",
+    LastName: "Strindberg"    
+});
+
+db.authors.updateOne({ 
+    FirstName: "August",
+    LastName: "Strindberg"    
+},
+
+{
+    $unset: { "Books": ""}
+}
+
+);
+
+```
+18. Ta bort dokumenten där FirstName = ”August”. 
+```JS
+db.authors.deleteMany({ 
+    FirstName: "August",
+});
+```

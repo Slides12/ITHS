@@ -54,7 +54,7 @@ namespace CompanyDemo.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CompanyDemo.Presentation;component/windows/orderdetailswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CompanyDemo.Presentation;V1.0.0.0;component/windows/orderdetailswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\OrderDetailsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
