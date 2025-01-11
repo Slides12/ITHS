@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L011_MongoDB_EFcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947f651975320585f76489052dd293c67a755a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad4a0fe52edc5ab45d6424261d075d3135df6169")]
 [assembly: System.Reflection.AssemblyProductAttribute("L011_MongoDB_EFcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L011_MongoDB_EFcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
