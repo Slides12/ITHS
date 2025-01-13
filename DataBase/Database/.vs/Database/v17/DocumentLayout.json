@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}|L015_BsonDocument\\L015_BsonDocument.csproj|c:\\users\\daniel\\iths\\database\\database\\l015_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}|L015_BsonDocument\\L015_BsonDocument.csproj|solutionrelative:l015_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C956B65-D426-4C5C-9EE8-3DEAFF61C08E}|L014_MongDBDriver\\L014_MongDBDriver.csproj|c:\\users\\daniel\\iths\\database\\database\\l014_mongdbdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C956B65-D426-4C5C-9EE8-3DEAFF61C08E}|L014_MongDBDriver\\L014_MongDBDriver.csproj|solutionrelative:l014_mongdbdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "L015_BsonDocument\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\L015_BsonDocument\\Program.cs",
               "RelativeToolTip": "L015_BsonDocument\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:33:16.041Z",
+              "WhenOpened": "2025-01-13T16:55:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\L014_MongDBDriver\\Program.cs",
+              "RelativeDocumentMoniker": "L014_MongDBDriver\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\L014_MongDBDriver\\Program.cs",
+              "RelativeToolTip": "L014_MongDBDriver\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:42:56.889Z",
               "EditorCaption": ""
             }
           ]
