@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}|L015_BsonDocument\\L015_BsonDocument.csproj|c:\\users\\daniel\\iths\\database\\database\\l015_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}|L015_BsonDocument\\L015_BsonDocument.csproj|solutionrelative:l015_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\L015_BsonDocument\\Program.cs",
+              "RelativeDocumentMoniker": "L015_BsonDocument\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\DataBase\\Database\\L015_BsonDocument\\Program.cs",
+              "RelativeToolTip": "L015_BsonDocument\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:33:16.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
