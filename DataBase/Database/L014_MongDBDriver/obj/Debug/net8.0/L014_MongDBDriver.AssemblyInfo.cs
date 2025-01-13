@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L014_MongDBDriver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba967aa491c57a93055a65ac0193f9a07c1dab12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25e08fa2c7960c9904f29b41fe87ab109538f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("L014_MongDBDriver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L014_MongDBDriver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

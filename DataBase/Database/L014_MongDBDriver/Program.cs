@@ -32,7 +32,7 @@ var filter = Builders<Movie>.Filter.Regex("title", "/matrix/i");
 
 
 
-movieCollection.Find(filter).ToList().ForEach(m => Console.WriteLine($"{m.Title}: {m.Year}"));
+//movieCollection.Find(filter).ToList().ForEach(m => Console.WriteLine($"{m.Title}: {m.Year}"));
 
 Console.WriteLine();
 
@@ -47,10 +47,13 @@ var catFilter = Builders<Cat>.Filter.Eq("_id", new ObjectId("6784e3c112d19c62da9
 
 var catUpdate = Builders<Cat>.Update.Set("Name", "Måns");
 
-catCollection.UpdateOne(catFilter, catUpdate);
+//catCollection.UpdateOne(catFilter, catUpdate);
 
 
+var movies = movieCollection.AsQueryable().Where(m => m.Title.ToLower().Contains("matrix")).ToList();
 
+
+movies.ForEach(m => Console.WriteLine($"{m.Title}"));
 
 
 public class Cat()
