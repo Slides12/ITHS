@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L014_MongDBDriver", "L014_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L015_BsonDocument", "L015_BsonDocument\L015_BsonDocument.csproj", "{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L016_MongoChangeStreams", "L016_MongoChangeStreams\L016_MongoChangeStreams.csproj", "{5495F649-7044-49E2-BF64-EA7EF9B936D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5DC1BAD-3DD4-4FAF-A5D9-2B6A54CE5AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5495F649-7044-49E2-BF64-EA7EF9B936D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5495F649-7044-49E2-BF64-EA7EF9B936D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5495F649-7044-49E2-BF64-EA7EF9B936D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5495F649-7044-49E2-BF64-EA7EF9B936D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

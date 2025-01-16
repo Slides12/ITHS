@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L015_BsonDocument")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25e08fa2c7960c9904f29b41fe87ab109538f94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5c41bd05fe59c648c1418025a851fc250c7381")]
 [assembly: System.Reflection.AssemblyProductAttribute("L015_BsonDocument")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L015_BsonDocument")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
