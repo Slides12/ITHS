@@ -94,13 +94,13 @@
 
         <div class="flex-grow-1 d-flex flex-row align-items-center">
             <div class="border border-black bg-dark p-0 m-1" style="width: 2rem; height: 2rem; display: flex; align-items: center; justify-content: center;font-weight: 600;">
-                <label class="text-white fs-3">B</label>
+                <label class="text-white fs-3"><a href="#" style="text-decoration: none; color: inherit;">B</a></label>
             </div>
             <div class="border border-black bg-dark p-0 m-1" style="width:  2rem; height:  2rem; display: flex; align-items: center; justify-content: center; font-weight: 600;">
-                <label class="text-white fs-3">B</label>
+                <label class="text-white fs-3"><a href="#" style="text-decoration: none; color: inherit;">B</a></label>
             </div>
             <div class="border border-black bg-dark p-0 m-1" style="width:  2rem; height:  2rem; display: flex; align-items: center; justify-content: center; font-weight: 600;">
-                <label class="text-white fs-3">C</label>
+                <label class="text-white fs-3"><a href="#" style="text-decoration: none; color: inherit;">C</a></label>
             </div>
         </div>
 
@@ -122,10 +122,65 @@
     </div>
 
     
-
+    <div class="container-fluid">
+        <div class="row g-0 d-flex align-items-start">
+            <div class="col-md-9">
+                <div class="card mb-3" style="border: none;">
+                    <a href="#" style="text-decoration: none; color: inherit;"
+                        onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <div class="card-body" style="padding-top: 40px;">
+                                    <h5 class="card-title text-danger fs-2"
+                                        style="display: flex; align-items: center; gap: 0.5rem;">
+                                        <div
+                                            style="width: 1.5rem; height: 1.5rem; display: flex; align-items: center; justify-content: center; border: 2px solid red; border-radius: 50%;">
+                                            <div class="spinner-grow"
+                                                style="width: 1rem; height: 1rem; --bs-spinner-animation-speed: 1.8s; --bs-spinner-border-width: 1em;"
+                                                role="status">
+                                                <span class="visually-hidden">Loading...</span>
+                                            </div>
+                                        </div>
+                                        LIVE
+                                    </h5>
+                                    <h5 class="card-title fs-2" style="color: black;">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, expedita.
+                                    </h5>
+                                    <p class="card-text" style="font-size: 14px;">Lorem ipsum dolor sit amet consectetur
+                                        adipisicing elit. Aperiam nulla temporibus provident atque reprehenderit quidem
+                                        perspiciatis ad minima voluptate quibusdam?</p>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <img src="https://images.unsplash.com/photo-1671394708204-424ea6ce82ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                    class="img-fluid rounded-end" alt="..." style="margin-top: 40px;">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+    
+            <div class="col-md-3" style="padding: 4px;">
+                <div class="card" style="width: 100%; border:none;">
+                    <a href="#" style="text-decoration: none; color: inherit;"
+                        onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        <img src="https://images.unsplash.com/photo-1738165170747-ecc6e3a4d97c?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            class="card-img-top" alt="..." style="margin-top: 40px;">
+                        <div class="card-body" style="padding-top: 40px;">
+                            <p class="card-text" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur
+                                adipisicing elit. Aliquam natus autem numquam, ducimus veritatis blanditiis?</p>
+                            <p class="card-text"><small class="text-muted">3 mins ago | Sweden</small></p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
     
 
-
+      
 
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
