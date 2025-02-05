@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let input = document.getElementById("input");
     let btn = document.getElementById("btn");
     let text = document.getElementById("h3");
-
+document.getElementById("wrapper");
 
 
     btn.addEventListener("click", () => {
