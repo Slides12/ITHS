@@ -9,15 +9,18 @@ namespace MyApp.Namespace
     public class BookingsController : ControllerBase
     {
 
-        List<Booking> bookings = new List<Booking>(){
-            new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 0, RoomId = 0 },
-            new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 1, RoomId = 1 },
-            new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 2, RoomId = 2 }
-        };
+        //List<Booking> bookings = new List<Booking>(){
+        //    new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 0, RoomId = 0 },
+        //    new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 1, RoomId = 1 },
+        //    new Booking (){ CheckInDate = new DateOnly(), CheckOutDate = new DateOnly(), CustomerId = 2, RoomId = 2 }
+        //};
         // GET: api/<BookingsController>
         [HttpGet]
         public IEnumerable<Booking> Get()
         {
+            using var db = new SQLITEContext();
+            var bookings = db.Booking.ToList();
+
             return bookings;
         }
 
@@ -25,6 +28,9 @@ namespace MyApp.Namespace
         [HttpGet("{id}")]
         public Booking Get(int id)
         {
+            using var db = new SQLITEContext();
+            var bookings = db.Booking.ToList();
+
             return bookings[id];
         }
 
@@ -32,7 +38,10 @@ namespace MyApp.Namespace
         [HttpPost]
         public IActionResult Post([FromBody] Booking value)
         {
-            bookings.Add(value);
+            using var db = new SQLITEContext();
+
+            db.Booking.Add(value);
+            db.SaveChanges();
             return Ok(value);
         }
 
@@ -40,11 +49,15 @@ namespace MyApp.Namespace
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] Booking value)
         {
+            using var db = new SQLITEContext();
+            var bookings = db.Booking.ToList();
+
             var booking = bookings.FirstOrDefault(b => b.CustomerId == id);
             if(booking != null){
                 booking.CheckInDate = value.CheckInDate;
                 booking.CheckOutDate = value.CheckOutDate;
                 booking.RoomId = value.RoomId;
+                db.SaveChanges();
                 return Ok(booking);
             }
             return NotFound();
@@ -54,11 +67,15 @@ namespace MyApp.Namespace
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
+            using var db = new SQLITEContext();
+            var bookings = db.Booking.ToList();
+
             var booking = bookings.FirstOrDefault(b => b.CustomerId == id);
 
             if(booking != null){
                 bookings.Remove(booking);
-            return Ok(booking);
+                db.SaveChanges();
+                return Ok(booking);
             }
             return NotFound();
         }

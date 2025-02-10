@@ -9,17 +9,20 @@ namespace MyApp.Namespace
     public class StaffController : ControllerBase
     {
 
-        List<Staff> staffList = new List<Staff>(){
-            new Staff() { Id = 0, Name= "Daniel Johansson", Position= "King"},
-            new Staff() { Id = 1, Name= "Din Mamma", Position= "VD"},
-            new Staff() { Id = 2, Name= "Johan Danielsson", Position= "Receptionist"},
-        };
+        //List<Staff> staffList = new List<Staff>(){
+        //    new Staff() { Id = 0, Name= "Daniel Johansson", Position= "King"},
+        //    new Staff() { Id = 1, Name= "Din Mamma", Position= "VD"},
+        //    new Staff() { Id = 2, Name= "Johan Danielsson", Position= "Receptionist"},
+        //};
 
 
         // GET: api/<StaffController>
         [HttpGet]
         public IEnumerable<Staff> Get()
         {
+            using var db = new SQLITEContext();
+            var staffList = db.Staff.ToList();
+
             return staffList;
         }
 
@@ -27,6 +30,8 @@ namespace MyApp.Namespace
         [HttpGet("{id}")]
         public Staff Get(int id)
         {
+            using var db = new SQLITEContext();
+            var staffList = db.Staff.ToList();
             return staffList[id];
         }
 
@@ -34,7 +39,11 @@ namespace MyApp.Namespace
         [HttpPost]
         public IActionResult Post([FromBody] Staff value)
         {
-            staffList.Add(value);
+            using var db = new SQLITEContext();
+            var staffList = db.Staff.ToList();
+
+            db.Staff.Add(value);
+            db.SaveChanges();
             return Ok(value);
         }
 
@@ -42,10 +51,14 @@ namespace MyApp.Namespace
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] Staff value)
         {
+            using var db = new SQLITEContext();
+            var staffList = db.Staff.ToList();
+
             var s = staffList.FirstOrDefault(s => s.Id == id);
             if(s != null){
                 s.Name = value.Name;
                 s.Position = value.Position;
+                db.SaveChanges();
                 return Ok(s);
             }
             return NotFound();
@@ -55,9 +68,13 @@ namespace MyApp.Namespace
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
+            using var db = new SQLITEContext();
+            var staffList = db.Staff.ToList();
+
             var s = staffList?.FirstOrDefault(s => s.Id == id);
             if(s != null){
-                staffList?.Remove(s);
+                db.Staff.Remove(s);
+                db.SaveChanges();
                 return Ok(s);
             }
             return NotFound();

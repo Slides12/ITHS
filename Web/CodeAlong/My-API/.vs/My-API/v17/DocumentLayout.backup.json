@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\CodeAlong\\My-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|My-API.csproj|c:\\users\\daniel\\iths\\web\\codealong\\my-api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|My-API.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|My-API.csproj|c:\\users\\daniel\\iths\\web\\codealong\\my-api\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|My-API.csproj|solutionrelative:sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLITEContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\CodeAlong\\My-API\\SQLITEContext.cs",
+              "RelativeDocumentMoniker": "SQLITEContext.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\CodeAlong\\My-API\\SQLITEContext.cs",
+              "RelativeToolTip": "SQLITEContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:30:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\CodeAlong\\My-API\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\CodeAlong\\My-API\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:30:05.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
