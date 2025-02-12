@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,45 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MongoDBAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MongoDBAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T13:52:25.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MongoDBAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\appsettings.json",
-              "RelativeToolTip": "MongoDBAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T13:49:30.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MongoDBAPI\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Models\\Product.cs",
               "RelativeToolTip": "MongoDBAPI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T13:48:23.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Program.cs",
               "RelativeDocumentMoniker": "MongoDBAPI\\Program.cs",
@@ -77,8 +43,7 @@
               "RelativeToolTip": "MongoDBAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:56:01.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T12:56:01.95Z"
             }
           ]
         }

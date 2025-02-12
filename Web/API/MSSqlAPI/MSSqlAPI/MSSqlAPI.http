@@ -1,0 +1,6 @@
+@MSSqlAPI_HostAddress = http://localhost:5091
+
+GET {{MSSqlAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
