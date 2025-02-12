@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\source\\repos\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj": {}
+    "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\source\\repos\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj": {
+    "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj",
         "projectName": "MSSqlAPI",
-        "projectPath": "C:\\Users\\Daniel\\source\\repos\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj",
+        "projectPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\MSSqlAPI.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\source\\repos\\MSSqlAPI\\MSSqlAPI\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
