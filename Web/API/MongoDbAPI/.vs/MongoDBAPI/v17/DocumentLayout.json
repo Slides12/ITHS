@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\repository\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\repository\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mongodbapi\\mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF5516-AB2D-4AFB-92E8-06F3D590EE52}|MongoDBAPI\\MongoAPI.csproj|solutionrelative:mongodbapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MongoDBRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Repository\\MongoDBRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBAPI\\Repository\\MongoDBRepository.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Repository\\MongoDBRepository.cs",
+              "RelativeToolTip": "MongoDBAPI\\Repository\\MongoDBRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:06:28.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MongoDbAPI\\MongoDBAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MongoDBAPI\\Models\\Product.cs",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "MongoDBAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:56:01.95Z"
+              "WhenOpened": "2025-02-12T12:56:01.95Z",
+              "EditorCaption": ""
             }
           ]
         }
