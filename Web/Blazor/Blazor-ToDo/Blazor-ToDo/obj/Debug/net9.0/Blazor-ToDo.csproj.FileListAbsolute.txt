@@ -158,3 +158,4 @@ C:\Users\Daniel\ITHS\Web\Blazor\Blazor-ToDo\Blazor-ToDo\obj\Debug\net9.0\refint\
 C:\Users\Daniel\ITHS\Web\Blazor\Blazor-ToDo\Blazor-ToDo\obj\Debug\net9.0\Blazor-ToDo.pdb
 C:\Users\Daniel\ITHS\Web\Blazor\Blazor-ToDo\Blazor-ToDo\obj\Debug\net9.0\Blazor-ToDo.genruntimeconfig.cache
 C:\Users\Daniel\ITHS\Web\Blazor\Blazor-ToDo\Blazor-ToDo\obj\Debug\net9.0\ref\Blazor-ToDo.dll
+C:\Users\Daniel\ITHS\Web\Blazor\Blazor-ToDo\Blazor-ToDo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

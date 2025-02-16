@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\data\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\data\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoGameDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Data\\VideoGameDBContext.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Data\\VideoGameDBContext.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Data\\VideoGameDBContext.cs",
+              "RelativeToolTip": "VideoGameApi\\Data\\VideoGameDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:46:39.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "VideoGameApi\\Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:17:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\VideoGame.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\VideoGame.cs",
+              "RelativeToolTip": "VideoGameApi\\VideoGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:15:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Program.cs",
+              "RelativeToolTip": "VideoGameApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:13:06.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
