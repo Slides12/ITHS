@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE03063F-A280-4A6E-A7A1-1B15F82F155E}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\daniel\\iths\\web\\api\\videogameapi\\videogameapi\\data\\videogamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +29,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json",
+              "ToolTip": "C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T14:50:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VideoGameDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Data\\VideoGameDBContext.cs",
               "RelativeDocumentMoniker": "VideoGameApi\\Data\\VideoGameDBContext.cs",
@@ -38,25 +54,24 @@
               "RelativeToolTip": "VideoGameApi\\Data\\VideoGameDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:46:39.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T13:46:39.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VideoGameController.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
               "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\VideoGameController.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
               "RelativeToolTip": "VideoGameApi\\Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:17:34.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VideoGame.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\VideoGame.cs",
               "RelativeDocumentMoniker": "VideoGameApi\\VideoGame.cs",
@@ -64,18 +79,17 @@
               "RelativeToolTip": "VideoGameApi\\VideoGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:15:37.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T13:15:37.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Program.cs",
               "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Program.cs",
               "RelativeToolTip": "VideoGameApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:13:06.035Z",
               "EditorCaption": ""
