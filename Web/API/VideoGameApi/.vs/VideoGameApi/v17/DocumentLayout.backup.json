@@ -41,8 +41,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\78b9d765-4c84-421d-91e6-8fb434456fa5\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-16T14:50:15.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:50:15.952Z"
             },
             {
               "$type": "Document",
@@ -66,8 +65,7 @@
               "RelativeToolTip": "VideoGameApi\\Controllers\\VideoGameController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwCcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:17:34.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T13:17:34.959Z"
             },
             {
               "$type": "Document",
@@ -89,7 +87,7 @@
               "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\VideoGameApi\\VideoGameApi\\Program.cs",
               "RelativeToolTip": "VideoGameApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:13:06.035Z",
               "EditorCaption": ""
