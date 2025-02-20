@@ -1,0 +1,15 @@
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\bin\Debug\net9.0\5.exe
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\bin\Debug\net9.0\5.deps.json
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\bin\Debug\net9.0\5.runtimeconfig.json
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\bin\Debug\net9.0\5.dll
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\bin\Debug\net9.0\5.pdb
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.AssemblyInfoInputs.cache
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.AssemblyInfo.cs
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.csproj.CoreCompileInputs.cache
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.sourcelink.json
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.dll
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\refint\5.dll
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.pdb
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\5.genruntimeconfig.cache
+c:\Users\Daniel\ITHS\Web\WebExercises\ExtensionMethods\5\obj\Debug\net9.0\ref\5.dll
