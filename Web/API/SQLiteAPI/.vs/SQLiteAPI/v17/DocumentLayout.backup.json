@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\SQLiteAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|SQLiteAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\sqliteapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|SQLiteAPI.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|SQLiteAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\sqliteapi\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5DA5943-D912-74AD-49EC-F936C8A6100E}|SQLiteAPI.csproj|solutionrelative:sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\SQLiteAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\SQLiteAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:21:21.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SQLITEContext.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\SQLiteAPI\\SQLITEContext.cs",
               "RelativeDocumentMoniker": "SQLITEContext.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\SQLiteAPI\\SQLITEContext.cs",
               "RelativeToolTip": "SQLITEContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T13:16:07.911Z",
               "EditorCaption": ""

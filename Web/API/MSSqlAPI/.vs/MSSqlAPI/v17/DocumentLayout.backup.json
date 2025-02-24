@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\cde71ab0-caaf-421c-b444-29e4fb08174d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA85DE8B-1043-4E12-A179-6A4B74A22830}|MSSqlAPI\\MSSqlAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mssqlapi\\mssqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA85DE8B-1043-4E12-A179-6A4B74A22830}|MSSqlAPI\\MSSqlAPI.csproj|solutionrelative:mssqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\cde71ab0-caaf-421c-b444-29e4fb08174d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA85DE8B-1043-4E12-A179-6A4B74A22830}|MSSqlAPI\\MSSqlAPI.csproj|c:\\users\\daniel\\iths\\web\\api\\mssqlapi\\mssqlapi\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\Daniel\\AppData\\Roaming\\Microsoft\\UserSecrets\\cde71ab0-caaf-421c-b444-29e4fb08174d\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\cde71ab0-caaf-421c-b444-29e4fb08174d\\secrets.json",
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\Program.cs",
               "RelativeDocumentMoniker": "MSSqlAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\ITHS\\Web\\API\\MSSqlAPI\\MSSqlAPI\\Program.cs",
               "RelativeToolTip": "MSSqlAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T13:21:12.84Z",
               "EditorCaption": ""
