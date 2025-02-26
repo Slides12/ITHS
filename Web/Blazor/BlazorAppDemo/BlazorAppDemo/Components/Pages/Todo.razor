@@ -1,0 +1,93 @@
+﻿@page "/todo"
+@rendermode InteractiveServer
+@inject IPersonInfoService PersonService
+
+
+<h3>Todo</h3>
+
+<EditForm Model="@person" OnValidSubmit="HandleValidSubmit" FormName="PersonInfoForm">
+    <DataAnnotationsValidator />
+
+
+
+    <div>
+        <label>Namn:</label>
+        <InputText @bind-Value="person.Name" class="form-control"></InputText>
+        <ValidationMessage For="@(() => person.Name)"></ValidationMessage>
+    </div>
+
+    <div>
+        <label>Email: </label>
+        <InputText @bind-Value="person.Email" class="form-control"></InputText>
+        <ValidationMessage For="@(() => person.Email)"></ValidationMessage>
+    </div>
+
+    <div>
+        <label>Ålder:</label>
+        <InputNumber @bind-Value="person.Age" class="form-control"></InputNumber>
+        <ValidationMessage For="@(() => person.Age)"></ValidationMessage>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Spara</button>
+
+    @if (!string.IsNullOrEmpty(successMessage))
+    {
+        <div class="alert alert-success">@successMessage</div>
+    }
+
+
+</EditForm>
+
+<ul>
+    @foreach(var pI in persons)
+    {
+        <li>
+            <span>@pI.Name är @pI.Age år gammal. Email: @pI.Email</span>
+        </li>
+    }
+</ul>
+
+@code {
+    PersonInfoEntity person = new PersonInfoEntity(){ Name = string.Empty, Email = string.Empty};
+
+    List<PersonInfoEntity> persons = null;
+
+    protected async override Task OnInitializedAsync()
+    {
+        persons = await PersonService.GetAllPersons();
+    }
+
+
+    private string? successMessage;
+
+    private async Task HandleValidSubmit()
+    {
+        await PersonService.AddPerson(new PersonInfoEntity()
+            {
+            Name = person.Name,
+            Email = person.Email,
+            Age = person.Age
+        });
+        person = new PersonInfoEntity() { Name = string.Empty, Email = string.Empty };
+
+        persons = await PersonService.GetAllPersons();
+
+        successMessage = $"Sparad!";
+        StateHasChanged();
+    }
+
+
+    
+
+
+    // public class PersonInfo
+    // {
+    //     [Required(ErrorMessage = "Namn är obligatoriskt.")]
+    //     public string Name { get; set; }
+    //     [Required(ErrorMessage = "Email är ett måste.")]
+    //     [EmailAddress(ErrorMessage = "Ogiltig email-adress.")]
+    //     public string Email { get; set; }
+    //     [Range(1,100, ErrorMessage = "Ålder måste ligga mellan 1-100.")]
+    //     public int Age { get; set; }
+    // }
+}

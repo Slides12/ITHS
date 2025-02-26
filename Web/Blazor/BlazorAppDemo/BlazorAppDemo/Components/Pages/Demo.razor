@@ -1,0 +1,43 @@
+﻿@page "/demo"
+@rendermode InteractiveServer
+
+<PageTitle>Demo</PageTitle>
+
+
+<h3>Demo</h3>
+
+<ul class="list-group">
+    @foreach(var product in products)
+    {
+        <li class="list-group-item">
+            <span>ProductName: @product.Name</span>
+            <span>Price: @product.Price</span>
+        </li>
+    }
+</ul>
+
+
+
+
+@code {
+    List<product> products = new List<product>();
+
+    protected override async void OnInitialized()
+    {
+        for(int i = 0; i < 10; i++)
+        {
+            products.Add(new product() {
+                 Name = $"Product {i}",
+                 Price = i * 15
+            });
+            StateHasChanged();
+            await Task.Delay(1000);
+        }
+    }
+
+    public class product
+    {
+        public required string Name { get; set; }
+        public int Price { get; set; }
+    }
+}

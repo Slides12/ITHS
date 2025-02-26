@@ -1,0 +1,30 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Greetings</h1>
+<br />
+<h1>@t2.currentCount</h1>
+Welcome to your new app.
+
+<p role="status">Current count: @t2.currentCount</p>
+
+<button class="btn btn-primary" @onclick="t2.IncrementCount">Click me</button>
+
+@code
+{
+    private int test1 = 12;
+    private test t2 = new();
+
+    private class test
+    {
+
+        public int currentCount = 0;
+
+        public void IncrementCount()
+        {
+            currentCount++;
+        }
+    }
+}
