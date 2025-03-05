@@ -1,0 +1,28 @@
+﻿@page "/catfacts"
+@inject HttpClient Http
+<PageTitle>Cat facts</PageTitle>
+
+
+@if(catFact == null)
+{
+    <p>Laddar...</p>
+}
+else
+{
+    <p>@catFact.data[0]</p>
+}
+
+
+@code {
+    private CatFact? catFact;
+
+    protected override async Task OnInitializedAsync()
+    {
+        catFact = await Http.GetFromJsonAsync<CatFact>("http://meowfacts.herokuapp.com/");
+    }
+
+    private class CatFact
+    {
+        public string[] data { get; set; }
+    }
+}

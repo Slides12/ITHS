@@ -1,0 +1,14 @@
+﻿@page "/test"
+@inject IJSRuntime JS
+@rendermode InteractiveWebAssembly
+
+<button @onclick="ShowAlert">Visa Alert</button>
+
+
+@code {
+    private async Task ShowAlert()
+    {
+
+        await JS.InvokeVoidAsync("showAlert", "Hej från Blazor");
+    }
+}
