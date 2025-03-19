@@ -59,6 +59,13 @@
             InvokeAsync(StateHasChanged);
         });
 
+        hubConnection.On<string, string>("UserLeft", (user, message) =>
+       {
+           var encodedMsg = $"User:{user} left the chat.";
+           messages.Add(encodedMsg);
+           InvokeAsync(StateHasChanged);
+       });
+
         await hubConnection.StartAsync();
     }
 
@@ -94,6 +101,7 @@
     {
         if (hubConnection is not null)
         {
+            await hubConnection.SendAsync("OnDisconnectedAsync");
             await hubConnection.DisposeAsync();
         }
     }

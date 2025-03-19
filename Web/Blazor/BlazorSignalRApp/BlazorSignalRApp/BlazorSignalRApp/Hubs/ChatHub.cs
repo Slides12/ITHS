@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.SignalR;
+using System.Collections.Concurrent;
 
 namespace BlazorSignalRApp.Hubs
 {
     public class ChatHub : Hub
     {
-        private static Dictionary<string, string> Users = new Dictionary<string, string>();
+        private static ConcurrentDictionary<string, string> Users = new ConcurrentDictionary<string, string>();
 
         public async Task<bool> RegisterUser(string username)
         {
@@ -58,6 +59,18 @@ namespace BlazorSignalRApp.Hubs
             {
                 await Clients.Caller.SendAsync("ReceiveMessage", "System", $"User {reciever} not found or offline.");
             }
+        }
+
+        public override async Task OnDisconnectedAsync(Exception ex)
+        {
+            var user = Users.FirstOrDefault(u => u.Key == Context.ConnectionId);
+
+            if(!string.IsNullOrEmpty(user.Key))
+            {
+                Users.TryRemove(user.Key, out _);
+                await Clients.All.SendAsync("UserLeft", user.Key);
+            }
+            await base.OnDisconnectedAsync(ex);
         }
 
     }

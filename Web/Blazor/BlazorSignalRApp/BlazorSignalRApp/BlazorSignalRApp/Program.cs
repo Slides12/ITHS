@@ -44,5 +44,7 @@ app.MapRazorComponents<App>()
     .AddAdditionalAssemblies(typeof(BlazorSignalRApp.Client._Imports).Assembly);
 
 app.MapHub<ChatHub>("/chathub");
+app.MapHub<CounterHub>("/counterhub");
+
 
 app.Run();
