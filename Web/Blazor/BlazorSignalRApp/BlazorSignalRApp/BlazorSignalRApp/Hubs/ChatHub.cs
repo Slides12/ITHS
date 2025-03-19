@@ -45,11 +45,14 @@ namespace BlazorSignalRApp.Hubs
 
         public async Task SendPrivateMessage(string reciever, string sender, string message)
         {
-            if (Users.ContainsKey(reciever))
+            if (Users[sender] != Context.ConnectionId)
+            {
+                await Clients.Caller.SendAsync("ReceiveMessage", "System", "You dont have the same connectiond ID as were registered to this user.");
+            }
+            else if(Users.ContainsKey(reciever))
             {
                 await Clients.Client(Users[reciever]).SendAsync("ReceiveMessage", $"Private: {sender}", message);
                 await Clients.Caller.SendAsync("ReceiveMessage", $"Private: {sender}", message);
-
             }
             else
             {
