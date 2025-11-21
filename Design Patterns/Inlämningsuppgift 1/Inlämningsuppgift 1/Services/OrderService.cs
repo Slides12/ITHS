@@ -13,11 +13,11 @@ namespace Inlämningsuppgift_1.Services
             public int UserId { get; set; }
             public DateTime CreatedAt { get; set; }
             public decimal Total { get; set; }
-            public List<object> Items { get; set; } = new List<object>(); 
+            public List<CartItem> Items { get; set; } = new List<CartItem>(); 
         }
 
      
-        public Order CreateOrder(int userId, List<object> items, decimal total)
+        public Order CreateOrder(int userId, List<CartItem> items, decimal total)
         {
             var o = new Order
             {

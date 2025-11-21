@@ -32,6 +32,19 @@ namespace Inlämningsuppgift_1.Repository
             Carts[userId].Remove(product);
         }
 
+        public void UpdateCartItem(int userId, CartItem item)
+        {
+            if (!Carts.TryGetValue(userId, out var list) || item == null)
+                return;
+            var existing = Carts[userId].FirstOrDefault(ci => ci.ProductId == item.ProductId);
+            if (existing != null)
+            {
+                existing.Quantity = item.Quantity;
+                existing.UnitPrice = item.UnitPrice;
+                existing.ProductName = item.ProductName;
+            }
+        }
+
         public Dictionary<int, List<CartItem>> GetAll()
         {
             return Carts;

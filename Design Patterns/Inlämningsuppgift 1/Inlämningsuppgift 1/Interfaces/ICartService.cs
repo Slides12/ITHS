@@ -8,5 +8,6 @@ namespace Inlämningsuppgift_1.Interfaces
         IEnumerable<CartItem> GetCartForUser(int userId);
         void RemoveFromCart(int userId, int productId);
         void ClearCart(int userId);
+        decimal GetCartTotal(int userId);
     }
 }

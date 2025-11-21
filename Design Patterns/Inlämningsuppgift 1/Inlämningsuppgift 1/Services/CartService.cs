@@ -46,7 +46,22 @@ namespace Inlämningsuppgift_1.Services
             var product = _productService.GetById(productId);
 
             if (product == null)
+            {
                 Console.WriteLine("Product not found");
+                return;
+            }
+
+            if(product.Stock < quantity)
+            {
+                Console.WriteLine("Out of stock!");
+                return;
+            }
+
+            if (quantity <= 0)
+            {
+                Console.WriteLine("Invalid quantity");
+                return;
+            }
 
             if (existing == null) _cartRepository.AddCartItem(userId,
                 new CartItem { 
@@ -55,7 +70,23 @@ namespace Inlämningsuppgift_1.Services
                     UnitPrice = product?.Price ?? 0,
                     ProductName = product?.Name ?? "Unknown"
                 });
-            else existing.Quantity += quantity;
+            else
+            {
+                existing.Quantity += quantity;
+                _cartRepository.UpdateCartItem(userId, existing);
+            } 
+        }
+
+        public decimal GetCartTotal(int userId)
+        {
+            var list = _cartRepository.GetById(userId);
+            if (list == null) return 0;
+            decimal total = 0;
+            foreach (var ci in list)
+            {
+                total += ci.UnitPrice * ci.Quantity;
+            }
+            return total;
         }
 
         public IEnumerable<CartItem> GetCartForUser(int userId)
@@ -64,8 +95,11 @@ namespace Inlämningsuppgift_1.Services
             //return Carts[userId];
 
             var list = _cartRepository.GetById(userId);
-            if (list == null) _cartRepository.Create(userId);
-
+            if (list == null)
+            {
+                _cartRepository.Create(userId);
+                list = _cartRepository.GetById(userId);
+            }
             return list;
         }
 
