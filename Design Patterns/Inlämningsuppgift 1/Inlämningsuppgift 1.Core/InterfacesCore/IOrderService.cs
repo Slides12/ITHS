@@ -1,5 +1,4 @@
-﻿using Inlämningsuppgift_1.Services;
-using static Inlämningsuppgift_1.Services.OrderService;
+﻿using Inlämningsuppgift_1.Entities;
 
 namespace Inlämningsuppgift_1.Interfaces
 {

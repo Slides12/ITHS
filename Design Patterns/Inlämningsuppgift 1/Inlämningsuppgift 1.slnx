@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Inlämningsuppgift 1/Inlämningsuppgift 1.csproj" />
+  <Project Path="Inlämningsuppgift 1.Core/Inlämningsuppgift 1.Services.csproj" Id="fec10331-f54c-44d3-96ff-adbbd4d26c71" />
+  <Project Path="Inlämningsuppgift 1.Data/Inlämningsuppgift 1.Repositories.csproj" Id="77306348-3f9b-418d-894f-75ea8a9911ab" />
+  <Project Path="Inlämningsuppgift 1.Tests/Inlämningsuppgift 1.Tests.csproj" Id="3972c33a-40ea-4430-9cad-669033d51089" />
+  <Project Path="Inlämningsuppgift 1/Inlämningsuppgift 1.Api.csproj" />
 </Solution>

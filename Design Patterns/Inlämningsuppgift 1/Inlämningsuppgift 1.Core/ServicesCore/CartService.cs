@@ -1,4 +1,5 @@
-﻿using Inlämningsuppgift_1.Interfaces;
+﻿using Inlämningsuppgift_1.Entities;
+using Inlämningsuppgift_1.Interfaces;
 using Inlämningsuppgift_1.Repository;
 
 namespace Inlämningsuppgift_1.Services
@@ -28,6 +29,7 @@ namespace Inlämningsuppgift_1.Services
         //    public decimal UnitPrice { get; set; }
         //    public string ProductName { get; set; }
         //}
+
 
         public void AddToCart(int userId, int productId, int quantity)
         {

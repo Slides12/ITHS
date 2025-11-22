@@ -1,5 +1,5 @@
-﻿using Inlämningsuppgift_1.Interfaces;
-using Inlämningsuppgift_1.Services;
+﻿using Inlämningsuppgift_1.Entities;
+using Inlämningsuppgift_1.Interfaces;
 
 namespace Inlämningsuppgift_1.Repository
 {

@@ -1,4 +1,4 @@
-﻿using Inlämningsuppgift_1.Services;
+﻿using Inlämningsuppgift_1.Entities;
 
 namespace Inlämningsuppgift_1.Interfaces
 {

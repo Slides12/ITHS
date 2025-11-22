@@ -7,4 +7,8 @@
     <RootNamespace>Inlämningsuppgift_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Inlämningsuppgift 1.Core\Inlämningsuppgift 1.Services.csproj" />
+  </ItemGroup>
+
 </Project>

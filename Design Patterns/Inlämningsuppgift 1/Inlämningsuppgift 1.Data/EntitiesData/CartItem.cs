@@ -1,4 +1,4 @@
-﻿namespace Inlämningsuppgift_1.Services
+﻿namespace Inlämningsuppgift_1.Entities
 {
     public class CartItem
     {
