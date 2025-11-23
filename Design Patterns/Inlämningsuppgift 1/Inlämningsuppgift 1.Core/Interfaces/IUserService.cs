@@ -1,4 +1,4 @@
-﻿using static Inlämningsuppgift_1.Services.UserService;
+﻿using Inlämningsuppgift_1.Services;
 
 namespace Inlämningsuppgift_1.Interfaces
 {

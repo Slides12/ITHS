@@ -11,7 +11,7 @@ namespace Inlämningsuppgift_1.Controllers
         //1
         private readonly IProductService _productService; /*= new ProductService();*/
 
-        public ProductController(ProductService productService)
+        public ProductController(IProductService productService)
         {
             _productService = productService;
         }

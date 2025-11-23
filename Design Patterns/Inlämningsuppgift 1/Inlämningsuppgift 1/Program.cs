@@ -1,3 +1,5 @@
+using Inlämningsuppgift_1.Data.Interfaces;
+using Inlämningsuppgift_1.Data.Repository;
 using Inlämningsuppgift_1.Interfaces;
 using Inlämningsuppgift_1.Repository;
 using Inlämningsuppgift_1.Services;
@@ -14,6 +16,7 @@ builder.Services.AddSingleton<IOrderService, OrderService>();
 builder.Services.AddSingleton<ICartRepository, CartRepository>();
 builder.Services.AddSingleton<IOrderRepository, OrderRepository>();
 builder.Services.AddSingleton<IProductRepository, ProductRepository>();
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
 
 var app = builder.Build();
 

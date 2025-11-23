@@ -57,20 +57,23 @@ namespace Inlämningsuppgift_1.Services
             return results.ToList();
         }
 
+        //4
         public Product Create(string name, decimal price, int stock)
         {
             var products = _productRepository.GetAll();
+            if (products.Any(p => p.Name == name)) return null;
+
             var newId = products.Any() ? products.Max(p => p.Id) + 1 : 1;
             var p = new Product { Id = newId, Name = name, Price = price, Stock = stock };
             _productRepository.Create(p);
             return p;
         }
-
         public bool ChangeStock(int id, int delta)
         {
             var p = GetById(id);
             if (p == null) return false;
             p.Stock += delta;
+            _productRepository.UpdateProduct(p);
             return true;
         }
 
@@ -81,6 +84,7 @@ namespace Inlämningsuppgift_1.Services
             existing.Name = p.Name;
             existing.Price = p.Price;
             existing.Stock = p.Stock;
+            _productRepository.UpdateProduct(p);
         }
     }
 }

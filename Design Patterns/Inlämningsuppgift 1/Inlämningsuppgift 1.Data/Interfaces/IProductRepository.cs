@@ -7,7 +7,6 @@ namespace Inlämningsuppgift_1.Interfaces
         List<Product> GetAll();
         Product? GetById(int id);
         void Create(Product product);
-        bool ChangeStock(int id, int delta);
         void UpdateProduct(Product p);
     }
 }

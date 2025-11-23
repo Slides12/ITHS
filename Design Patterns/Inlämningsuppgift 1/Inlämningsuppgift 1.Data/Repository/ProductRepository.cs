@@ -12,15 +12,6 @@ namespace Inlämningsuppgift_1.Repository
             new Product { Id = 3, Name = "Mug", Price = 6.0m, Stock = 20 }
         };
 
-        public bool ChangeStock(int id, int delta)
-        {
-            var p = GetById(id);
-            if (p == null) return false;
-
-            p.Stock += delta;
-            return true;
-        }
-
         public void Create(Product product)
         {
             Products.Add(product);

@@ -9,7 +9,7 @@ namespace Inlämningsuppgift_1.Repository
 
         public void AddCartItem(int userId, CartItem item)
         {
-            if(userId > 0 || item != null)
+            if(userId > 0 && item != null)
                 Carts[userId].Add(item);
         }
 

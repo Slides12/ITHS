@@ -1,4 +1,5 @@
-﻿using Inlämningsuppgift_1.Services;
+﻿using Inlämningsuppgift_1.Interfaces;
+using Inlämningsuppgift_1.Services;
 using Microsoft.AspNetCore.Mvc;
 using static Inlämningsuppgift_1.Services.UserService;
 
@@ -9,18 +10,27 @@ namespace Inlämningsuppgift_1.Controllers
     
     public class UserController : ControllerBase
     {
-        private readonly UserService _service = new UserService();
-        
-        public class LoginRequest { public string Username { get; set; } = ""; public string Password { get; set; } = ""; }
-        public class RegisterRequest { public string Username { get; set; } = ""; public string Password { get; set; } = ""; public string Email { get; set; } = ""; }
+        //1
+        private readonly IUserService _userService; /*= new UserService();*/
+
+        public UserController(IUserService userService)
+        {
+            _userService = userService;
+        }
+
+        //2
+        //public class LoginRequest { public string Username { get; set; } = ""; public string Password { get; set; } = ""; }
+        //public class RegisterRequest { public string Username { get; set; } = ""; public string Password { get; set; } = ""; public string Email { get; set; } = ""; }
 
         [HttpPost("register")]
         public IActionResult Register([FromBody] RegisterRequest req)
         {
-            if (string.IsNullOrWhiteSpace(req.Username) || string.IsNullOrWhiteSpace(req.Password))
-                return BadRequest("Username and password required.");
+            //if (string.IsNullOrWhiteSpace(req.Username) || string.IsNullOrWhiteSpace(req.Password))
+            //    return BadRequest("Username and password required.");
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
 
-            var created = _service.Register(req.Username, req.Password, req.Email);
+            var created = _userService.Register(req.Username, req.Password, req.Email);
             if (!created) return Conflict("User already exists.");
 
             return Ok(new { Message = "Registered" });
@@ -29,10 +39,12 @@ namespace Inlämningsuppgift_1.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginRequest req)
         {
-            if (string.IsNullOrWhiteSpace(req.Username) || string.IsNullOrWhiteSpace(req.Password))
-                return BadRequest("Missing credentials.");
+            //if (string.IsNullOrWhiteSpace(req.Username) || string.IsNullOrWhiteSpace(req.Password))
+            //    return BadRequest("Missing credentials.");
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
 
-            var token = _service.Login(req.Username, req.Password);
+            var token = _userService.Login(req.Username, req.Password);
             if (token == null) return Unauthorized("Invalid credentials.");
                        
             return Ok(new { Token = token });
@@ -44,7 +56,7 @@ namespace Inlämningsuppgift_1.Controllers
             
             if (string.IsNullOrWhiteSpace(token)) return Unauthorized();
 
-            var profile = _service.GetUserByToken(token);
+            var profile = _userService.GetUserByToken(token);
             if (profile == null) return Unauthorized();
 
             return Ok(new { profile.Username, profile.Email, profile.Id });
