@@ -1,4 +1,5 @@
-﻿using Inlämningsuppgift_1.Entities;
+﻿using Inlämningsuppgift_1.Data.Interfaces;
+using Inlämningsuppgift_1.Entities;
 using Inlämningsuppgift_1.Interfaces;
 
 namespace Inlämningsuppgift_1.Services
@@ -7,11 +8,11 @@ namespace Inlämningsuppgift_1.Services
     {
         //1
         //private static readonly List<Order> Orders = new List<Order>();
-        private readonly IOrderRepository _orderRepository;
+        private readonly IUnitOfWork _context;
 
-        public OrderService(IOrderRepository orderRepository)
+        public OrderService(IUnitOfWork uow)
         {
-            _orderRepository = orderRepository;
+            _context = uow;
         }
 
         private static int _nextId = 1;
@@ -37,13 +38,15 @@ namespace Inlämningsuppgift_1.Services
                 Items = items,
                 Total = total
             };
-            _orderRepository.CreateOrder(o);
+            _context.Orders.CreateOrder(o);
+
+            _context.Carts.ClearCart(userId);
 
             return o;
         }
 
-        public Order? Get(int orderId) => _orderRepository.Get(orderId);
+        public Order? Get(int orderId) => _context.Orders.Get(orderId);
 
-        public IEnumerable<Order> GetForUser(int userId) => _orderRepository.GetForUser(userId);
+        public IEnumerable<Order> GetForUser(int userId) => _context.Orders.GetForUser(userId);
     }
 }

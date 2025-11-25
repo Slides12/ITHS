@@ -1,4 +1,5 @@
-﻿using Inlämningsuppgift_1.Entities;
+﻿using Inlämningsuppgift_1.Data.Interfaces;
+using Inlämningsuppgift_1.Entities;
 using Inlämningsuppgift_1.Interfaces;
 
 namespace Inlämningsuppgift_1.Services
@@ -12,11 +13,11 @@ namespace Inlämningsuppgift_1.Services
         //    new Product { Id = 2, Name = "Notebook", Price = 3.0m, Stock = 50 },
         //    new Product { Id = 3, Name = "Mug", Price = 6.0m, Stock = 20 }
         //};
-        private readonly IProductRepository _productRepository;
+        private readonly IUnitOfWork _context;
 
-        public ProductService(IProductRepository productRepository)
+        public ProductService(IUnitOfWork uow)
         {
-            _productRepository = productRepository;
+            _context = uow;
         }
 
         //3
@@ -28,9 +29,9 @@ namespace Inlämningsuppgift_1.Services
         //    public int Stock { get; set; }
         //}
 
-        public List<Product> GetAll() => /*Products*/ _productRepository.GetAll();
+        public List<Product> GetAll() => /*Products*/ _context.Products.GetAll();
 
-        public Product? GetById(int id) => /*Products.FirstOrDefault(p => p.Id == id)*/ _productRepository.GetById(id);
+        public Product? GetById(int id) => /*Products.FirstOrDefault(p => p.Id == id)*/ _context.Products.GetById(id);
 
         //1
         public List<Product> Search(string? query, decimal? maxPrice)
@@ -40,7 +41,7 @@ namespace Inlämningsuppgift_1.Services
 
             //return Products.Where(p => p.Name.ToLowerInvariant().Contains(q) || p.Price.ToString().Contains(q)).ToList();
 
-            IEnumerable<Product> results = _productRepository.GetAll();
+            IEnumerable<Product> results = _context.Products.GetAll();
 
             if (!string.IsNullOrWhiteSpace(query))
             {
@@ -60,12 +61,12 @@ namespace Inlämningsuppgift_1.Services
         //4
         public Product Create(string name, decimal price, int stock)
         {
-            var products = _productRepository.GetAll();
+            var products = _context.Products.GetAll();
             if (products.Any(p => p.Name == name)) return null;
 
             var newId = products.Any() ? products.Max(p => p.Id) + 1 : 1;
             var p = new Product { Id = newId, Name = name, Price = price, Stock = stock };
-            _productRepository.Create(p);
+            _context.Products.Create(p);
             return p;
         }
         public bool ChangeStock(int id, int delta)
@@ -73,7 +74,7 @@ namespace Inlämningsuppgift_1.Services
             var p = GetById(id);
             if (p == null) return false;
             p.Stock += delta;
-            _productRepository.UpdateProduct(p);
+            _context.Products.UpdateProduct(p);
             return true;
         }
 
@@ -84,7 +85,7 @@ namespace Inlämningsuppgift_1.Services
             existing.Name = p.Name;
             existing.Price = p.Price;
             existing.Stock = p.Stock;
-            _productRepository.UpdateProduct(p);
+            _context.Products.UpdateProduct(p);
         }
     }
 }

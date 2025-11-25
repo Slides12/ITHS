@@ -1,0 +1,20 @@
+services:
+  dockercomposev:
+    build:
+      context: .
+      dockerfile: DockerComposeÖv/Dockerfile
+    container_name: dockercomposev
+    environment:
+      - SERVICEB_URL=http://serviceb:8080
+    depends_on:
+      - serviceb
+    ports:
+      - "5000:8080"
+
+  serviceb:
+    build: ./ServiceB
+    container_name: serviceb
+    ports:
+      - "5001:8080"
+
+

@@ -1,4 +1,5 @@
-﻿using Inlämningsuppgift_1.Entities;
+﻿using Inlämningsuppgift_1.Data.Interfaces;
+using Inlämningsuppgift_1.Entities;
 using Inlämningsuppgift_1.Interfaces;
 using Inlämningsuppgift_1.Repository;
 
@@ -6,20 +7,18 @@ namespace Inlämningsuppgift_1.Services
 {
     public class CartService : ICartService
     {
-      
+
         //3
         //private static readonly Dictionary<int, List<CartItem>> Carts = new Dictionary<int, List<CartItem>>();
-        
-        //1
-        private readonly IProductService _productService;
-        private readonly ICartRepository _cartRepository;
 
-        public CartService(IProductService productService, ICartRepository cartRepository)
+        //1
+        private readonly IUnitOfWork _context;
+
+        public CartService(IUnitOfWork uow)
         {
-            this._productService = productService;
-            this._cartRepository = cartRepository;
+            _context = uow;
         }
-        
+
         //2
 
         //public class CartItem
@@ -36,36 +35,32 @@ namespace Inlämningsuppgift_1.Services
             //if (!Carts.ContainsKey(userId)) Carts[userId] = new List<CartItem>();
             //var list = Carts[userId];
 
-            var list = _cartRepository.GetById(userId);
+            var product = _context.Products.GetById(productId);
+
+            if (product == null)
+                return;
+
+            if (quantity <= 0)
+                return;
+
+            if (product.Stock < quantity)
+                return;
+
+            var list = _context.Carts.GetById(userId);
             if (list == null)
             {
-                _cartRepository.Create(userId);
-                list = _cartRepository.GetById(userId);
+                _context.Carts.Create(userId);
+                list = _context.Carts.GetById(userId);
             }
 
             var existing = list.FirstOrDefault(ci => ci.ProductId == productId);
 
-            var product = _productService.GetById(productId);
-
-            if (product == null)
-            {
-                Console.WriteLine("Product not found");
-                return;
-            }
-
-            if(product.Stock < quantity)
-            {
-                Console.WriteLine("Out of stock!");
-                return;
-            }
-
             if (quantity <= 0)
             {
-                Console.WriteLine("Invalid quantity");
                 return;
             }
 
-            if (existing == null) _cartRepository.AddCartItem(userId,
+            if (existing == null) _context.Carts.AddCartItem(userId,
                 new CartItem { 
                     ProductId = productId, 
                     Quantity = quantity,
@@ -75,13 +70,13 @@ namespace Inlämningsuppgift_1.Services
             else
             {
                 existing.Quantity += quantity;
-                _cartRepository.UpdateCartItem(userId, existing);
+                _context.Carts.UpdateCartItem(userId, existing);
             } 
         }
 
         public decimal GetCartTotal(int userId)
         {
-            var list = _cartRepository.GetById(userId);
+            var list = _context.Carts.GetById(userId);
             if (list == null) return 0;
             decimal total = 0;
             foreach (var ci in list)
@@ -96,11 +91,11 @@ namespace Inlämningsuppgift_1.Services
             //if (!Carts.ContainsKey(userId)) return Enumerable.Empty<CartItem>();
             //return Carts[userId];
 
-            var list = _cartRepository.GetById(userId);
+            var list = _context.Carts.GetById(userId);
             if (list == null)
             {
-                _cartRepository.Create(userId);
-                list = _cartRepository.GetById(userId);
+                _context.Carts.Create(userId);
+                list = _context.Carts.GetById(userId);
             }
             return list;
         }
@@ -110,18 +105,18 @@ namespace Inlämningsuppgift_1.Services
             //if (!Carts.ContainsKey(userId)) return;
             //var list = Carts[userId];
 
-            var list = _cartRepository.GetById(userId);
+            var list = _context.Carts.GetById(userId);
             if (list == null) return;
 
             var existing = list.FirstOrDefault(ci => ci.ProductId == productId);
-            if (existing != null) _cartRepository.DeleteProductInCart(userId, existing);
+            if (existing != null) _context.Carts.DeleteProductInCart(userId, existing);
         }
 
         public void ClearCart(int userId)
         {
             //if (Carts.ContainsKey(userId)) Carts[userId].Clear();
-            if(_cartRepository.GetById(userId) != null)
-                _cartRepository.ClearCart(userId);
+            if(_context.Carts.GetById(userId) != null)
+                _context.Carts.ClearCart(userId);
         }
     }
 }

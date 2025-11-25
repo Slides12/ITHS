@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Inlämningsuppgift 1.Data\Inlämningsuppgift 1.Repositories.csproj" />
+    <ProjectReference Include="..\Inlämningsuppgift 1.Data\Inlämningsuppgift 1.Repository.csproj" />
   </ItemGroup>
 
 </Project>

@@ -16,7 +16,7 @@ namespace Inlämningsuppgift_1.Repository
         public void ClearCart(int userId)
         {
             if (Carts.TryGetValue(userId, out var list))
-                Carts.Remove(userId);
+                list.Clear();
         }
 
         public void Create(int userId)
