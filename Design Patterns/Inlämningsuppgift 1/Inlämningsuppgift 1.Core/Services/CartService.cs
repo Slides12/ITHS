@@ -55,17 +55,13 @@ namespace Inlämningsuppgift_1.Services
 
             var existing = list.FirstOrDefault(ci => ci.ProductId == productId);
 
-            if (quantity <= 0)
-            {
-                return;
-            }
 
             if (existing == null) _context.Carts.AddCartItem(userId,
                 new CartItem { 
                     ProductId = productId, 
                     Quantity = quantity,
                     UnitPrice = product?.Price ?? 0,
-                    ProductName = product?.Name ?? "Unknown"
+                    ProductName = product?.Name ?? "vemVet"
                 });
             else
             {

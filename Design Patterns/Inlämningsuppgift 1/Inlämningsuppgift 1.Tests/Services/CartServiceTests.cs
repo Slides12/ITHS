@@ -8,7 +8,7 @@ namespace Inlämningsuppgift_1.Tests.Services
     public class CartServiceTests
     {
         [Fact]
-        public void AddToCart_AddsNewItem_WhenProductExistsAndSufficientStock()
+        public void AddToCart_AddsNewItemifStockOk()
         {
             // Arrange
             var userRepo = new UserRepository();
@@ -35,7 +35,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void AddToCart_DoesNotAdd_WhenProductNotFound()
+        public void AddToCart_DoesNotAddIfNoProd()
         {
             // Arrange
             var userRepo = new UserRepository();
@@ -57,7 +57,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void AddToCart_DoesNotAdd_WhenInsufficientStock()
+        public void AddToCart_DoesNotAddWhenNoStock()
         {
             // Arrange
             var userRepo = new UserRepository();
@@ -81,7 +81,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void AddToCart_IncrementsQuantity_WhenSameProductAddedTwice()
+        public void AddToCart_IncrementsQuantitySameProduct()
         {
             // Arrange
             var userRepo = new UserRepository();
@@ -108,7 +108,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void GetCartForUser_ReturnsEmptyCart_WhenNotExistsButCreatesEntry()
+        public void GetCartForUser_ReturnsEmptyCart()
         {
             // Arrange
             var userRepo = new UserRepository();

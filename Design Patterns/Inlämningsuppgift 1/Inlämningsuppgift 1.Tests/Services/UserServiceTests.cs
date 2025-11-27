@@ -7,7 +7,7 @@ namespace Inlämningsuppgift_1.Tests.Services
     public class UserServiceTests
     {
         [Fact]
-        public void Register_AddsUser_WhenUsernameNotTaken()
+        public void Register_AddsUseWhenUserNameDisticnt()
         {
             // Arrange
             var mockRepo = new Mock<IUnitOfWork>();
@@ -24,7 +24,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void Register_ReturnsFalse_WhenUsernameAlreadyExists()
+        public void Register_ReturnsFalseIfUserExist()
         {
             // Arrange
 
@@ -43,7 +43,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void Login_ReturnsTokenAndSaves_WhenCredentialsValid()
+        public void Login_ReturnsTokenAndSavesWhenValid()
         {
             // Arrange
             var user = new User { Id = 2, Username = "bob", Password = "pwd", Email = "b@e" };
@@ -62,7 +62,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void Login_ReturnsNull_WhenInvalidCredentials()
+        public void Login_ReturnsNullIfNotValid()
         {
             // Arrange
             var mockRepo = new Mock<IUnitOfWork>();
@@ -79,7 +79,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void GetUserByToken_DelegatesToRepository()
+        public void GetUserByToken()
         {
             // Arrange
             var user = new User { Id = 3, Username = "u", Email = "u@e" };

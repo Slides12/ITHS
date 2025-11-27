@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="rabbitmq-test/rabbitmq-test.csproj" />
+  <Project Path="rabbitmqRecieve/rabbitmqRecieve.csproj" />
+</Solution>

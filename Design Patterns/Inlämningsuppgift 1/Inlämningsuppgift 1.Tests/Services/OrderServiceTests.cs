@@ -9,6 +9,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         [Fact]
         public void CreateOrder_ReturnsOrder()
         {
+            // Arrange
             var fakeOrders = new FakeOrderRepository();
             var fakeCarts = new FakeCartRepository();
             var uow = new StubUnitOfWork(fakeOrders, fakeCarts);
@@ -20,8 +21,10 @@ namespace Inlämningsuppgift_1.Tests.Services
                 new CartItem { ProductId = 1, Quantity = 2, UnitPrice = 5m }
             };
 
+            // Act
             var order = service.CreateOrder(3, items, 10m);
 
+            // Assert
             Assert.NotNull(order);
             Assert.Equal(3, order.UserId);
             Assert.Equal(10m, order.Total);
@@ -36,6 +39,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         [Fact]
         public void Get_ReturnsOrder()
         {
+            // Arrange
             var expected = new Order { Id = 5, UserId = 9 };
 
             var stubOrders = new StubOrderRepository { OrderToReturn = expected };
@@ -43,14 +47,17 @@ namespace Inlämningsuppgift_1.Tests.Services
 
             var service = new OrderService(uow);
 
+            // Act
             var result = service.Get(5);
 
+            // Assert
             Assert.Equal(expected, result);
         }
 
         [Fact]
         public void GetForUser_ReturnsCorrectOrders()
         {
+            // Arrange
             var data = new List<Order>
             {
                 new Order { Id = 1, UserId = 2 },
@@ -62,8 +69,10 @@ namespace Inlämningsuppgift_1.Tests.Services
 
             var service = new OrderService(uow);
 
+            // Act
             var result = service.GetForUser(2);
 
+            // Assert
             Assert.Equal(2, ((List<Order>)result).Count);
         }
     }

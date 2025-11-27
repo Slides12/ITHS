@@ -29,7 +29,7 @@ namespace Inlämningsuppgift_1.Tests.Services
         }
 
         [Fact]
-        public void GetById_ReturnsNull_WhenNotFound()
+        public void GetById_ReturnsNullIfNull()
         {
             // Arrange
             var userRepo = new UserRepository();
@@ -51,7 +51,7 @@ namespace Inlämningsuppgift_1.Tests.Services
 
 
         [Fact]
-        public void ChangeStock_UpdatesStock_WhenProductExists()
+        public void ChangeStock_UpdatesStockWhenExist()
         {
             // Arrange
             var userRepo = new UserRepository();

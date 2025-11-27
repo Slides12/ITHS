@@ -46,9 +46,7 @@ namespace Inlämningsuppgift_1.Services
             if (!string.IsNullOrWhiteSpace(query))
             {
                 var q = query!.ToLowerInvariant();
-                results = results.Where(p =>
-                    p.Name.ToLowerInvariant().Contains(q) ||
-                    p.Price.ToString().Contains(q)
+                results = results.Where(p => p.Name.ToLowerInvariant().Contains(q) || p.Price.ToString().Contains(q)
                 );
             }
 

@@ -1,3 +1,4 @@
+using Inlämningsuppgift_1;
 using Inlämningsuppgift_1.Data.Data;
 using Inlämningsuppgift_1.Data.Interfaces;
 using Inlämningsuppgift_1.Data.Repository;
@@ -9,17 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddSingleton<ICartService, CartService>();
-builder.Services.AddSingleton<IUserService, UserService>();
-builder.Services.AddSingleton<IProductService, ProductService>();
-builder.Services.AddSingleton<IOrderService, OrderService>();
+builder.Services.AddServices();
 
-builder.Services.AddSingleton<ICartRepository, CartRepository>();
-builder.Services.AddSingleton<IOrderRepository, OrderRepository>();
-builder.Services.AddSingleton<IProductRepository, ProductRepository>();
-builder.Services.AddSingleton<IUserRepository, UserRepository>();
 
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddSingleton<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 
