@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DemoArkitektur/TopShop.Api.csproj" />
+  <Project Path="TopShop.Core/TopShop.Core.csproj" />
+  <Project Path="TopShop.Domain/TopShop.Domain.csproj" />
+  <Project Path="TopShop.Infrastructure/TopShop.Infrastructure.csproj" />
+</Solution>

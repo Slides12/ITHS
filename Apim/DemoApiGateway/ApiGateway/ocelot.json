@@ -10,7 +10,8 @@
         }
       ],
       "UpstreamPathTemplate": "/gateway/hello1",
-      "UpstreamHttpMethod": [ "GET" ]
+      "UpstreamHttpMethod": [ "GET" ],
+      "SwaggerKey": "1"
     },
     {
       "DownstreamPathTemplate": "/api/hello2",
@@ -22,8 +23,35 @@
         }
       ],
       "UpstreamPathTemplate": "/gateway/hello2",
-      "UpstreamHttpMethod": [ "GET" ]
+      "UpstreamHttpMethod": [ "GET" ],
+      "SwaggerKey": "2"
     }
   ],
-  "GlobalConfiguration": {}
+
+  "SwaggerEndPoints": [
+    {
+      "Key": "1",
+      "Config": [
+        {
+          "Name": "API Client",
+          "Version": "v1",
+          "Url": "http://localhost:5001/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "2",
+      "Config": [
+        {
+          "Name": "API Manager",
+          "Version": "v1",
+          "Url": "http://localhost:5002/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ],
+
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+  }
 }

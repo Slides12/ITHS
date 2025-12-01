@@ -1,8 +1,11 @@
+using Microsoft.AspNetCore.Builder;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddControllers();
 
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
@@ -12,5 +15,7 @@ app.UseEndpoints(endpoints =>
     endpoints.MapControllers();
 });
 
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.Run();
